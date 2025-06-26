@@ -1,0 +1,27 @@
+{
+    "demos": [
+      {
+        "id": "creative",
+        "name": "Creative Portfolio",
+        "description": "Perfect for creative professionals and artists.",
+        "image": "https://minimalio.sirv.com/Images/alex-minimalio-1.webp",
+        "preview_url": "https://demo1.minimalio.com",
+        "content_url": "https://raw.githubusercontent.com/minimalio/demos/main/creative/content.xml",
+        "settings_url": "https://raw.githubusercontent.com/minimalio/demos/main/creative/settings.json",
+        "version": "1.0",
+        "category": "portfolio"
+      },
+      {
+        "id": "business",
+        "name": "Business Portfolio",
+        "description": "Ideal for businesses and professional services.",
+        "image": "https://minimalio.sirv.com/Images/demo-2.webp",
+        "preview_url": "https://demo2.minimalio.com",
+        "content_url": "https://raw.githubusercontent.com/minimalio/demos/main/business/content.xml",
+        "settings_url": "https://raw.githubusercontent.com/minimalio/demos/main/business/settings.json",
+        "version": "1.0",
+        "category": "business"
+      }
+    ],
+    "last_updated": "2025-06-26T10:00:00Z"
+  }
