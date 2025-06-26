@@ -1,0 +1,105 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.0",
+        "export_date": "2025-06-26 12:26:11",
+        "site_url": "https://caroline.minimalio.org",
+        "format_version": "1.0"
+    },
+    "theme_mods": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "minimalio_settings_header_container_type": "container",
+        "custom_css_post_id": 213,
+        "minimalio_settings_container_width": 1440,
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_typography_settings_google_font": "Roboto",
+        "minimalio_typography_settings_google_font_wight": 300,
+        "minimalio_settings_link_color": "#006eff",
+        "minimalio_settings_header_color": "#0a0a0a",
+        "minimalio_settings_header_color_hover": "#006eff",
+        "minimalio_settings_link_decoration": "underline",
+        "minimalio_settings_menu_google_font_size": 26,
+        "minimalio_settings_copyright": "Demo from Minimalio",
+        "minimalio_settings_developer": "\u00a9 2024",
+        "minimalio_settings_portfolio_pagination": "load_scroll",
+        "minimalio_settings_portfolio_gap": "gap_2",
+        "minimalio_settings_portfolio_hover_color": "#006eff",
+        "minimalio_settings_mobile_font_size": 24
+    },
+    "custom_css": "/* header */\n\n.header {\n\tpadding-bottom:0;\n}\n\n/* portfolio filters */\n\n.posts-ajax__row {\n  justify-content: flex-end; \n}\n\n/* footer */\n\n@media screen and (max-width:782px) {\n.footer-widget p, .footer-widget h4 {\n\ttext-align:center!important;\n}\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "7": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Caroline Doe</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p class=\"has-text-align-left\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "_multiwidget": 1
+            }
+        }
+    }
+}
