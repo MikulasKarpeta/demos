@@ -1,28 +1,140 @@
 {
     "demos": [
       {
-        "id": "creative",
-        "name": "Creative Portfolio",
-        "image": "https://minimalio.sirv.com/Images/alex-minimalio-1.webp",
-        "preview_url": "https://demo1.minimalio.com",
-        "content_url": "https://raw.githubusercontent.com/minimalio/demos/main/creative/content.xml",
-        "settings_url": "https://raw.githubusercontent.com/minimalio/demos/main/creative/settings.json"
-      },
-      {
-        "id": "business",
-        "name": "Business Portfolio",
-        "image": "https://minimalio.sirv.com/Images/demo-2.webp",
-        "preview_url": "https://demo2.minimalio.com",
-        "content_url": "https://raw.githubusercontent.com/minimalio/demos/main/business/content.xml",
-        "settings_url": "https://raw.githubusercontent.com/minimalio/demos/main/business/settings.json"
-      },
-      {
         "id": "john",
         "name": "John",
         "image": "https://minimalio.sirv.com/Images/john-minimalio.webp",
         "preview_url": "https://john.minimalio.org",
         "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/john-wp-content.xml",
         "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/john-theme-settings.json"
+      },
+      {
+        "id": "jane",
+        "name": "Jane",
+        "image": "https://minimalio.sirv.com/Images/jane-minimalio.webp",
+        "preview_url": "https://jane.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/jane-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/jane-theme-settings.json"
+      },
+      {
+        "id": "caroline",
+        "name": "Caroline",
+        "image": "https://minimalio.sirv.com/Images/caroline-minimalio.webp",
+        "preview_url": "https://caroline.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/caroline-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/caroline-theme-settings.json"
+      },
+      {
+        "id": "stefan",
+        "name": "Stefan",
+        "image": "https://minimalio.sirv.com/Images/stefan-minimalio.webp",
+        "preview_url": "https://stefan.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/stefan-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/stefan-theme-settings.json"
+      },
+      {
+        "id": "alex",
+        "name": "Alex",
+        "image": "https://minimalio.sirv.com/Images/alex-minimalio.webp",
+        "preview_url": "https://alex.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/alex-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/alex-theme-settings.json"
+      },
+      {
+        "id": "george",
+        "name": "George",
+        "image": "https://minimalio.sirv.com/Images/george-minimalio.webp",
+        "preview_url": "https://george.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/george-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/george-theme-settings.json"
+      },
+      {
+        "id": "teresa",
+        "name": "Teresa",
+        "image": "https://minimalio.sirv.com/Images/teresa-minimalio.webp",
+        "preview_url": "https://teresa.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/teresa-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/teresa-theme-settings.json"
+      },
+      {
+        "id": "sofia",
+        "name": "Sofia",
+        "image": "https://minimalio.sirv.com/Images/sofia-minimalio.webp",
+        "preview_url": "https://sofia.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/sofia-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/sofia-theme-settings.json"
+      },
+      {
+        "id": "samuel",
+        "name": "Samuel",
+        "image": "https://minimalio.sirv.com/Images/samuel-minimalio.webp",
+        "preview_url": "https://samuel.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/samuel-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/samuel-theme-settings.json"
+      },
+      {
+        "id": "richard",
+        "name": "Richard",
+        "image": "https://minimalio.sirv.com/Images/richard-minimalio.webp",
+        "preview_url": "https://richard.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/richard-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/richard-theme-settings.json"
+      },
+      {
+        "id": "nicole",
+        "name": "Nicole",
+        "image": "https://minimalio.sirv.com/Images/nicole-minimalio.webp",
+        "preview_url": "https://nicole.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/nicole-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/nicole-theme-settings.json"
+      },
+      {
+        "id": "mark",
+        "name": "Mark",
+        "image": "https://minimalio.sirv.com/Images/mark-minimalio.webp",
+        "preview_url": "https://mark.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/mark-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/mark-theme-settings.json"
+      },
+      {
+        "id": "francis",
+        "name": "Francis",
+        "image": "https://minimalio.sirv.com/Images/francis-minimalio.webp",
+        "preview_url": "https://francis.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/francis-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/francis-theme-settings.json"
+      },
+      {
+        "id": "jimmy",
+        "name": "Jimmy",
+        "image": "https://minimalio.sirv.com/Images/jimmy-minimalio.webp",
+        "preview_url": "https://jimmy.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/jimmy-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/jimmy-theme-settings.json"
+      },
+      {
+        "id": "lucy",
+        "name": "Lucy",
+        "image": "https://minimalio.sirv.com/Images/lucy-minimalio.webp",
+        "preview_url": "https://lucy.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/lucy-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/lucy-theme-settings.json"
+      },
+      {
+        "id": "alfred",
+        "name": "Alfred",
+        "image": "https://minimalio.sirv.com/Images/alfred-minimalio.webp",
+        "preview_url": "https://alfred.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/alfred-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/alfred-theme-settings.json"
+      },
+      {
+        "id": "tony",
+        "name": "Tony",
+        "image": "https://minimalio.sirv.com/Images/tony-minimalio.webp",
+        "preview_url": "https://tony.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/tony-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/tony-theme-settings.json"
       }
     ],
     "last_updated": "2025-06-26T10:00:00Z"
