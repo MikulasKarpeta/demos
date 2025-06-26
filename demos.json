@@ -21,6 +21,14 @@
         "settings_url": "https://raw.githubusercontent.com/minimalio/demos/main/business/settings.json",
         "version": "1.0",
         "category": "business"
+      },
+      {
+        "id": "john",
+        "name": "John",
+        "image": "https://minimalio.sirv.com/Images/john-minimalio.webp",
+        "preview_url": "https://john.minimalio.org",
+        "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/john-wp-content.xml",
+        "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/refs/heads/main/john-theme-settings.json"
       }
     ],
     "last_updated": "2025-06-26T10:00:00Z"
