@@ -7,7 +7,7 @@
       "url": "https://minimalio.org/tutorials/portfolio-website-from-start-to-finish/",
       "image": "https://minimalio.sirv.com/Images/portfolio-website.webp",
       "category": "beginners",
-      "videoUrl": null
+      "videoUrl": "UoLA0Wh8JMI"
     },
     {
       "id": "gutenberg-editor-for-beginners",
@@ -33,7 +33,7 @@
       "description": "A tutorial about configuring a blog page in the Minimalio WordPress theme, covering various settings like sidebar positioning, category filtering, post display options, and single post configurations. Explains how to create a blog page and customize blog settings in Theme Settings.",
       "url": "https://minimalio.org/tutorials/setting-up-the-blog-page/",
       "image": "https://minimalio.sirv.com/Images/blog-page.webp",
-      "category": "theme options",
+      "category": "content",
       "videoUrl": "XNO2A5ENilQ"
     },
     {
@@ -60,7 +60,7 @@
       "description": "A tutorial explaining how to make simple design modifications to a website using CSS, focusing on finding element classes and applying custom styles. Teaches how to find HTML element classes using browser Developer Tools and apply custom CSS in theme options.",
       "url": "https://minimalio.org/tutorials/small-design-changes-with-custom-css/",
       "image": "https://minimalio.sirv.com/Images/custom-css.webp",
-      "category": "beginners",
+      "category": "theme options",
       "videoUrl": "iHiJ8q2iSeY"
     },
     {
@@ -141,7 +141,7 @@
       "description": "A tutorial video explaining the technical details of a website demo, focusing on layout, responsiveness, and CSS customization for a portfolio website. Discusses website layout challenges, explains use of custom CSS for responsive design, and recommends using Yoast Duplicate Post plugin to replicate the demo.",
       "url": "https://minimalio.org/tutorials/francis-demo/",
       "image": "https://minimalio.sirv.com/Images/francis.webp",
-      "category": "content",
+      "category": "demos",
       "videoUrl": "m96UIMylJW0"
     },
     {

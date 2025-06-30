@@ -1,0 +1,142 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.0",
+        "export_date": "2025-06-26 13:38:49",
+        "site_url": "https://alex.minimalio.org",
+        "format_version": "1.0"
+    },
+    "theme_mods": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 4
+        },
+        "minimalio_settings_header_container_type": "container-fluid",
+        "custom_css_post_id": 302,
+        "minimalio_settings_container_type": "container-fluid",
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_typography_settings_google_font": "Quattrocento",
+        "minimalio_settings_font_color": "#0a0a0a",
+        "minimalio_settings_transparent": "yes",
+        "minimalio_settings_footer_container": "container-fluid",
+        "minimalio_settings_copyright": "Demo from Minimalio",
+        "minimalio_settings_developer": "\u00a9 2024",
+        "minimalio_settings_archive_template_filter_enable": "no",
+        "minimalio_settings_blog_columns": 3,
+        "minimalio_settings_blog_pagination": "no",
+        "minimalio_settings_blog_post_card_image_aspect_ratio": "9-16",
+        "minimalio_settings_blog_post_card": "style_3",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_portfolio_columns": 3,
+        "minimalio_settings_post_card_image_aspect_ratio": "9-16",
+        "minimalio_settings_mobile_font_size": 22,
+        "minimalio_settings_header_color": "#ffffff",
+        "minimalio_typography_settings_google_font_wight": 400,
+        "minimalio_settings_mobile_menu_icon_colour": "#ffffff",
+        "minimalio_gallery_bg_color_settings": "#ffffff",
+        "minimalio_ligtbox_icon_color_settings": ""
+    },
+    "custom_css": "/* site padding */\n  .container, .container-fluid {\n    padding: 1rem!important;\n  }\n\n/* header */\n\n.header {\n\tpadding: 1.5rem 2rem !important;\n}\n\n.single-post .header * {\n\tcolor:black!important;\n}\n\n\n/* portfolio postcard */\n\n.post-card__body {\n\tposition: absolute;\n  bottom: 2rem;\n  left: 2rem;\n\tcolor:white;\n\tz-index:10;\n}\n\n.post-card__heading {\n\tfont-size:22px;\n}\t\n.post-card__image {\n\tmargin:0;\n}\n\n.post-card__overlay {\n\tdisplay:block;\n\topacity:0.3;\n}\n\n.post-card:hover .post-card__overlay{\n  opacity:0;\n\ttransition:all 0.5s;\n}\n\n/* blog post card */\n\n.blog-post-card-3 .post-card__heading {\n\tfont-size:1.5rem;\n}\n\n/* single post, about page */\n\n\t.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer  {\n\tpadding:0 2rem!important;\n}\n\n.page-template-default .header *, .single-post .header * {\n\tcolor:black!important;\n}\n\n.page-template-default .content-area, .single-post .content-area {\n\tmargin-top:6rem;\n}\n\n/* media */\n\n@media screen and (max-width:600px) {\n\t.header {\n\tpadding: 0.5rem 1rem !important;\n}\n\t\n\t.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer {\n\tpadding:0 1rem!important;\n}\n\t\n\t.post-card__body {\n  bottom: 1.5rem;\n  left: 1rem;\n}\n\t\n.post-card__heading {\n\tfont-size:16px;\n}\t\n}\n\n\n@media screen and (max-width:781px) {\n\t.footer-widget h5, .footer-widget h4 {\n\ttext-align:center!important;\n}\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [
+                "block-2",
+                "block-3",
+                "block-4"
+            ],
+            "left-sidebar": [
+                "block-5",
+                "block-6"
+            ],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-8",
+                "block-9",
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:search /-->"
+                },
+                "3": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+                },
+                "4": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+                },
+                "5": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+                },
+                "6": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+                },
+                "7": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Alex Doe</h4>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"right\",\"level\":5} -->\n<h5 class=\"wp-block-heading has-text-align-right\"><a href=\"http://www.instagram.com\">instagram</a></h5>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"textAlign\":\"right\",\"level\":5} -->\n<h5 class=\"wp-block-heading has-text-align-right\"><a href=\"mailto:email@email.com\">email@email.com</a></h5>\n<!-- /wp:heading -->\n\n<!-- wp:heading {\"textAlign\":\"right\",\"level\":5} -->\n<h5 class=\"wp-block-heading has-text-align-right\">+420 798 798 798</h5>\n<!-- /wp:heading --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "8": {
+                    "content": "<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator -->"
+                },
+                "9": {
+                    "content": "<!-- wp:spacer {\"height\":\"2rem\"} -->\n<div style=\"height:2rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "_multiwidget": 1
+            }
+        }
+    }
+}
