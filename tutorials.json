@@ -19,6 +19,24 @@
       "videoUrl": "pyraa-yGCvQ"
     },
     {
+      "id": "setting-up-the-portfolio-page",
+      "name": "Setting up the Portfolio Page",
+      "description": "A tutorial for creating a portfolio page in WordPress using the Minimalio theme, covering page creation, customizer options, portfolio display settings, and configuration details. Explains how to create a new page with Portfolio Template and customize portfolio settings including filtering, load more functionality, and display options.",
+      "url": "https://minimalio.org/tutorials/setting-up-the-portfolio-page/",
+      "image": "https://minimalio.sirv.com/Images/portfolio-page.webp",
+      "category": "content",
+      "videoUrl": "hwYMI_RwgVQ"
+    },
+    {
+      "id": "creating-a-single-portfolio",
+      "name": "Creating a Single Portfolio",
+      "description": "A tutorial about creating individual portfolio pages in WordPress, specifically for the Minimalio theme/plugin. Covers steps to create a portfolio item in WordPress, including guidance on setting title, featured image, categories, and explains customizer options for portfolio pages.",
+      "url": "https://minimalio.org/tutorials/creating-a-single-portfolio/",
+      "image": "https://minimalio.sirv.com/Images/single-portfolio.webp",
+      "category": "content",
+      "videoUrl": "UJaOUgmTwzs"
+    },
+    {
       "id": "setting-google-title-and-description-seo-in-wordpress",
       "name": "Setting Google Title and Description (SEO) in WordPress",
       "description": "A tutorial about configuring how your website appears in Google search results, specifically focusing on setting the title and description using the Rank Math SEO plugin in WordPress. Covers controlling search result appearance, recommends keeping description around 150-160 characters.",
@@ -109,15 +127,6 @@
       "videoUrl": "c6jehMC8V_U"
     },
     {
-      "id": "creating-a-single-portfolio",
-      "name": "Creating a Single Portfolio",
-      "description": "A tutorial about creating individual portfolio pages in WordPress, specifically for the Minimalio theme/plugin. Covers steps to create a portfolio item in WordPress, including guidance on setting title, featured image, categories, and explains customizer options for portfolio pages.",
-      "url": "https://minimalio.org/tutorials/creating-a-single-portfolio/",
-      "image": "https://minimalio.sirv.com/Images/single-portfolio.webp",
-      "category": "content",
-      "videoUrl": "UJaOUgmTwzs"
-    },
-    {
       "id": "adding-a-gallery-in-gutenberg",
       "name": "Adding a Gallery in Gutenberg",
       "description": "A tutorial about adding image galleries in WordPress Gutenberg editor, with options for using default WordPress gallery or Minimalio Gallery plugin. Covers gallery features like Grid or Masonry layout options, configurable column counts, adjustable image spacing, hover effects, and automatic lightbox functionality.",
@@ -125,15 +134,6 @@
       "image": "https://minimalio.sirv.com/Images/gallery.webp",
       "category": "content",
       "videoUrl": "Mo67VrU1lOs"
-    },
-    {
-      "id": "setting-up-the-portfolio-page",
-      "name": "Setting up the Portfolio Page",
-      "description": "A tutorial for creating a portfolio page in WordPress using the Minimalio theme, covering page creation, customizer options, portfolio display settings, and configuration details. Explains how to create a new page with Portfolio Template and customize portfolio settings including filtering, load more functionality, and display options.",
-      "url": "https://minimalio.org/tutorials/setting-up-the-portfolio-page/",
-      "image": "https://minimalio.sirv.com/Images/portfolio-page.webp",
-      "category": "content",
-      "videoUrl": "hwYMI_RwgVQ"
     },
     {
       "id": "francis-demo",
