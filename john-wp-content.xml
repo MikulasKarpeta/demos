@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.1" created="2025-06-25 14:32" -->
+	
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,28 +26,28 @@
 >
 
 <channel>
-	<title>Eadweard Muybridge</title>
-	<link>http://localhost:8888/demosfinal/eadweard</link>
-	<description></description>
-	<pubDate>Wed, 25 Jun 2025 14:32:27 +0000</pubDate>
+	<title>John Doe</title>
+	<link>https://john.mikimalio.com</link>
+	<description>Photographer</description>
+	<pubDate>Mon, 30 Jun 2025 14:18:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost:8888/demosfinal/eadweard</wp:base_site_url>
-	<wp:base_blog_url>http://localhost:8888/demosfinal/eadweard</wp:base_blog_url>
+	<wp:base_site_url>https://john.mikimalio.com</wp:base_site_url>
+	<wp:base_blog_url>https://john.mikimalio.com</wp:base_blog_url>
 
-		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[Minimalio]]></wp:author_login><wp:author_email><![CDATA[minimalio@minimalio.org]]></wp:author_email><wp:author_display_name><![CDATA[Minimalio]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Miki]]></wp:author_login><wp:author_email><![CDATA[mikulaskarpeta@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Miki]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
-		<wp:term_id>7</wp:term_id>
-		<wp:category_nicename><![CDATA[animals]]></wp:category_nicename>
+		<wp:term_id>5</wp:term_id>
+		<wp:category_nicename><![CDATA[imagination]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Animals]]></wp:cat_name>
+		<wp:cat_name><![CDATA[imagination]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>8</wp:term_id>
-		<wp:category_nicename><![CDATA[people]]></wp:category_nicename>
+		<wp:term_id>4</wp:term_id>
+		<wp:category_nicename><![CDATA[my-trips]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[People]]></wp:cat_name>
+		<wp:cat_name><![CDATA[my trips]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
@@ -55,722 +55,69 @@
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-				<wp:term>
-		<wp:term_id>4</wp:term_id>
-		<wp:term_taxonomy><![CDATA[portfolio-categories]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[animals]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Animals]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>6</wp:term_id>
-		<wp:term_taxonomy><![CDATA[portfolio-categories]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[people]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[People]]></wp:term_name>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>5</wp:term_id>
-		<wp:term_taxonomy><![CDATA[portfolio-categories]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[situations]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[Situations]]></wp:term_name>
-	</wp:term>
-			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[main-menu]]></wp:term_name>
+					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.8.1</generator>
+	
+
+<image>
+	<url>https://john.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon-32x32.webp</url>
+	<title>John Doe</title>
+	<link>https://john.mikimalio.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 
 		<item>
-		<title><![CDATA[plate_number_760._cockatoo_flying_2014.79.685]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-126/plate_number_760-_cockatoo_flying_2014-79-685/</link>
-		<pubDate>Thu, 15 May 2025 11:21:26 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_760._cockatoo_flying_2014.79.685.webp</guid>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://john.mikimalio.com/wp-global-styles-wince-child/</link>
+		<pubDate>Thu, 28 Sep 2023 10:22:00 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-1/2023/09/28/wp-global-styles-wince-child/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>42</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 11:21:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 11:21:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-15 11:21:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-15 11:21:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_760-_cockatoo_flying_2014-79-685]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>12</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_760._cockatoo_flying_2014.79.685.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_760._cockatoo_flying_2014.79.685.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:684;s:4:"file";s:58:"2025/05/plate_number_760._cockatoo_flying_2014.79.685.webp";s:8:"filesize";i:91606;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:58:"plate_number_760._cockatoo_flying_2014.79.685-300x205.webp";s:5:"width";i:300;s:6:"height";i:205;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7444;}s:9:"thumbnail";a:5:{s:4:"file";s:58:"plate_number_760._cockatoo_flying_2014.79.685-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2976;}s:12:"medium_large";a:5:{s:4:"file";s:58:"plate_number_760._cockatoo_flying_2014.79.685-768x525.webp";s:5:"width";i:768;s:6:"height";i:525;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:35304;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Generated by IIPImage]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-126/generated-by-iipimage-2/</link>
-		<pubDate>Thu, 15 May 2025 11:36:35 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_126._descending_stairs_2014.79.175.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Generated by IIPImage]]></excerpt:encoded>
-		<wp:post_id>47</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 11:36:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 11:36:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-15 11:36:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-15 11:36:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[generated-by-iipimage-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>12</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_126._descending_stairs_2014.79.175.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_126._descending_stairs_2014.79.175.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2214;s:6:"height";i:2214;s:4:"file";s:59:"2025/05/plate_number_126._descending_stairs_2014.79.175.jpg";s:8:"filesize";i:974581;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:59:"plate_number_126._descending_stairs_2014.79.175-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20531;}s:5:"large";a:5:{s:4:"file";s:61:"plate_number_126._descending_stairs_2014.79.175-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:187675;}s:9:"thumbnail";a:5:{s:4:"file";s:59:"plate_number_126._descending_stairs_2014.79.175-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6035;}s:12:"medium_large";a:5:{s:4:"file";s:59:"plate_number_126._descending_stairs_2014.79.175-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115072;}s:9:"1536x1536";a:5:{s:4:"file";s:61:"plate_number_126._descending_stairs_2014.79.175-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:364858;}s:9:"2048x2048";a:5:{s:4:"file";s:61:"plate_number_126._descending_stairs_2014.79.175-2048x2048.jpg";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:576109;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:21:"Generated by IIPImage";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:21:"Generated by IIPImage";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[minimalio]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/minimalio/</link>
-		<pubDate>Thu, 15 May 2025 14:35:46 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/2025/05/15/minimalio/</guid>
-		<description></description>
-		<content:encoded><![CDATA[.vertical .menu-main-container {margin-top: 10rem!important}
-
-.posts-ajax__categories-wrapper, .posts__categories-wrapper {
-	margin-top:1rem;
-}
-
-.posts-ajax__categories-wrapper span, .posts__categories-wrapper span {
-	font-size:16px;
-}
-
-body {
-	margin-top:1rem;
-}
-
-.header__brand {
-	font-family:Baskervville;
-	font-weight:100;
-}
-
-
-@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
-
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>68</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 14:35:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 14:35:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-20 10:50:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-20 10:50:51]]></wp:post_modified_gmt>
+		<wp:post_id>46</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-28 10:22:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 10:22:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-28 10:22:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-28 10:22:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[minimalio]]></wp:post_name>
+		<wp:post_name><![CDATA[wp-global-styles-wince-child]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_209-_stooping_and_lifting_a_handkerchief_2014-79-251-2/</link>
-		<pubDate>Fri, 16 May 2025 12:26:49 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>88</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:26:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:26:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:26:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:26:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_209-_stooping_and_lifting_a_handkerchief_2014-79-251-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1.webp]]></wp:meta_value>
+										<category domain="wp_theme" nicename="wince-child"><![CDATA[wince-child]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:80:"2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1.webp";s:8:"filesize";i:24984;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:80:"plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12060;}s:9:"thumbnail";a:5:{s:4:"file";s:80:"plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4078;}s:12:"medium_large";a:5:{s:4:"file";s:80:"plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-1-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41556;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[plate_number_729._tigress_walking_2014.79.655]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_729-_tigress_walking_2014-79-655-2/</link>
-		<pubDate>Fri, 16 May 2025 12:26:56 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_729._tigress_walking_2014.79.655-1.webp</guid>
+		<title><![CDATA[Portfolio]]></title>
+		<link>https://john.mikimalio.com/</link>
+		<pubDate>Thu, 28 Sep 2023 10:32:49 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-1/?page_id=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>93</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:26:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:26:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:26:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:26:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_729-_tigress_walking_2014-79-655-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_729._tigress_walking_2014.79.655-1.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_729._tigress_walking_2014.79.655-1.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:60:"2025/05/plate_number_729._tigress_walking_2014.79.655-1.webp";s:8:"filesize";i:33832;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:60:"plate_number_729._tigress_walking_2014.79.655-1-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16668;}s:9:"thumbnail";a:5:{s:4:"file";s:60:"plate_number_729._tigress_walking_2014.79.655-1-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5938;}s:12:"medium_large";a:5:{s:4:"file";s:60:"plate_number_729._tigress_walking_2014.79.655-1-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:53692;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_775.__adjutant_flying_run_2014.79.698]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_775-__adjutant_flying_run_2014-79-698-2/</link>
-		<pubDate>Fri, 16 May 2025 12:27:02 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-1.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>97</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:27:02]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:27:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:27:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:27:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_775-__adjutant_flying_run_2014-79-698-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-1.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-1.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:65:"2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-1.webp";s:8:"filesize";i:30102;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:65:"plate_number_775.__adjutant_flying_run_2014.79.698-1-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13960;}s:9:"thumbnail";a:5:{s:4:"file";s:65:"plate_number_775.__adjutant_flying_run_2014.79.698-1-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4764;}s:12:"medium_large";a:5:{s:4:"file";s:65:"plate_number_775.__adjutant_flying_run_2014.79.698-1-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:45470;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-775/plate_number_484-_a_sweeping-_b_dusting_a_room_2014-79-474-3/</link>
-		<pubDate>Fri, 16 May 2025 12:42:05 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>108</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:42:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:42:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:42:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:42:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_484-_a_sweeping-_b_dusting_a_room_2014-79-474-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>14</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1308;s:4:"file";s:73:"2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2.webp";s:8:"filesize";i:45366;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:73:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2-229x300.webp";s:5:"width";i:229;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13438;}s:5:"large";a:5:{s:4:"file";s:74:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2-783x1024.webp";s:5:"width";i:783;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:70364;}s:9:"thumbnail";a:5:{s:4:"file";s:73:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5420;}s:12:"medium_large";a:5:{s:4:"file";s:74:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2-768x1005.webp";s:5:"width";i:768;s:6:"height";i:1005;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:69916;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_503._miscellaneous_stooping_etc._2014.79.489]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-775/plate_number_503-_miscellaneous_stooping_etc-_2014-79-489-3/</link>
-		<pubDate>Fri, 16 May 2025 12:42:08 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-2.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>109</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:42:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:42:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:42:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:42:08]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_503-_miscellaneous_stooping_etc-_2014-79-489-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>14</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-2.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-2.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:845;s:4:"file";s:72:"2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-2.webp";s:8:"filesize";i:33576;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:72:"plate_number_503._miscellaneous_stooping_etc._2014.79.489-2-300x254.webp";s:5:"width";i:300;s:6:"height";i:254;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13010;}s:9:"thumbnail";a:5:{s:4:"file";s:72:"plate_number_503._miscellaneous_stooping_etc._2014.79.489-2-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4910;}s:12:"medium_large";a:5:{s:4:"file";s:72:"plate_number_503._miscellaneous_stooping_etc._2014.79.489-2-768x649.webp";s:5:"width";i:768;s:6:"height";i:649;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:48248;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_736._egyptian_camel_racking_2014.79.661]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-775/plate_number_736-_egyptian_camel_racking_2014-79-661-3/</link>
-		<pubDate>Fri, 16 May 2025 12:42:18 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-2.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>120</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:42:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:42:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:42:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:42:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_736-_egyptian_camel_racking_2014-79-661-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>14</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-2.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-2.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:735;s:4:"file";s:67:"2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-2.webp";s:8:"filesize";i:37028;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:67:"plate_number_736._egyptian_camel_racking_2014.79.661-2-300x221.webp";s:5:"width";i:300;s:6:"height";i:221;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14836;}s:9:"thumbnail";a:5:{s:4:"file";s:67:"plate_number_736._egyptian_camel_racking_2014.79.661-2-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6300;}s:12:"medium_large";a:5:{s:4:"file";s:67:"plate_number_736._egyptian_camel_racking_2014.79.661-2-768x564.webp";s:5:"width";i:768;s:6:"height";i:564;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:52920;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_757._pigeon_flying_2014.79.682]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-775/plate_number_757-_pigeon_flying_2014-79-682-3/</link>
-		<pubDate>Fri, 16 May 2025 12:42:20 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_757._pigeon_flying_2014.79.682-2.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>122</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 12:42:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 12:42:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 12:42:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 12:42:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_757-_pigeon_flying_2014-79-682-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>14</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_757._pigeon_flying_2014.79.682-2.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_757._pigeon_flying_2014.79.682-2.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:768;s:4:"file";s:58:"2025/05/plate_number_757._pigeon_flying_2014.79.682-2.webp";s:8:"filesize";i:22528;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:58:"plate_number_757._pigeon_flying_2014.79.682-2-300x230.webp";s:5:"width";i:300;s:6:"height";i:230;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9550;}s:9:"thumbnail";a:5:{s:4:"file";s:58:"plate_number_757._pigeon_flying_2014.79.682-2-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3758;}s:12:"medium_large";a:5:{s:4:"file";s:58:"plate_number_757._pigeon_flying_2014.79.682-2-768x590.webp";s:5:"width";i:768;s:6:"height";i:590;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:33464;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_757._pigeon_flying_2014.79.682]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_757-_pigeon_flying_2014-79-682-4/</link>
-		<pubDate>Fri, 16 May 2025 14:04:05 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_757._pigeon_flying_2014.79.682-20250516-140405.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>138</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:04:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:04:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:04:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:04:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_757-_pigeon_flying_2014-79-682-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_757._pigeon_flying_2014.79.682-20250516-140405.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_757._pigeon_flying_2014.79.682-20250516-140405.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:72:"2025/05/plate_number_757._pigeon_flying_2014.79.682-20250516-140405.webp";s:8:"filesize";i:18090;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:72:"plate_number_757._pigeon_flying_2014.79.682-20250516-140405-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9044;}s:9:"thumbnail";a:5:{s:4:"file";s:72:"plate_number_757._pigeon_flying_2014.79.682-20250516-140405-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3460;}s:12:"medium_large";a:5:{s:4:"file";s:72:"plate_number_757._pigeon_flying_2014.79.682-20250516-140405-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:29336;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_736._egyptian_camel_racking_2014.79.661]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_736-_egyptian_camel_racking_2014-79-661-4/</link>
-		<pubDate>Fri, 16 May 2025 14:04:13 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>139</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:04:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:04:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:04:13]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:04:13]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_736-_egyptian_camel_racking_2014-79-661-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:81:"2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413.webp";s:8:"filesize";i:31680;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:81:"plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14986;}s:9:"thumbnail";a:5:{s:4:"file";s:81:"plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5370;}s:12:"medium_large";a:5:{s:4:"file";s:81:"plate_number_736._egyptian_camel_racking_2014.79.661-20250516-140413-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:50212;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_503._miscellaneous_stooping_etc._2014.79.489]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_503-_miscellaneous_stooping_etc-_2014-79-489-4/</link>
-		<pubDate>Fri, 16 May 2025 14:04:31 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>140</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:04:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:04:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:04:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:04:31]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_503-_miscellaneous_stooping_etc-_2014-79-489-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:86:"2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431.webp";s:8:"filesize";i:25946;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:86:"plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12592;}s:9:"thumbnail";a:5:{s:4:"file";s:86:"plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4384;}s:12:"medium_large";a:5:{s:4:"file";s:86:"plate_number_503._miscellaneous_stooping_etc._2014.79.489-20250516-140431-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41386;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_484-_a_sweeping-_b_dusting_a_room_2014-79-474-4/</link>
-		<pubDate>Fri, 16 May 2025 14:04:34 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:04:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:04:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:04:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:04:34]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_484-_a_sweeping-_b_dusting_a_room_2014-79-474-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:87:"2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434.webp";s:8:"filesize";i:30374;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:87:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14220;}s:9:"thumbnail";a:5:{s:4:"file";s:87:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5024;}s:12:"medium_large";a:5:{s:4:"file";s:87:"plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-20250516-140434-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:47564;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_775.__adjutant_flying_run_2014.79.698]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_775-__adjutant_flying_run_2014-79-698-4/</link>
-		<pubDate>Fri, 16 May 2025 14:05:07 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>143</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:05:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:05:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:05:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:05:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_775-__adjutant_flying_run_2014-79-698-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:539;s:4:"file";s:79:"2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507.webp";s:8:"filesize";i:27090;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:79:"plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507-300x162.webp";s:5:"width";i:300;s:6:"height";i:162;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9894;}s:9:"thumbnail";a:5:{s:4:"file";s:79:"plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5106;}s:12:"medium_large";a:5:{s:4:"file";s:79:"plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507-768x414.webp";s:5:"width";i:768;s:6:"height";i:414;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:38166;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_729._tigress_walking_2014.79.655]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_729-_tigress_walking_2014-79-655-4/</link>
-		<pubDate>Fri, 16 May 2025 14:05:12 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_729._tigress_walking_2014.79.655-20250516-140512.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:05:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:05:12]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:05:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:05:12]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_729-_tigress_walking_2014-79-655-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_729._tigress_walking_2014.79.655-20250516-140512.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_729._tigress_walking_2014.79.655-20250516-140512.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:477;s:4:"file";s:74:"2025/05/plate_number_729._tigress_walking_2014.79.655-20250516-140512.webp";s:8:"filesize";i:27924;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:74:"plate_number_729._tigress_walking_2014.79.655-20250516-140512-300x143.webp";s:5:"width";i:300;s:6:"height";i:143;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10426;}s:9:"thumbnail";a:5:{s:4:"file";s:74:"plate_number_729._tigress_walking_2014.79.655-20250516-140512-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5572;}s:12:"medium_large";a:5:{s:4:"file";s:74:"plate_number_729._tigress_walking_2014.79.655-20250516-140512-768x366.webp";s:5:"width";i:768;s:6:"height";i:366;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:37992;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_209-_stooping_and_lifting_a_handkerchief_2014-79-251-4/</link>
-		<pubDate>Fri, 16 May 2025 14:05:18 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>145</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:05:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:05:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:05:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:05:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_209-_stooping_and_lifting_a_handkerchief_2014-79-251-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:603;s:4:"file";s:94:"2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518.webp";s:8:"filesize";i:28792;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:94:"plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518-300x181.webp";s:5:"width";i:300;s:6:"height";i:181;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10708;}s:9:"thumbnail";a:5:{s:4:"file";s:94:"plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4966;}s:12:"medium_large";a:5:{s:4:"file";s:94:"plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518-768x463.webp";s:5:"width";i:768;s:6:"height";i:463;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41110;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_760._cockatoo_flying_2014.79.685]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_760-_cockatoo_flying_2014-79-685-4/</link>
-		<pubDate>Fri, 16 May 2025 14:05:44 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>146</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:05:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:05:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:05:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:05:44]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_760-_cockatoo_flying_2014-79-685-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:1000;s:4:"file";s:76:"2025/05/plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544.webp";s:8:"filesize";i:16606;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:76:"plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7654;}s:9:"thumbnail";a:5:{s:4:"file";s:76:"plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2566;}s:12:"medium_large";a:5:{s:4:"file";s:76:"plate_number_760._cockatoo_flying_2014.79.685-1-20250516-140544-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:26586;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[plate_number_126._descending_stairs_2014.79.175]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/plate_number_126-_descending_stairs_2014-79-175-4/</link>
-		<pubDate>Fri, 16 May 2025 14:05:58 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_126._descending_stairs_2014.79.175-20250516-140558.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-16 14:05:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-16 14:05:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 14:05:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 14:05:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[plate_number_126-_descending_stairs_2014-79-175-4]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_126._descending_stairs_2014.79.175-20250516-140558.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/plate_number_126._descending_stairs_2014.79.175-20250516-140558.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:629;s:4:"file";s:76:"2025/05/plate_number_126._descending_stairs_2014.79.175-20250516-140558.webp";s:8:"filesize";i:32006;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:76:"plate_number_126._descending_stairs_2014.79.175-20250516-140558-300x189.webp";s:5:"width";i:300;s:6:"height";i:189;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10926;}s:9:"thumbnail";a:5:{s:4:"file";s:76:"plate_number_126._descending_stairs_2014.79.175-20250516-140558-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4612;}s:12:"medium_large";a:5:{s:4:"file";s:76:"plate_number_126._descending_stairs_2014.79.175-20250516-140558-768x483.webp";s:5:"width";i:768;s:6:"height";i:483;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:45404;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Eadweard-portrait]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/about-me/eadweard-portrait/</link>
-		<pubDate>Mon, 19 May 2025 12:43:55 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/Eadweard-portrait.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>228</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:43:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:43:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:43:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:43:55]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[eadweard-portrait]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>62</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/Eadweard-portrait.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/Eadweard-portrait.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:588;s:6:"height";i:704;s:4:"file";s:30:"2025/05/Eadweard-portrait.webp";s:8:"filesize";i:105794;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:30:"Eadweard-portrait-251x300.webp";s:5:"width";i:251;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14418;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"Eadweard-portrait-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4626;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Home]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/</link>
-		<pubDate>Thu, 15 May 2025 11:12:48 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?page_id=9</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 11:12:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 11:12:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-20 09:44:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-20 09:44:48]]></wp:post_modified_gmt>
+		<wp:post_id>56</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-28 10:32:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 10:32:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-28 10:32:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-28 10:32:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -779,831 +126,73 @@ body {
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[portfolio-atbottompage.php]]></wp:meta_value>
+		<wp:meta_value><![CDATA[templates/pages/portfolio-atbottompage.php]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[No. 126]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-126/</link>
-		<pubDate>Wed, 15 May 2024 11:21:36 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=12</guid>
+		<title><![CDATA[About me]]></title>
+		<link>https://john.mikimalio.com/about-me/</link>
+		<pubDate>Thu, 28 Sep 2023 10:59:16 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-1/?page_id=67</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="wp-block-heading has-text-align-center">Plate Number 126. Descending stairs</h4>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":147,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_126._descending_stairs_2014.79.175-20250516-140558.webp" alt="" class="wp-image-147"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
+		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 19.05 × 34.93 cm (7 1/2 × 13 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>12</wp:post_id>
-		<wp:post_date><![CDATA[2024-05-15 11:21:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-15 11:21:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:12:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:12:34]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-126]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="people"><![CDATA[People]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[47]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[147]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 760]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-760/</link>
-		<pubDate>Sun, 15 Dec 2024 11:30:00 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=13</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image {"id":42,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_760._cockatoo_flying_2014.79.685.webp" alt="" class="wp-image-42"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Plate Number 760. Cockatoo flying</h4>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 22.23 × 32.39 cm (8 3/4 × 12 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>13</wp:post_id>
-		<wp:post_date><![CDATA[2024-12-15 11:30:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-12-15 11:30:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 11:45:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 11:45:34]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-760]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[146]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-12-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-253]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 775]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-775/</link>
-		<pubDate>Fri, 15 Nov 2024 11:22:37 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=14</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="wp-block-heading has-text-align-center">Plate Number 775. Adjutant, flying run</h4>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":143,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507.webp" alt="" class="wp-image-143"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 19.05 × 34.93 cm (7 1/2 × 13 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>14</wp:post_id>
-		<wp:post_date><![CDATA[2024-11-15 11:22:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-11-15 11:22:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 11:54:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 11:54:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-775]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[97]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[143]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-08-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-765]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 209]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-209/</link>
-		<pubDate>Sun, 15 Sep 2024 11:23:00 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_209._stooping_and_lifting_a_handkerchief_2014.79.251-20250516-140518.webp" alt="" class="wp-image-145"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Plate Number 209. Stooping and lifting a handkerchief</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p><strong>1887</strong><br>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Medium</strong><br>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Dimensions</strong><br>image: 22.23 × 32.39 cm (8 3/4 × 12 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-15 11:23:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-15 11:23:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:02:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:02:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-209]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="people"><![CDATA[People]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[88]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[145]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-982]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 729]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-729/</link>
-		<pubDate>Mon, 15 Jul 2024 11:22:33 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=16</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="wp-block-heading has-text-align-center">Plate Number 729. Tiger Walking</h4>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":93,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_729._tigress_walking_2014.79.655-1.webp" alt="" class="wp-image-93"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":144,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_729._tigress_walking_2014.79.655-20250516-140512.webp" alt="" class="wp-image-144"/></figure>
+<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
+<div class="wp-block-group"><!-- wp:image {"align":"right","id":260,"width":"200px","height":"undefinedpx","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image alignright size-full is-resized"><img src="http://john.mikimalio.com/domains/john.mikimalio.com/wp-content/uploads/2023/12/pexels-brandon-nickerson-395085.webp" alt="" class="wp-image-260" style="width:200px;height:undefinedpx"/></figure>
 <!-- /wp:image --></div>
-<!-- /wp:column -->
+<!-- /wp:group -->
 
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
+<!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"right","level":5} -->
+<h5 class="wp-block-heading has-text-align-right"><a href="http://www.instagram.com" data-type="link" data-id="www.instagram.com">instagram</a></h5>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
+<!-- wp:heading {"textAlign":"right","level":5} -->
+<h5 class="wp-block-heading has-text-align-right"><a href="mailto:email@email.com">email@email.com</a></h5>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
+<!-- wp:heading {"textAlign":"right","level":5} -->
+<h5 class="wp-block-heading has-text-align-right">+420 798 798 798</h5>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-<p>image: 19.05 × 34.93 cm (7 1/2 × 13 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph --></div>
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"textAlign":"right","level":5} -->
+<h5 class="wp-block-heading has-text-align-right">Through my lens, I endeavor to unearth the hidden poetry that resides within the serene landscapes of our planet. From the majestic grandeur of snow-capped mountains reaching skyward to the tranquil depths of emerald-hued forests, I seek to unveil the intricate details, vibrant colors, and raw, untouched wilderness that often elude the casual observer.</h5>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"textAlign":"right","level":5} -->
+<h5 class="wp-block-heading has-text-align-right">It's in these remote corners of the Earth where I find solace, where the whisper of the wind through leaves and the babbling of a crystal-clear stream harmonize with the symphony of birdsong and rustling leaves, creating a sense of timelessness.<br><br>Pictures from <a href="https://www.pexels.com/@sincegameon/" data-type="link" data-id="https://www.pexels.com/@hngstrm/">Shivansh Sharma</a> Thank you!<br></h5>
+<!-- /wp:heading --></div>
 <!-- /wp:column --></div>
-<!-- /wp:columns -->
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
 
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:spacer -->
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2024-07-15 11:22:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-07-15 11:22:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:08:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:08:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-729]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[93]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[144]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-387]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 760]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-760-2/</link>
-		<pubDate>Sat, 15 Jun 2024 11:22:00 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=17</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="wp-block-heading has-text-align-center">Plate Number 760. Pigeon Flying</h4>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:image {"id":122,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_757._pigeon_flying_2014.79.682-2.webp" alt="" class="wp-image-122"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 19.05 × 34.93 cm (7 1/2 × 13 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>17</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-15 11:22:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-06-15 11:22:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:10:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:10:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-760-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[122]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[138]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-265]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 484]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-484/</link>
-		<pubDate>Tue, 15 Oct 2024 11:24:34 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=18</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="wp-block-heading has-text-align-center">Plate Number 484. A: Sweeping. B: Dusting a room</h4>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":108,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2.webp" alt="" class="wp-image-108"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 19.05 × 34.93 cm (7 1/2 × 13 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2024-10-15 11:24:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-10-15 11:24:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:00:28]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:00:28]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-484]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="situations"><![CDATA[Situations]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[108]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[141]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-753]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No. 736]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-736/</link>
-		<pubDate>Tue, 10 Sep 2024 11:25:08 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=19</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:image {"id":120,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-2.webp" alt="" class="wp-image-120"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Plate Number 736. Egyptian camel racking</h4>
-<!-- /wp:heading --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 22.23 × 32.39 cm (8 3/4 × 12 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-10 11:25:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-10 11:25:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:04:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:04:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-736]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[139]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-11-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-09-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-528]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[THOUGTS]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts/</link>
-		<pubDate>Thu, 15 May 2025 14:31:06 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?page_id=60</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 14:31:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 14:31:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-16 13:16:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-16 13:16:07]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/pages/blog-template.php]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[ABOUT ME]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/about-me/</link>
-		<pubDate>Thu, 15 May 2025 14:31:35 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?page_id=62</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":228,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/Eadweard-portrait.webp" alt="" class="wp-image-228"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p>As the pioneer photographer of motion, Muybridge is often referred to as the “Father of the Motion Picture.” At the 1893 World’s Columbian Exposition in Chicago, he used his zoopraxography machine to use light shone through revolving glass disks of locomotion series to project moving pictures on a wall in Zoopraxographical Hall, thus the first motion picture theater.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="mailto:eadweard@eadward.com">eadweard@eadward.com</a></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>62</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 14:31:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 14:31:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:45:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:45:46]]></wp:post_modified_gmt>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-28 10:59:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 10:59:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-12 13:58:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-12 13:58:08]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[about-me]]></wp:post_name>
@@ -1614,168 +203,75 @@ body {
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/64/</link>
-		<pubDate>Thu, 15 May 2025 14:34:54 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=64</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-20 09:44:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 14:34:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-20 09:44:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-20 09:44:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[64]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[62]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-16]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/65/</link>
-		<pubDate>Thu, 15 May 2025 14:34:54 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=65</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-20 09:44:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 14:34:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-20 09:44:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-20 09:44:33]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[65]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[60]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-16]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[WORK]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/work/</link>
-		<pubDate>Thu, 15 May 2025 14:34:54 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=66</guid>
+		<title><![CDATA[pexels-shivansh-sharma-12967911]]></title>
+		<link>https://john.mikimalio.com/pexels-shivansh-sharma-12967911/</link>
+		<pubDate>Thu, 28 Sep 2023 12:25:47 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-20 09:44:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 14:34:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-20 09:44:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-20 09:44:33]]></wp:post_modified_gmt>
+		<wp:post_id>95</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-28 12:25:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 12:25:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-28 12:25:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-28 12:25:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-shivansh-sharma-12967911]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/09/pexels-shivansh-sharma-12967911.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1408;s:6:"height";i:2560;s:4:"file";s:44:"2023/09/pexels-shivansh-sharma-12967911.webp";s:8:"filesize";i:219874;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:44:"pexels-shivansh-sharma-12967911-165x300.webp";s:5:"width";i:165;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8702;}s:5:"large";a:5:{s:4:"file";s:45:"pexels-shivansh-sharma-12967911-563x1024.webp";s:5:"width";i:563;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:73964;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"pexels-shivansh-sharma-12967911-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4590;}s:12:"medium_large";a:5:{s:4:"file";s:45:"pexels-shivansh-sharma-12967911-768x1396.webp";s:5:"width";i:768;s:6:"height";i:1396;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:118584;}s:9:"1536x1536";a:5:{s:4:"file";s:45:"pexels-shivansh-sharma-12967911-845x1536.webp";s:5:"width";i:845;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:135916;}s:9:"2048x2048";a:5:{s:4:"file";s:46:"pexels-shivansh-sharma-12967911-1126x2048.webp";s:5:"width";i:1126;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:194618;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://john.mikimalio.com/143/</link>
+		<pubDate>Fri, 10 Nov 2023 13:59:29 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/2023/11/10/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-20 18:45:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-10 13:59:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-11-20 18:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-20 18:45:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[work]]></wp:post_name>
+		<wp:post_name><![CDATA[143]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main-menu"><![CDATA[main-menu]]></category>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -1786,7 +282,7 @@ body {
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[9]]></wp:meta_value>
+		<wp:meta_value><![CDATA[56]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -1810,92 +306,257 @@ body {
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-15]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-16]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2023-11-10]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[No. 657]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/portfolio/no-657/</link>
-		<pubDate>Sat, 16 Mar 2024 12:44:49 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?post_type=portfolio&#038;p=126</guid>
+		<title><![CDATA[]]></title>
+		<link>https://john.mikimalio.com/146/</link>
+		<pubDate>Fri, 10 Nov 2023 13:59:29 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/2023/11/10/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":4} -->
-<h4 class="wp-block-heading has-text-align-center">Plate Number 484. Miscellaneous Stooping</h4>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:spacer {"height":"1rem"} -->
-<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":109,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-2.webp" alt="" class="wp-image-109"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1887</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Eadweard Muybridge<br>Artist, American, born England, 1830 - 1904</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Medium</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>collotype</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">Dimensions</h4>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>image: 19.05 × 34.93 cm (7 1/2 × 13 3/4 in.)<br>sheet: 47.63 × 60.33 cm (18 3/4 × 23 3/4 in.)</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>126</wp:post_id>
-		<wp:post_date><![CDATA[2024-03-16 12:44:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-03-16 12:44:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:14:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:14:56]]></wp:post_modified_gmt>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-20 18:45:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-10 13:59:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-11-20 18:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-20 18:45:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[no-657]]></wp:post_name>
+		<wp:post_name><![CDATA[146]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[67]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-11-10]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-shivansh-sharma-15307430_1K]]></title>
+		<link>https://john.mikimalio.com/pexels-shivansh-sharma-15307430_1k/</link>
+		<pubDate>Thu, 28 Sep 2023 12:39:52 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>154</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-28 12:39:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 12:39:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-28 12:39:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-28 12:39:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-shivansh-sharma-15307430_1k]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/09/pexels-shivansh-sharma-15307430_1K.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:562;s:6:"height";i:1000;s:4:"file";s:47:"2023/09/pexels-shivansh-sharma-15307430_1K.webp";s:8:"filesize";i:49002;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-15307430_1K-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6070;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-15307430_1K-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3782;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Pattern]]></title>
+		<link>https://john.mikimalio.com/portfolio/pattern/</link>
+		<pubDate>Fri, 10 Nov 2023 14:12:41 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/?post_type=portfolio&#038;p=166</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gallery {"linkTo":"media"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":288,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/11/pexels-shivansh-sharma-13801876_1K.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/11/pexels-shivansh-sharma-13801876_1K.webp" alt="" class="wp-image-288"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":154,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":95,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911-563x1024.webp" alt="" class="wp-image-95"/></a></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>166</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-10 14:12:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-10 14:12:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:14:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:14:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pattern]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="situations"><![CDATA[Situations]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[109]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
+														<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Solitude]]></title>
+		<link>https://john.mikimalio.com/portfolio/solitude/</link>
+		<pubDate>Fri, 10 Nov 2023 14:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/?post_type=portfolio&#038;p=167</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gallery {"linkTo":"media"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":154,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":95,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911-563x1024.webp" alt="" class="wp-image-95"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":84,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12355751.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12355751-576x1024.webp" alt="" class="wp-image-84"/></a></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>167</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-10 14:13:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-10 14:13:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:10:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:10:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[solitude]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Travel]]></title>
+		<link>https://john.mikimalio.com/portfolio/travel/</link>
+		<pubDate>Fri, 10 Nov 2023 14:15:12 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/?post_type=portfolio&#038;p=169</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:gallery {"linkTo":"media"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":154,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":95,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911-563x1024.webp" alt="" class="wp-image-95"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":84,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12355751.webp"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12355751-576x1024.webp" alt="" class="wp-image-84"/></a></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>169</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-10 14:15:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-10 14:15:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:11:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:11:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
@@ -1903,386 +564,513 @@ body {
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[90]]></wp:meta_value>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-05-16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025-01-16]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[154]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Thoughts on no. 489]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts-on-no-489/</link>
-		<pubDate>Mon, 19 May 2025 12:18:52 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=189</guid>
+		<title><![CDATA[Whispers of Waterfalls]]></title>
+		<link>https://john.mikimalio.com/whispers-of-waterfalls/</link>
+		<pubDate>Mon, 10 Jul 2023 14:00:13 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-4/?p=141</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":95,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12967911.webp" alt="" class="wp-image-95"/></figure>
+<!-- /wp:image --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Whispers of Waterfalls</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>| Beneath towering waterfalls, I felt the power of nature's verses as the cascading waters spoke of ancient forces. My own words flowed like the falls, capturing the awe-inspiring beauty of these liquid poems. The waterfalls, with their thundering descent and shimmering mist, served as both muse and metaphor. I stood in their presence, entranced by their unyielding energy, and my verses became a tribute to the relentless flow of life and the eternal rhythm of nature.</p>
 <!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image {"id":120,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_736._egyptian_camel_racking_2014.79.661-2.webp" alt="" class="wp-image-120"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<excerpt:encoded><![CDATA[Cascading tales of liquid poetry.]]></excerpt:encoded>
+		<wp:post_id>181</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-10 14:00:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-10 14:00:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:17:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:17:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[whispers-of-waterfalls]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="my-trips"><![CDATA[my trips]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[95]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Enchanted Forest]]></title>
+		<link>https://john.mikimalio.com/enchanted-forest/</link>
+		<pubDate>Sun, 20 Aug 2023 14:05:59 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-4/?p=174</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":154,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://john.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Enchanted Forest</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Amongst the giants of the enchanted forest, I discovered the art of quiet contemplation. My verses resonated with the wisdom of the trees, translating their silent conversations into a poetic ode to their enduring majesty. The forest, a realm of towering giants and dappled sunlight, offered me a sanctuary for introspection and introspection. I sat beneath the canopy of leaves, feeling the heartbeat of the forest, and my verses became a testament to the deep connection between humans and the natural world.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>| Beneath towering waterfalls, I felt the power of nature's verses as the cascading waters spoke of ancient forces. My own words flowed like the falls, capturing the awe-inspiring beauty of these liquid poems. The waterfalls, with their thundering descent and shimmering mist, served as both muse and metaphor. I stood in their presence, entranced by their unyielding energy, and my verses became a tribute to the relentless flow of life and the eternal rhythm of nature.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Where trees share secrets in silence.]]></excerpt:encoded>
+		<wp:post_id>188</wp:post_id>
+		<wp:post_date><![CDATA[2023-08-20 14:05:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-08-20 14:05:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:17:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:17:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[enchanted-forest]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="imagination"><![CDATA[imagination]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[154]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Mystical Moorlands]]></title>
+		<link>https://john.mikimalio.com/mystical-moorlands/</link>
+		<pubDate>Thu, 28 Sep 2023 14:06:43 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-4/?p=175</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":288,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://john.mikimalio.com/wp-content/uploads/2023/11/pexels-shivansh-sharma-13801876_1K.webp" alt="" class="wp-image-288"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Mystical Moorlands</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On the windswept moorlands, I embraced the solitude and solitude. My verses painted the vast, open landscape with words, capturing the ethereal beauty of heather-covered hills and the cries of distant curlews. The moorlands, a landscape of sweeping vistas and ever-changing skies, became a canvas for my poetic expression. I wandered across the undulating terrain, feeling</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Windswept tales across open moors."]]></excerpt:encoded>
 		<wp:post_id>189</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:18:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:18:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:23:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:23:25]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2023-09-28 14:06:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 14:06:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:17:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:17:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts-on-no-489]]></wp:post_name>
+		<wp:post_name><![CDATA[mystical-moorlands]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="animals"><![CDATA[Animals]]></category>
+										<category domain="category" nicename="my-trips"><![CDATA[my trips]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[120]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Thoughts on no. 425]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts-on-no-425/</link>
-		<pubDate>Mon, 19 May 2025 12:30:22 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=212</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image {"id":122,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_757._pigeon_flying_2014.79.682-2.webp" alt="" class="wp-image-122"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>212</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:30:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:30:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:30:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:30:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts-on-no-425]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[122]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[189]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Thoughts on no. 814]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts-on-no-814/</link>
-		<pubDate>Mon, 19 May 2025 12:31:20 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=213</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image {"id":42,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_760._cockatoo_flying_2014.79.685.webp" alt="" class="wp-image-42"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>213</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:31:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:31:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:33:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:33:27]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts-on-no-814]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[189]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Thoughts on no. 489]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts-on-no-489-2/</link>
-		<pubDate>Mon, 19 May 2025 12:30:57 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=214</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image {"id":109,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_503._miscellaneous_stooping_etc._2014.79.489-2.webp" alt="" class="wp-image-109"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>214</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:30:57]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:30:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:30:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:30:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts-on-no-489-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="people"><![CDATA[People]]></category>
-						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[109]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[189]]></wp:meta_value>
+		<wp:meta_value><![CDATA[288]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Thoughts on no. 968]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts-on-no-968/</link>
-		<pubDate>Mon, 19 May 2025 12:31:49 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=215</guid>
+		<title><![CDATA[Blog]]></title>
+		<link>https://john.mikimalio.com/blog/</link>
+		<pubDate>Mon, 20 Nov 2023 18:39:43 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/?page_id=196</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image {"id":143,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_775.__adjutant_flying_run_2014.79.698-20250516-140507.webp" alt="" class="wp-image-143"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>215</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:31:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:31:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:31:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:31:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts-on-no-968]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="animals"><![CDATA[Animals]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[143]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[189]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/navigation/</link>
-		<pubDate>Thu, 15 May 2025 11:07:44 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/2025/05/15/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 11:07:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 11:07:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-15 11:07:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-15 11:07:44]]></wp:post_modified_gmt>
+		<wp:post_id>196</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-20 18:39:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-20 18:39:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 13:58:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 13:58:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[templates/pages/blog-template.php]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://john.mikimalio.com/212/</link>
+		<pubDate>Mon, 20 Nov 2023 18:45:18 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/?p=212</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>212</wp:post_id>
+		<wp:post_date><![CDATA[2023-11-20 18:45:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-11-20 18:45:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-11-20 18:45:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-11-20 18:45:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[212]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[196]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-brandon-nickerson-395085]]></title>
+		<link>https://john.mikimalio.com/about-me/pexels-brandon-nickerson-395085/</link>
+		<pubDate>Tue, 12 Dec 2023 13:58:05 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/wp-content/uploads/2023/12/pexels-brandon-nickerson-395085.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>260</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-12 13:58:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-12-12 13:58:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-12 13:58:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-12 13:58:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-brandon-nickerson-395085]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>67</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://john.mikimalio.com/wp-content/uploads/2023/12/pexels-brandon-nickerson-395085.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/12/pexels-brandon-nickerson-395085.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:666;s:4:"file";s:44:"2023/12/pexels-brandon-nickerson-395085.webp";s:8:"filesize";i:9778;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:44:"pexels-brandon-nickerson-395085-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1854;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"pexels-brandon-nickerson-395085-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1226;}s:12:"medium_large";a:5:{s:4:"file";s:44:"pexels-brandon-nickerson-395085-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6686;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[wince-child]]></title>
+		<link>https://john.mikimalio.com/wince-child/</link>
+		<pubDate>Wed, 13 Dec 2023 10:45:37 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/2023/12/13/wince-child/</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+@media screen and (max-width:781px) {
+.footer-widget p, .footer-widget h4 {
+	text-align:center!important;
+}
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>264</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-13 10:45:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-12-13 10:45:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-13 10:45:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-13 10:45:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wince-child]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Minimalio-child]]></title>
+		<link>https://john.mikimalio.com/minimalio-child/</link>
+		<pubDate>Sat, 16 Dec 2023 12:07:29 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/2023/12/16/minimalio-child/</guid>
+		<description></description>
+		<content:encoded><![CDATA[
+@media screen and (max-width:781px) {
+.footer-widget p, .footer-widget h4 {
+	text-align:center!important;
+}
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>267</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-16 12:07:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-12-16 12:07:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-16 12:07:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-16 12:07:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[minimalio-child]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[cropped-favicon.webp]]></title>
+		<link>https://john.mikimalio.com/cropped-favicon-webp/</link>
+		<pubDate>Wed, 20 Dec 2023 13:20:00 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">https://john.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://john.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon.webp]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>283</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-20 13:20:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-12-20 13:20:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-20 13:20:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-20 13:20:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-favicon-webp]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://john.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/12/cropped-favicon.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:28:"2023/12/cropped-favicon.webp";s:8:"filesize";i:528;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:28:"cropped-favicon-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:226;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"cropped-favicon-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:108;}s:13:"site_icon-270";a:5:{s:4:"file";s:28:"cropped-favicon-270x270.webp";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:192;}s:13:"site_icon-192";a:5:{s:4:"file";s:28:"cropped-favicon-192x192.webp";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128;}s:13:"site_icon-180";a:5:{s:4:"file";s:28:"cropped-favicon-180x180.webp";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128;}s:12:"site_icon-32";a:5:{s:4:"file";s:26:"cropped-favicon-32x32.webp";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:58;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-shivansh-sharma-13801876_1K]]></title>
+		<link>https://john.mikimalio.com/portfolio/pattern/pexels-shivansh-sharma-13801876_1k/</link>
+		<pubDate>Mon, 30 Jun 2025 14:13:43 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">https://john.mikimalio.com/wp-content/uploads/2023/11/pexels-shivansh-sharma-13801876_1K.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>288</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-30 14:13:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-30 14:13:43]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 14:13:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 14:13:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-shivansh-sharma-13801876_1k]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>166</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://john.mikimalio.com/wp-content/uploads/2023/11/pexels-shivansh-sharma-13801876_1K.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/11/pexels-shivansh-sharma-13801876_1K.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:562;s:6:"height";i:1000;s:4:"file";s:47:"2023/11/pexels-shivansh-sharma-13801876_1K.webp";s:8:"filesize";i:15208;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-13801876_1K-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2854;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-13801876_1K-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1818;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[main]]></title>
+		<link>https://john.mikimalio.com/main/</link>
+		<pubDate>Thu, 28 Sep 2023 11:02:08 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8888/content/content-1/2023/09/28/main/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"56","kind":"post-type","label":"Portfolio","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"http://localhost:8888/content/content-1/portfolio/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"49","kind":"post-type","label":"home-2","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"http://localhost:8888/content/content-1/home-2/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page menu-item-home","description":"","id":"45","kind":"post-type","label":"home-1","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"http://localhost:8888/content/content-1/"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>75</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-28 11:02:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-28 11:02:08]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-28 11:02:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-28 11:02:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[main]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/wp-global-styles-minimalio/</link>
-		<pubDate>Thu, 15 May 2025 11:12:38 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/2025/05/15/wp-global-styles-minimalio/</guid>
+		<link>https://john.mikimalio.com/wp-global-styles-minimalio-child/</link>
+		<pubDate>Sat, 16 Dec 2023 12:13:12 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">http://john.mikimalio.com/domains/john.mikimalio.com/2023/12/16/wp-global-styles-minimalio-child/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>275</wp:post_id>
+		<wp:post_date><![CDATA[2023-12-16 12:13:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-12-16 12:13:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-12-16 12:13:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-16 12:13:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-minimalio-child]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="minimalio-child"><![CDATA[Minimalio-child]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://john.mikimalio.com/wp-global-styles-minimalio/</link>
+		<pubDate>Mon, 30 Jun 2025 13:57:51 +0000</pubDate>
+		<dc:creator><![CDATA[Miki]]></dc:creator>
+		<guid isPermaLink="false">https://john.mikimalio.com/wp-global-styles-minimalio/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-15 11:12:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-15 11:12:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-15 11:12:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-15 11:12:38]]></wp:post_modified_gmt>
+		<wp:post_id>287</wp:post_id>
+		<wp:post_date><![CDATA[2025-06-30 13:57:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-06-30 13:57:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-06-30 13:57:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-06-30 13:57:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-minimalio]]></wp:post_name>
@@ -2294,73 +1082,6 @@ body {
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="minimalio"><![CDATA[minimalio]]></category>
 						</item>
-					<item>
-		<title><![CDATA[Thoughts on no. 489]]></title>
-		<link>http://localhost:8888/demosfinal/eadweard/thoughts-on-no-489-3/</link>
-		<pubDate>Mon, 19 May 2025 12:32:24 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/eadweard/?p=217</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:image {"id":108,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8888/demosfinal/eadweard/wp-content/uploads/2025/05/plate_number_484._a_sweeping._b_dusting_a_room_2014.79.474-2.webp" alt="" class="wp-image-108"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"50%"} -->
-<div class="wp-block-column" style="flex-basis:50%"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"25%"} -->
-<div class="wp-block-column" style="flex-basis:25%"></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>217</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-19 12:32:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-19 12:32:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-19 12:32:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-19 12:32:29]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[thoughts-on-no-489-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="people"><![CDATA[People]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[108]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dp_original]]></wp:meta_key>
-		<wp:meta_value><![CDATA[189]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 				</channel>
 </rss>
 	
