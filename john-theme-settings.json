@@ -2,7 +2,7 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-06-30 14:26:27",
+        "export_date": "2025-06-30 16:42:21",
         "site_url": "https://john.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
@@ -130,6 +130,43 @@
                 },
                 "_multiwidget": 1
             }
+        },
+        "widget_metadata": {
+            "block": {
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "9": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "56",
+        "page_for_posts": "0",
+        "front_page_title": "Portfolio",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 2
+        },
+        "menu_names": {
+            "primary": "main"
         }
     }
 }

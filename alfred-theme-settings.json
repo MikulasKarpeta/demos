@@ -1,0 +1,208 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2025-06-30 16:39:26",
+        "site_url": "http://localhost:8888/claude",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "minimalio_settings_header_container_type": "container",
+        "nav_menu_locations": {
+            "primary": 229
+        },
+        "minimalio_settings_portfolio_hover_option": "hover-image",
+        "minimalio_settings_header_variation": "vertical",
+        "minimalio_settings_portfolio_style": "style_3",
+        "minimalio_typography_settings_google_font": "Afacad",
+        "minimalio_settings_portfolio_columns": 3,
+        "minimalio_settings_portfolio_gap": "gap_2",
+        "minimalio_settings_container_type": "container",
+        "minimalio_settings_container_width": 1400,
+        "minimalio_settings_header_color": "#303030",
+        "minimalio_settings_social_media_location": "header",
+        "minimalio_settings_social_media_instagram": "#",
+        "minimalio_settings_social_media_linkedin": "",
+        "minimalio_settings_social_media_pinterest": "",
+        "minimalio_settings_menu_google_font_size": 16,
+        "minimalio_settings_link_weight": "bold",
+        "minimalio_typography_settings_google_font_wight": 600,
+        "minimalio_settings_post_card_image_aspect_ratio": "1-1",
+        "minimalio_settings_portfolio_pagination": "load_scroll",
+        "minimalio_settings_single_portfolio_latest_portfolio_title": "yes",
+        "minimalio_settings_single_portfolio_latest_portfolio_title_label": "Latest",
+        "minimalio_settings_single_portfolio_latest_portfolio_title_size": "h4",
+        "minimalio_settings_single_portfolio_latest_portfolio_number": 3,
+        "minimalio_settings_single_portfolio_navigation": "yes",
+        "minimalio_settings_single_portfolio_latest": "yes",
+        "minimalio_settings_header_color_hover": "#0a0a0a",
+        "minimalio_settings_font_color": "#0a0a0a",
+        "minimalio_settings_single_post_title": "yes",
+        "minimalio_settings_single_post_title_size": "h2",
+        "minimalio_settings_single_post_title_align": "justify-center",
+        "minimalio_settings_single_post_latest_posts": "yes",
+        "minimalio_settings_single_post_latest_posts_title": "yes",
+        "minimalio_settings_single_post_latest_posts_title_label": "Latest",
+        "minimalio_settings_single_post_latest_posts_title_size": "h4",
+        "minimalio_settings_single_post_latest_posts_number": 3,
+        "minimalio_settings_blog_hover_color": "rgba(10,10,10,0.48)",
+        "minimalio_settings_google_letter_spacing": "",
+        "minimalio_settings_menu_google_letter_spacing": "2",
+        "minimalio_settings_header_background": "#ffffff",
+        "custom_css_post_id": 3366
+    },
+    "custom_css": ".vertical .menu-main-container {margin-top: 10rem!important}\n\n.posts-ajax__categories-wrapper, .posts__categories-wrapper {\n\tmargin-top:1rem;\n}\n\n.posts-ajax__categories-wrapper span, .posts__categories-wrapper span {\n\tfont-size:16px;\n}\n\nbody {\n\tmargin-top:1rem;\n}\n\n.header__brand {\n\tfont-family:Baskervville;\n\tfont-weight:100;\n}\n\n\n@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');\n\n",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [
+                "block-2",
+                "block-3",
+                "block-4"
+            ],
+            "left-sidebar": [
+                "block-5",
+                "block-6"
+            ],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "meta": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:search /-->"
+                },
+                "3": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+                },
+                "4": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+                },
+                "5": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+                },
+                "6": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+                },
+                "7": {
+                    "content": "<!-- wp:paragraph -->\n<p>email@email.com</p>\n<!-- /wp:paragraph -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "4": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "5": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "6": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "6",
+        "page_for_posts": "0",
+        "front_page_title": "About me",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 229
+        },
+        "menu_names": {
+            "primary": "main"
+        }
+    }
+}
