@@ -2,8 +2,8 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 13:57:29",
-        "site_url": "https://john.mikimalio.com",
+        "export_date": "2025-07-01 11:11:28",
+        "site_url": "https://jane.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
@@ -12,44 +12,22 @@
             "primary": 2
         },
         "minimalio_settings_header_container_type": "container",
-        "custom_css_post_id": -1,
-        "minimalio_settings_container_width": 1440,
-        "minimalio_settings_scrollbar": "stable",
-        "minimalio_settings_color_background": "#ffffff",
-        "minimalio_typography_settings_google_font": "Cormorant",
+        "minimalio_typography_settings_google_font": "Karla",
+        "minimalio_settings_google_font_style": "normal",
         "minimalio_typography_settings_google_font_wight": 400,
-        "minimalio_settings_font_color": "#0a0a0a",
-        "minimalio_settings_link_color": "#0a0a0a",
-        "minimalio_settings_header_color": "#0a0a0a",
-        "minimalio_settings_header_color_hover": "#303030",
-        "minimalio_settings_link_decoration": "no",
         "minimalio_settings_archive_portfolio_filter_enable": "no",
         "minimalio_settings_portfolio_columns": 3,
-        "minimalio_settings_post_card_image_aspect_ratio": "9-16",
-        "minimalio_settings_portfolio_behaviour": "single",
+        "minimalio_settings_post_card_image_aspect_ratio": "3-4",
         "minimalio_settings_portfolio_gap": "gap_2",
-        "minimalio_settings_portfolio_hover_color": "#0a0a0a",
-        "minimalio_settings_social_media_location": "no",
-        "minimalio_settings_social_media_vimeo": "",
+        "minimalio_settings_portfolio_hover_option": "hover-image",
         "minimalio_gallery_bg_color_settings": "#ffffff",
-        "minimalio_settings_hover_color": "#3f3f3f",
-        "minimalio_settings_header_variation": "vertical",
-        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
-        "minimalio_settings_developer": "@ 2024",
-        "minimalio_settings_archive_template_filter_enable": "no",
-        "minimalio_settings_blog_pagination": "no",
-        "minimalio_settings_blog_hover_color": "#c19100",
-        "minimalio_settings_single_template_sidebar_position": "none",
-        "minimalio_settings_blog_post_card_image_aspect_ratio": "3-4",
-        "minimalio_settings_blog_gap": "gap_2",
-        "minimalio_settings_blog_post_card": "style_4",
-        "minimalio_settings_blog_columns": 3,
-        "minimalio_settings_portfolio_pagination": "no",
-        "minimalio_settings_portfolio_type": "grid",
-        "minimalio_settings_portfolio_hover_option": "zoom-2",
+        "minimalio_ligtbox_icon_color_settings": "",
         "minimalio_settings_mobile_menu_width": "full-width",
-        "minimalio_settings_mobile_font_size": 24,
-        "minimalio_settings_mobile_font_colour": "#0a0a0a"
+        "custom_css_post_id": -1,
+        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
+        "minimalio_settings_developer": "\u00a9 2025",
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_settings_blog_hover_color": "rgba(10,10,10,0.72)"
     },
     "custom_css": "",
     "widgets": {
@@ -61,9 +39,9 @@
             "left-sidebar-blog": [],
             "headerfull": [],
             "footerfull": [
+                "block-8",
                 "block-9",
-                "block-7",
-                "block-8"
+                "block-7"
             ]
         },
         "widget_content": {
@@ -120,13 +98,13 @@
             },
             "block": {
                 "7": {
-                    "content": "<!-- wp:spacer {\"height\":\"32px\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Jane Doe</h4>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\"><a href=\"http://www.instagram.com\" data-type=\"link\" data-id=\"www.instagram.com\">instagram</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
                 },
                 "8": {
-                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">John Doe</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>based in Prague</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\">+420 798 798 798</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\"><a href=\"http://www.instagram.com\" data-type=\"link\" data-id=\"www.instagram.com\">instagram</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                    "content": "<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator -->"
                 },
                 "9": {
-                    "content": "<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator -->"
+                    "content": "<!-- wp:spacer {\"height\":\"2rem\"} -->\n<div style=\"height:2rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
                 },
                 "_multiwidget": 1
             }

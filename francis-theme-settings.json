@@ -1,0 +1,143 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2025-07-01 10:35:57",
+        "site_url": "https://francis.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 3,
+            "footer_menu": 3
+        },
+        "minimalio_settings_header_container_type": "container",
+        "minimalio_typography_settings_google_font": "Work+Sans",
+        "minimalio_settings_font_color": "#0a0a0a",
+        "minimalio_settings_fixed_heading": "yes",
+        "minimalio_settings_transparent": "yes",
+        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
+        "minimalio_settings_developer": "\u00a9 2024",
+        "minimalio_settings_footer_background": "#0a0a0a",
+        "minimalio_settings_footer_font_color": "#ffffff",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_portfolio_columns": 3,
+        "minimalio_settings_portfolio_gap": "gap_2",
+        "minimalio_settings_portfolio_hover_option": "hover-image",
+        "minimalio_settings_mobile_menu_breack": 4096,
+        "minimalio_settings_mobile_menu_width": "full-width",
+        "minimalio_settings_mobile_top_background": "#0a0a0a",
+        "minimalio_settings_mobile_close_colour": "#ffffff",
+        "minimalio_settings_mobile_body_background": "#0a0a0a",
+        "minimalio_settings_mobile_font_colour": "#ffffff",
+        "minimalio_settings_mobile_font_size": 46,
+        "minimalio_settings_fixed_header_background": "#ffffff",
+        "minimalio_settings_fixed_color": "#0a0a0a",
+        "minimalio_settings_social_media_location": "both",
+        "minimalio_settings_social_media_facebook": "https://www.facebook.com/",
+        "minimalio_settings_social_media_instagram": "https://www.instagram.com/",
+        "minimalio_gallery_bg_color_settings": "#ffffff",
+        "custom_css_post_id": 377
+    },
+    "custom_css": "/* WHITE BURGER MENU ON HOME AND SINGLE PORTFOLIO */\n\n.home .header__fixed:not(.active) .mobile-menu__open-icon, \n.single-portfolio .header__fixed:not(.active) .mobile-menu__open-icon  {\n\t\tcolor:white;\n\t}\n\n/* WHITE WEBSITE NAME ON MOBILE ON HOME AND SINGLE PORTFOLIO*/\n\n@media screen and (max-width:781px) {\n\t\t.home .header__fixed:not(.active) .header__brand, .single-portfolio .header__fixed:not(.active) .header__brand {\n\t\tcolor:white;\n\t}\n}\n\n/* SPECIAL FONT FOR HEADINGS 1 and WEBSITE NAME */\n\nh1, .header__brand {\n\tfont-family: 'Marcellus', serif;\n}\n\n/* HOVER ON PORTFOLIO POSTCARDS BLACK AND WHITE */\n\n.post-card__image img:not(.hover-image) {\n\tfilter: grayscale(1);\n}\n\n/* MOBILE HERO BANNER WHITE TEXT */\n\n@media screen and (max-width:781px) {\n\t\t.mobile-display-none {\n\t\tdisplay:none;\n\t}\n\n\t.mobile-white {\n\t\tcolor:white;\n\tmax-width:80%;\n\tz-index:10;\n}\n}\n\n/* MOBILE TEXT ALIGNMENT OF FOOTER WIDGETS */\n@media screen and (max-width:781px) {\n\t.footer-widget p, .footer-widget h4 {\n\ttext-align:left!important;\n}\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "7": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Francis Doe</h4>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\">I bring a passion for creative problem-solving and a keen eye for aesthetics to every project I undertake.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "7",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 3,
+            "footer_menu": 3
+        },
+        "menu_names": {
+            "primary": "main",
+            "footer_menu": "main"
+        }
+    }
+}

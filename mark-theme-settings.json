@@ -1,0 +1,151 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2025-07-01 11:38:39",
+        "site_url": "https://mark.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 2
+        },
+        "minimalio_settings_header_container_type": "container-fluid",
+        "minimalio_settings_container_type": "container-fluid",
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_settings_color_background": "#dbdbdb",
+        "minimalio_typography_settings_google_font": "Open+Sans",
+        "minimalio_typography_settings_google_font_wight": 300,
+        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
+        "minimalio_settings_developer": "\u00a9 2024",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_portfolio_columns": 3,
+        "minimalio_settings_portfolio_gap": "gap_2",
+        "minimalio_settings_portfolio_hover_option": "hover-image",
+        "minimalio_settings_mobile_menu_breack": 4096,
+        "minimalio_settings_mobile_top_background": "#dbdbdb",
+        "minimalio_settings_mobile_body_background": "#dbdbdb",
+        "minimalio_settings_mobile_font_size": 42,
+        "minimalio_settings_footer_container": "container-fluid",
+        "custom_css_post_id": 221
+    },
+    "custom_css": "/* HEADER */\n\n.header {\n\tpadding-bottom:0;\n\t\tpadding-top:0;\n}\n\n.header__col-left .header__brand {\n  visibility: hidden;\n\theight: 100px;\n}\n\n.header__row {\n  border-bottom: 1px solid;\n}\n\n/* LARGER HAMBURGER MENU */\n\n.mobile-menu__open-icon {\n    width: 35px;\n    max-width: 35px;\n    height: 35px;\n}\n\n.mobile-menu__close-icon {\n    width: 30px;\n    max-width: 30px;\n    height: 30px;\n}\n\n/* MOBILE FOOTER */\n@media and screen (max-width:768px){\n.footer-widget p {text-align:left;}}\n",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-8",
+                "block-9",
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "7": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>Mark Doe</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\"><a href=\"http://www.instagram.com\" data-type=\"link\" data-id=\"www.instagram.com\" target=\"_blank\" rel=\"noreferrer noopener\">\u2197 Instagram</a><br><a href=\"http://www.facebook.com\" data-type=\"link\" data-id=\"www.facebook.com\" target=\"_blank\" rel=\"noreferrer noopener\">\u2197 Facebook</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "8": {
+                    "content": "<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator -->"
+                },
+                "9": {
+                    "content": "<!-- wp:spacer {\"height\":\"32px\"} -->\n<div style=\"height:32px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "9": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "7",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 2
+        },
+        "menu_names": {
+            "primary": "main"
+        }
+    }
+}

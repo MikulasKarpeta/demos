@@ -2,34 +2,35 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 10:13:53",
-        "site_url": "https://caroline.mikimalio.com",
+        "export_date": "2025-07-01 13:35:04",
+        "site_url": "https://stefan.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
     "theme_mods": {
+        "0": false,
         "nav_menu_locations": {
-            "primary": 5
+            "primary": 2
         },
-        "minimalio_settings_header_container_type": "container",
-        "minimalio_settings_container_width": 1440,
-        "minimalio_settings_scrollbar": "stable",
-        "minimalio_typography_settings_google_font": "Roboto",
-        "minimalio_typography_settings_google_font_wight": 300,
-        "minimalio_settings_link_color": "#006eff",
-        "minimalio_settings_header_color": "#0a0a0a",
-        "minimalio_settings_header_color_hover": "#006eff",
-        "minimalio_settings_link_decoration": "underline",
-        "minimalio_settings_menu_google_font_size": 26,
-        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
-        "minimalio_settings_developer": "\u00a9 2024",
+        "custom_css_post_id": 186,
+        "minimalio_settings_header_container_type": "container-fluid",
+        "minimalio_settings_heading_sizes": "headings-scale-1-5",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_portfolio_columns": 1,
+        "minimalio_typography_settings_google_font": "Outfit",
+        "minimalio_typography_settings_google_font_wight": 100,
+        "minimalio_settings_container_type": "container-fluid",
         "minimalio_settings_portfolio_pagination": "load_scroll",
-        "minimalio_settings_portfolio_gap": "gap_2",
-        "minimalio_settings_portfolio_hover_color": "#006eff",
-        "minimalio_settings_mobile_font_size": 24,
-        "custom_css_post_id": 178
+        "minimalio_settings_post_card_image_aspect_ratio": "16-9",
+        "minimalio_settings_menu_google_font_size": 20,
+        "minimalio_settings_portfolio_hover_option": "hover-image",
+        "minimalio_settings_header_color_hover": "#0a0a0a",
+        "minimalio_settings_link_decoration": "underline",
+        "minimalio_gallery_bg_color_settings": "#141414",
+        "minimalio_settings_footer_container": "container-fluid",
+        "minimalio_settings_single_portfolio_navigation": "yes"
     },
-    "custom_css": "/* header */\n\n.header {\n\tpadding-bottom:0;\n}\n\n/* portfolio filters */\n\n.posts-ajax__row {\n  justify-content: flex-end; \n}\n\n/* footer */\n\n@media screen and (max-width:782px) {\n.footer-widget p, .footer-widget h4 {\n\ttext-align:center!important;\n}\n}",
+    "custom_css": "/* size of site title */\n.header__brand {\n\tfont-size:1.5rem;\n}\n\n/* maximum widht of project post-card */\n.portfolio-post-type {\n\tmax-width:900px;\n}",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
@@ -39,6 +40,7 @@
             "left-sidebar-blog": [],
             "headerfull": [],
             "footerfull": [
+                "block-8",
                 "block-7"
             ]
         },
@@ -62,6 +64,9 @@
                 "_multiwidget": 1
             },
             "media_video": {
+                "_multiwidget": 1
+            },
+            "meta": {
                 "_multiwidget": 1
             },
             "search": {
@@ -96,7 +101,10 @@
             },
             "block": {
                 "7": {
-                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Caroline Doe</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p class=\"has-text-align-left\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                    "content": "<!-- wp:paragraph -->\n<p><a href=\"mailto:email@email.com\">email@email.com</a><br><a href=\"#\">instagram</a></p>\n<!-- /wp:paragraph -->"
+                },
+                "8": {
+                    "content": "<!-- wp:paragraph -->\n<p>Stefan Doe</p>\n<!-- /wp:paragraph -->"
                 },
                 "_multiwidget": 1
             }
@@ -108,20 +116,26 @@
                     "title": "",
                     "content_preview": "",
                     "unique_identifier": ""
+                },
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
                 }
             }
         }
     },
     "front_page": {
         "show_on_front": "page",
-        "page_on_front": "72",
+        "page_on_front": "7",
         "page_for_posts": "0",
-        "front_page_title": "Cameras",
+        "front_page_title": "projects",
         "posts_page_title": null
     },
     "menus": {
         "nav_menu_locations": {
-            "primary": 5
+            "primary": 2
         },
         "menu_names": {
             "primary": "main"

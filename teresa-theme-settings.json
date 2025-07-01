@@ -1,0 +1,139 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2025-07-01 12:36:27",
+        "site_url": "https://teresa.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 6,
+            "secondary": 8
+        },
+        "minimalio_settings_header_container_type": "container",
+        "minimalio_settings_color_background": "#0a0a0a",
+        "minimalio_settings_font_color": "#ffffff",
+        "minimalio_settings_header_variation": "vertical",
+        "minimalio_settings_header_color": "#ffffff",
+        "minimalio_settings_mobile_menu_breack": 1,
+        "minimalio_settings_menu_google_font_size": 16,
+        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
+        "minimalio_settings_developer": "\u00a9 2024",
+        "minimalio_settings_container_type": "container",
+        "minimalio_settings_show_page_title": "yes",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_container_width": 1240,
+        "minimalio_settings_single_portfolio_title": "yes",
+        "minimalio_settings_archive_template_filter_enable": "no",
+        "minimalio_settings_blog_post_card": "style_1",
+        "minimalio_settings_single_post_title": "yes",
+        "minimalio_settings_single_post_title_size": "h6",
+        "minimalio_settings_single_post_title_align": "justify-start",
+        "minimalio_settings_single_portfolio_title_size": "h2",
+        "minimalio_settings_single_portfolio_title_align": "justify-center",
+        "minimalio_settings_page_title_size": "h6",
+        "custom_css_post_id": 741
+    },
+    "custom_css": "/*Typography*/\n\n.is-layout-flow > * {\n  margin-block-start: 1rem;\n}\n\n.wp-block-separator {\n\tborder-top: 1px solid;\n}\n\n/* title of page */\n\n.header .header__brand{\n  font-size: 1rem;\n}\n\n.header .header__brand,\n.menu-main-container,\n.entry-header h1.entry-title,\n.single .single-post__title h1 {\n  margin: 0 0 1rem 0;\n\tline-height: 1.5rem;\n}\n\n/* header */\n\n.header__col-left,\n.menu-main-container {\n  min-width: 226px;\n}\n\n.header__col-left,\n.menu-main-container,\n.entry-header h1.entry-title,\n.single .single-post__title h1 {\n  border-bottom: 1px solid;\n}\n\n\n.menu-main-container,\n.header__secondary-menu-normal,\n.single .single-post__title h1,\n.entry-title {\n  padding: 0 0 1rem 0;\n  text-align: left;\n}\n\n.vertical .header .header__col-right .header__menu .nav__link,\n.vertical .header .header__col-right .header__secondary__menu .nav__link {\n  padding: 0;\n}\n\n.vertical .header .header__col-right div.menu-main-container {\n  margin: 0 0 1rem 0;\n}\n\n/* hide entry title on homepage */\n\n.home .entry-title {\n  display: none;\n}\n\n/* portfolio postcards */\n\n.post-card__heading {\n  font-size: 1rem;\n}\n\n/* mobile */\n\n@media (min-width: 769px) {\n  .header__container {\n    padding-right: 0;\n  }\n  .vertical .header .header__col-right div.menu-main-container {\n    margin: 0;\n  }\n}\n\n@media (max-width: 768px) {\n  .header__menu {\n    flex-direction: column;\n  }\n\n  .menu-main-container {\n    padding-top: 1rem;\n    margin: 0;\n  }\n\n  .content-area {\n    padding-top: 0;\n  }\n\n  .site {\n    display: block;\n  }\n\n  .header__col-left,\n  .header .header__col-right,\n  .menu-main-container {\n    width: 100% !important;\n  }\n\n  .site-content {\n    padding-top: 0;\n  }\n}\n",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "7": {
+                    "content": "<!-- wp:separator {\"backgroundColor\":\"white\"} -->\n<hr class=\"wp-block-separator has-text-color has-white-color has-alpha-channel-opacity has-white-background-color has-background\"/>\n<!-- /wp:separator -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "77",
+        "page_for_posts": "0",
+        "front_page_title": "home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 6,
+            "secondary": 8
+        },
+        "menu_names": {
+            "primary": "main menu",
+            "secondary": "Secondary"
+        }
+    }
+}

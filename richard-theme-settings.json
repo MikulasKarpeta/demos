@@ -2,34 +2,46 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 10:13:53",
-        "site_url": "https://caroline.mikimalio.com",
+        "export_date": "2025-07-01 12:02:00",
+        "site_url": "https://richard.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
     "theme_mods": {
         "nav_menu_locations": {
-            "primary": 5
+            "primary": 3
         },
-        "minimalio_settings_header_container_type": "container",
-        "minimalio_settings_container_width": 1440,
+        "minimalio_settings_header_container_type": "container-fluid",
+        "minimalio_settings_container_type": "container-fluid",
         "minimalio_settings_scrollbar": "stable",
-        "minimalio_typography_settings_google_font": "Roboto",
-        "minimalio_typography_settings_google_font_wight": 300,
-        "minimalio_settings_link_color": "#006eff",
-        "minimalio_settings_header_color": "#0a0a0a",
-        "minimalio_settings_header_color_hover": "#006eff",
-        "minimalio_settings_link_decoration": "underline",
-        "minimalio_settings_menu_google_font_size": 26,
+        "minimalio_settings_color_background": "#282828",
+        "minimalio_typography_settings_google_font": "Work+Sans",
+        "minimalio_typography_settings_google_font_wight": 200,
+        "minimalio_settings_font_color": "#ffffff",
+        "minimalio_settings_link_color": "#ffffff",
+        "minimalio_settings_hover_color": "#e0e0e0",
+        "minimalio_settings_header_color": "#ffffff",
+        "minimalio_settings_header_color_hover": "#e0e0e0",
+        "minimalio_settings_menu_google_font_size": 24,
+        "minimalio_settings_mobile_menu_breack": 768,
+        "minimalio_settings_mobile_menu_icon_colour": "#ffffff",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_portfolio_columns": 2,
+        "minimalio_settings_mobile_top_background": "#282828",
+        "minimalio_settings_mobile_close_colour": "#ffffff",
+        "minimalio_settings_mobile_body_background": "#282828",
+        "minimalio_settings_mobile_font_colour": "#ffffff",
+        "minimalio_settings_mobile_font_size": 24,
+        "minimalio_settings_portfolio_gap": "gap_2",
+        "minimalio_settings_portfolio_hover_option": "hover-image",
+        "minimalio_settings_transparent": "portfolio",
+        "minimalio_gallery_bg_color_settings": "#282828",
         "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
         "minimalio_settings_developer": "\u00a9 2024",
-        "minimalio_settings_portfolio_pagination": "load_scroll",
-        "minimalio_settings_portfolio_gap": "gap_2",
-        "minimalio_settings_portfolio_hover_color": "#006eff",
-        "minimalio_settings_mobile_font_size": 24,
-        "custom_css_post_id": 178
+        "minimalio_settings_footer_container": "container-fluid",
+        "custom_css_post_id": -1
     },
-    "custom_css": "/* header */\n\n.header {\n\tpadding-bottom:0;\n}\n\n/* portfolio filters */\n\n.posts-ajax__row {\n  justify-content: flex-end; \n}\n\n/* footer */\n\n@media screen and (max-width:782px) {\n.footer-widget p, .footer-widget h4 {\n\ttext-align:center!important;\n}\n}",
+    "custom_css": "",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
@@ -96,7 +108,7 @@
             },
             "block": {
                 "7": {
-                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Caroline Doe</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p class=\"has-text-align-left\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Richard Doe</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>graphic designer</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\">instagram</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
                 },
                 "_multiwidget": 1
             }
@@ -114,14 +126,14 @@
     },
     "front_page": {
         "show_on_front": "page",
-        "page_on_front": "72",
+        "page_on_front": "7",
         "page_for_posts": "0",
-        "front_page_title": "Cameras",
+        "front_page_title": "Home",
         "posts_page_title": null
     },
     "menus": {
         "nav_menu_locations": {
-            "primary": 5
+            "primary": 3
         },
         "menu_names": {
             "primary": "main"

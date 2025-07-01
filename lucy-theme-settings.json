@@ -2,34 +2,28 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 10:13:53",
-        "site_url": "https://caroline.mikimalio.com",
+        "export_date": "2025-07-01 11:24:26",
+        "site_url": "https://lucy.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
     "theme_mods": {
         "nav_menu_locations": {
-            "primary": 5
+            "primary": 2
         },
         "minimalio_settings_header_container_type": "container",
         "minimalio_settings_container_width": 1440,
         "minimalio_settings_scrollbar": "stable",
-        "minimalio_typography_settings_google_font": "Roboto",
-        "minimalio_typography_settings_google_font_wight": 300,
-        "minimalio_settings_link_color": "#006eff",
-        "minimalio_settings_header_color": "#0a0a0a",
-        "minimalio_settings_header_color_hover": "#006eff",
-        "minimalio_settings_link_decoration": "underline",
-        "minimalio_settings_menu_google_font_size": 26,
-        "minimalio_settings_copyright": "Copyright from Theme Settings -> Footer",
-        "minimalio_settings_developer": "\u00a9 2024",
-        "minimalio_settings_portfolio_pagination": "load_scroll",
-        "minimalio_settings_portfolio_gap": "gap_2",
-        "minimalio_settings_portfolio_hover_color": "#006eff",
-        "minimalio_settings_mobile_font_size": 24,
-        "custom_css_post_id": 178
+        "minimalio_typography_settings_google_font": "Libre+Baskerville",
+        "minimalio_settings_logo_position": "center",
+        "minimalio_settings_font_color": "#0a0a0a",
+        "minimalio_gallery_bg_color_settings": "#ffffff",
+        "minimalio_settings_heading_sizes": "default",
+        "minimalio_typography_settings_google_font_wight": 400,
+        "minimalio_settings_google_letter_spacing": "",
+        "custom_css_post_id": -1
     },
-    "custom_css": "/* header */\n\n.header {\n\tpadding-bottom:0;\n}\n\n/* portfolio filters */\n\n.posts-ajax__row {\n  justify-content: flex-end; \n}\n\n/* footer */\n\n@media screen and (max-width:782px) {\n.footer-widget p, .footer-widget h4 {\n\ttext-align:center!important;\n}\n}",
+    "custom_css": "",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
@@ -38,9 +32,7 @@
             "right-sidebar-blog": [],
             "left-sidebar-blog": [],
             "headerfull": [],
-            "footerfull": [
-                "block-7"
-            ]
+            "footerfull": []
         },
         "widget_content": {
             "pages": {
@@ -95,33 +87,21 @@
                 "_multiwidget": 1
             },
             "block": {
-                "7": {
-                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\">Caroline Doe</h4>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"align\":\"left\"} -->\n<p class=\"has-text-align-left\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
-                },
                 "_multiwidget": 1
             }
         },
-        "widget_metadata": {
-            "block": {
-                "7": {
-                    "type": "block",
-                    "title": "",
-                    "content_preview": "",
-                    "unique_identifier": ""
-                }
-            }
-        }
+        "widget_metadata": []
     },
     "front_page": {
         "show_on_front": "page",
-        "page_on_front": "72",
+        "page_on_front": "45",
         "page_for_posts": "0",
-        "front_page_title": "Cameras",
+        "front_page_title": "Pictures",
         "posts_page_title": null
     },
     "menus": {
         "nav_menu_locations": {
-            "primary": 5
+            "primary": 2
         },
         "menu_names": {
             "primary": "main"

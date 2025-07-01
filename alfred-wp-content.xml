@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	
+	<!-- generator="WordPress/6.8.1" created="2025-07-01 13:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Alfred Doe</title>
-	<link>http://localhost:8888/demosfinal/alfred</link>
+	<link>https://alfred.mikimalio.com</link>
 	<description></description>
-	<pubDate>Sun, 04 May 2025 15:24:02 +0000</pubDate>
+	<pubDate>Tue, 01 Jul 2025 13:43:31 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>http://localhost:8888/demosfinal/alfred</wp:base_site_url>
-	<wp:base_blog_url>http://localhost:8888/demosfinal/alfred</wp:base_blog_url>
+	<wp:base_site_url>https://alfred.mikimalio.com</wp:base_site_url>
+	<wp:base_blog_url>https://alfred.mikimalio.com</wp:base_blog_url>
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Minimalio]]></wp:author_login><wp:author_email><![CDATA[mikulaskarpeta@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Minimalio]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -67,674 +67,14 @@
 			<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main-menu]]></wp:term_slug><wp:term_name><![CDATA[main-menu]]></wp:term_name>
 </wp:term>
 
-	
+	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 		<item>
-		<title><![CDATA[pexels-adnan-asim-1029876826-23319701]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-adnan-asim-1029876826-23319701/</link>
-		<pubDate>Sun, 04 May 2025 14:33:00 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>18</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-adnan-asim-1029876826-23319701]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-adnan-asim-1029876826-23319701.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:50:"2025/05/pexels-adnan-asim-1029876826-23319701.webp";s:8:"filesize";i:60972;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:50:"pexels-adnan-asim-1029876826-23319701-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6852;}s:5:"large";a:5:{s:4:"file";s:51:"pexels-adnan-asim-1029876826-23319701-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:41298;}s:9:"thumbnail";a:5:{s:4:"file";s:50:"pexels-adnan-asim-1029876826-23319701-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3510;}s:12:"medium_large";a:5:{s:4:"file";s:51:"pexels-adnan-asim-1029876826-23319701-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:47986;}s:9:"1536x1536";a:5:{s:4:"file";s:52:"pexels-adnan-asim-1029876826-23319701-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:69754;}s:9:"2048x2048";a:5:{s:4:"file";s:52:"pexels-adnan-asim-1029876826-23319701-1365x2048.webp";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:97590;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-anshu-kumar-2148611331-31379267]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-anshu-kumar-2148611331-31379267/</link>
-		<pubDate>Sun, 04 May 2025 14:33:09 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>19</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-anshu-kumar-2148611331-31379267]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-anshu-kumar-2148611331-31379267.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2000;s:4:"file";s:51:"2025/05/pexels-anshu-kumar-2148611331-31379267.webp";s:8:"filesize";i:156430;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:51:"pexels-anshu-kumar-2148611331-31379267-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9038;}s:5:"large";a:5:{s:4:"file";s:52:"pexels-anshu-kumar-2148611331-31379267-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:103362;}s:9:"thumbnail";a:5:{s:4:"file";s:51:"pexels-anshu-kumar-2148611331-31379267-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3688;}s:12:"medium_large";a:5:{s:4:"file";s:52:"pexels-anshu-kumar-2148611331-31379267-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:103362;}s:9:"1536x1536";a:5:{s:4:"file";s:53:"pexels-anshu-kumar-2148611331-31379267-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:208730;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-aysenaz-bilgin-421884106-16885148]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-aysenaz-bilgin-421884106-16885148/</link>
-		<pubDate>Sun, 04 May 2025 14:33:14 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>20</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-aysenaz-bilgin-421884106-16885148]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:53:"2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp";s:8:"filesize";i:120550;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:53:"pexels-aysenaz-bilgin-421884106-16885148-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12724;}s:5:"large";a:5:{s:4:"file";s:54:"pexels-aysenaz-bilgin-421884106-16885148-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:79150;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"pexels-aysenaz-bilgin-421884106-16885148-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6764;}s:12:"medium_large";a:5:{s:4:"file";s:54:"pexels-aysenaz-bilgin-421884106-16885148-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:92520;}s:9:"1536x1536";a:5:{s:4:"file";s:55:"pexels-aysenaz-bilgin-421884106-16885148-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:138034;}s:9:"2048x2048";a:5:{s:4:"file";s:55:"pexels-aysenaz-bilgin-421884106-16885148-1365x2048.webp";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:200498;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-brett-sayles-12907113]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-brett-sayles-12907113/</link>
-		<pubDate>Sun, 04 May 2025 14:33:23 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>21</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:23]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-brett-sayles-12907113]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-brett-sayles-12907113.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:998;s:4:"file";s:41:"2025/05/pexels-brett-sayles-12907113.webp";s:8:"filesize";i:123030;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:41:"pexels-brett-sayles-12907113-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16992;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-brett-sayles-12907113-1024x681.webp";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:135496;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-brett-sayles-12907113-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7120;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-brett-sayles-12907113-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:85450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-caique-araujo-101156227-10579614]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-caique-araujo-101156227-10579614/</link>
-		<pubDate>Sun, 04 May 2025 14:33:26 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>22</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:26]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-caique-araujo-101156227-10579614]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-caique-araujo-101156227-10579614.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:52:"2025/05/pexels-caique-araujo-101156227-10579614.webp";s:8:"filesize";i:118404;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:52:"pexels-caique-araujo-101156227-10579614-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16412;}s:5:"large";a:5:{s:4:"file";s:53:"pexels-caique-araujo-101156227-10579614-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:89952;}s:9:"thumbnail";a:5:{s:4:"file";s:52:"pexels-caique-araujo-101156227-10579614-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7412;}s:12:"medium_large";a:5:{s:4:"file";s:53:"pexels-caique-araujo-101156227-10579614-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:104226;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"pexels-caique-araujo-101156227-10579614-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:144842;}s:9:"2048x2048";a:5:{s:4:"file";s:54:"pexels-caique-araujo-101156227-10579614-1365x2048.webp";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:200816;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-cax0000-1880659]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-cax0000-1880659/</link>
-		<pubDate>Sun, 04 May 2025 14:33:35 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-cax0000-1880659]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-cax0000-1880659.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:35:"2025/05/pexels-cax0000-1880659.webp";s:8:"filesize";i:90758;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-cax0000-1880659-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11494;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-cax0000-1880659-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:66770;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-cax0000-1880659-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5244;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-cax0000-1880659-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:78006;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"pexels-cax0000-1880659-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:112144;}s:9:"2048x2048";a:5:{s:4:"file";s:37:"pexels-cax0000-1880659-1365x2048.webp";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:157830;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-cbarajasphoto-29436302]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-cbarajasphoto-29436302/</link>
-		<pubDate>Sun, 04 May 2025 14:33:44 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>24</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:44]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-cbarajasphoto-29436302]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-cbarajasphoto-29436302.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:42:"2025/05/pexels-cbarajasphoto-29436302.webp";s:8:"filesize";i:161234;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:42:"pexels-cbarajasphoto-29436302-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17760;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-cbarajasphoto-29436302-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:161666;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-cbarajasphoto-29436302-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7426;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-cbarajasphoto-29436302-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:98698;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-ernesto-6188383]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-ernesto-6188383/</link>
-		<pubDate>Sun, 04 May 2025 14:33:46 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>25</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:46]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:46]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:46]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-ernesto-6188383]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-ernesto-6188383.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:35:"2025/05/pexels-ernesto-6188383.webp";s:8:"filesize";i:185162;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-ernesto-6188383-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17012;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-ernesto-6188383-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:131798;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-ernesto-6188383-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6940;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-ernesto-6188383-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:158666;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"pexels-ernesto-6188383-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:237726;}s:9:"2048x2048";a:5:{s:4:"file";s:37:"pexels-ernesto-6188383-1365x2048.webp";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:338588;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-golnar-sabzpoush-rashidi-1317651-2530383]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-golnar-sabzpoush-rashidi-1317651-2530383/</link>
-		<pubDate>Sun, 04 May 2025 14:33:56 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>26</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:33:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:33:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:56]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-golnar-sabzpoush-rashidi-1317651-2530383]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2047;s:4:"file";s:60:"2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp";s:8:"filesize";i:87942;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:60:"pexels-golnar-sabzpoush-rashidi-1317651-2530383-220x300.webp";s:5:"width";i:220;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:15232;}s:5:"large";a:5:{s:4:"file";s:61:"pexels-golnar-sabzpoush-rashidi-1317651-2530383-750x1024.webp";s:5:"width";i:750;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:79684;}s:9:"thumbnail";a:5:{s:4:"file";s:60:"pexels-golnar-sabzpoush-rashidi-1317651-2530383-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6688;}s:12:"medium_large";a:5:{s:4:"file";s:61:"pexels-golnar-sabzpoush-rashidi-1317651-2530383-768x1048.webp";s:5:"width";i:768;s:6:"height";i:1048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:80600;}s:9:"1536x1536";a:5:{s:4:"file";s:62:"pexels-golnar-sabzpoush-rashidi-1317651-2530383-1126x1536.webp";s:5:"width";i:1126;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128184;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-hellochemo-6022539]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-hellochemo-6022539/</link>
-		<pubDate>Sun, 04 May 2025 14:34:01 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-hellochemo-6022539.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-hellochemo-6022539]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-hellochemo-6022539.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-hellochemo-6022539.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2250;s:4:"file";s:38:"2025/05/pexels-hellochemo-6022539.webp";s:8:"filesize";i:20886;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:38:"pexels-hellochemo-6022539-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2026;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-hellochemo-6022539-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11108;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-hellochemo-6022539-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1212;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-hellochemo-6022539-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12866;}s:9:"1536x1536";a:5:{s:4:"file";s:40:"pexels-hellochemo-6022539-1024x1536.webp";s:5:"width";i:1024;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18566;}s:9:"2048x2048";a:5:{s:4:"file";s:40:"pexels-hellochemo-6022539-1365x2048.webp";s:5:"width";i:1365;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:26450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-hikaique-65432]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-hikaique-65432/</link>
-		<pubDate>Sun, 04 May 2025 14:34:09 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-hikaique-65432.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>28</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:09]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-hikaique-65432]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-hikaique-65432.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-hikaique-65432.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2236;s:4:"file";s:34:"2025/05/pexels-hikaique-65432.webp";s:8:"filesize";i:132376;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-hikaique-65432-201x300.webp";s:5:"width";i:201;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14682;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-hikaique-65432-687x1024.webp";s:5:"width";i:687;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:98240;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-hikaique-65432-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7122;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-hikaique-65432-768x1145.webp";s:5:"width";i:768;s:6:"height";i:1145;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:115040;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"pexels-hikaique-65432-1030x1536.webp";s:5:"width";i:1030;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:164408;}s:9:"2048x2048";a:5:{s:4:"file";s:36:"pexels-hikaique-65432-1374x2048.webp";s:5:"width";i:1374;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:232214;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-le-paon-176522580-11116655]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-le-paon-176522580-11116655/</link>
-		<pubDate>Sun, 04 May 2025 14:34:18 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>29</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:18]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:18]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-le-paon-176522580-11116655]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-le-paon-176522580-11116655.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1500;s:4:"file";s:46:"2025/05/pexels-le-paon-176522580-11116655.webp";s:8:"filesize";i:112928;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:46:"pexels-le-paon-176522580-11116655-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14836;}s:5:"large";a:5:{s:4:"file";s:48:"pexels-le-paon-176522580-11116655-1024x1024.webp";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:120868;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"pexels-le-paon-176522580-11116655-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4396;}s:12:"medium_large";a:5:{s:4:"file";s:46:"pexels-le-paon-176522580-11116655-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:78364;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-lucut-razvan-96871-13454978]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-lucut-razvan-96871-13454978/</link>
-		<pubDate>Sun, 04 May 2025 14:34:21 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>30</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-lucut-razvan-96871-13454978]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1440;s:6:"height";i:2560;s:4:"file";s:54:"2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp";s:8:"filesize";i:435376;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-lucut-razvan-96871-13454978-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11450;}s:5:"large";a:5:{s:4:"file";s:48:"pexels-lucut-razvan-96871-13454978-576x1024.webp";s:5:"width";i:576;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:104342;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-lucut-razvan-96871-13454978-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5588;}s:12:"medium_large";a:5:{s:4:"file";s:48:"pexels-lucut-razvan-96871-13454978-768x1365.webp";s:5:"width";i:768;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:171976;}s:9:"1536x1536";a:5:{s:4:"file";s:48:"pexels-lucut-razvan-96871-13454978-864x1536.webp";s:5:"width";i:864;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:208448;}s:9:"2048x2048";a:5:{s:4:"file";s:49:"pexels-lucut-razvan-96871-13454978-1152x2048.webp";s:5:"width";i:1152;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:325232;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:39:"pexels-lucut-razvan-96871-13454978.webp";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-minsubreitenstein-16816881]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-minsubreitenstein-16816881/</link>
-		<pubDate>Sun, 04 May 2025 14:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-minsubreitenstein-16816881]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-minsubreitenstein-16816881.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1125;s:4:"file";s:46:"2025/05/pexels-minsubreitenstein-16816881.webp";s:8:"filesize";i:21610;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:46:"pexels-minsubreitenstein-16816881-300x225.webp";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5122;}s:5:"large";a:5:{s:4:"file";s:47:"pexels-minsubreitenstein-16816881-1024x768.webp";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:23902;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"pexels-minsubreitenstein-16816881-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2510;}s:12:"medium_large";a:5:{s:4:"file";s:46:"pexels-minsubreitenstein-16816881-768x576.webp";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-muharrem-alper-428087426-16331573]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-muharrem-alper-428087426-16331573/</link>
-		<pubDate>Sun, 04 May 2025 14:34:39 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-16331573.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:39]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:39]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:39]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-muharrem-alper-428087426-16331573]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-16331573-scaled.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-muharrem-alper-428087426-16331573-scaled.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1440;s:6:"height";i:2560;s:4:"file";s:60:"2025/05/pexels-muharrem-alper-428087426-16331573-scaled.webp";s:8:"filesize";i:339992;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-16331573-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10196;}s:5:"large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-16331573-576x1024.webp";s:5:"width";i:576;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:90348;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-16331573-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5098;}s:12:"medium_large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-16331573-768x1365.webp";s:5:"width";i:768;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:141896;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-16331573-864x1536.webp";s:5:"width";i:864;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:170196;}s:9:"2048x2048";a:5:{s:4:"file";s:55:"pexels-muharrem-alper-428087426-16331573-1152x2048.webp";s:5:"width";i:1152;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:256228;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:45:"pexels-muharrem-alper-428087426-16331573.webp";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-muharrem-alper-428087426-31682433]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-muharrem-alper-428087426-31682433/</link>
-		<pubDate>Sun, 04 May 2025 14:34:53 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682433.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:34:53]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:34:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-muharrem-alper-428087426-31682433]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682433-scaled.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-muharrem-alper-428087426-31682433-scaled.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1440;s:6:"height";i:2560;s:4:"file";s:60:"2025/05/pexels-muharrem-alper-428087426-31682433-scaled.webp";s:8:"filesize";i:115422;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682433-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5236;}s:5:"large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682433-576x1024.webp";s:5:"width";i:576;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:32084;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682433-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2828;}s:12:"medium_large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682433-768x1365.webp";s:5:"width";i:768;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:48852;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682433-864x1536.webp";s:5:"width";i:864;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:59182;}s:9:"2048x2048";a:5:{s:4:"file";s:55:"pexels-muharrem-alper-428087426-31682433-1152x2048.webp";s:5:"width";i:1152;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:86018;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:45:"pexels-muharrem-alper-428087426-31682433.webp";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-muharrem-alper-428087426-31682434]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-muharrem-alper-428087426-31682434/</link>
-		<pubDate>Sun, 04 May 2025 14:35:05 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682434.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:35:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:35:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-muharrem-alper-428087426-31682434]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682434.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-muharrem-alper-428087426-31682434.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2000;s:4:"file";s:53:"2025/05/pexels-muharrem-alper-428087426-31682434.webp";s:8:"filesize";i:29796;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682434-225x300.webp";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3016;}s:5:"large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682434-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18930;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682434-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1566;}s:12:"medium_large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682434-768x1024.webp";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18930;}s:9:"1536x1536";a:5:{s:4:"file";s:55:"pexels-muharrem-alper-428087426-31682434-1152x1536.webp";s:5:"width";i:1152;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:33704;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-muharrem-alper-428087426-31682436]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-muharrem-alper-428087426-31682436/</link>
-		<pubDate>Sun, 04 May 2025 14:35:10 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>35</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:35:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:35:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:10]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-muharrem-alper-428087426-31682436]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1440;s:6:"height";i:2560;s:4:"file";s:60:"2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp";s:8:"filesize";i:141282;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682436-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5526;}s:5:"large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682436-576x1024.webp";s:5:"width";i:576;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:37442;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682436-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3874;}s:12:"medium_large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682436-768x1365.webp";s:5:"width";i:768;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:58304;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682436-864x1536.webp";s:5:"width";i:864;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:70558;}s:9:"2048x2048";a:5:{s:4:"file";s:55:"pexels-muharrem-alper-428087426-31682436-1152x2048.webp";s:5:"width";i:1152;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:106478;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:45:"pexels-muharrem-alper-428087426-31682436.webp";}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-parviz-besharat-pur-2145697-5873314]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-parviz-besharat-pur-2145697-5873314/</link>
-		<pubDate>Sun, 04 May 2025 14:35:22 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>36</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:35:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:35:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-parviz-besharat-pur-2145697-5873314]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:929;s:4:"file";s:55:"2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp";s:8:"filesize";i:33856;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:55:"pexels-parviz-besharat-pur-2145697-5873314-300x186.webp";s:5:"width";i:300;s:6:"height";i:186;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6102;}s:5:"large";a:5:{s:4:"file";s:56:"pexels-parviz-besharat-pur-2145697-5873314-1024x634.webp";s:5:"width";i:1024;s:6:"height";i:634;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:35244;}s:9:"thumbnail";a:5:{s:4:"file";s:55:"pexels-parviz-besharat-pur-2145697-5873314-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3630;}s:12:"medium_large";a:5:{s:4:"file";s:55:"pexels-parviz-besharat-pur-2145697-5873314-768x476.webp";s:5:"width";i:768;s:6:"height";i:476;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:24670;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-qhung999-16494873]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-qhung999-16494873/</link>
-		<pubDate>Sun, 04 May 2025 14:35:24 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>37</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:35:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:35:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:24]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-qhung999-16494873]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-qhung999-16494873.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2192;s:4:"file";s:37:"2025/05/pexels-qhung999-16494873.webp";s:8:"filesize";i:231670;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:37:"pexels-qhung999-16494873-205x300.webp";s:5:"width";i:205;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17052;}s:5:"large";a:5:{s:4:"file";s:38:"pexels-qhung999-16494873-701x1024.webp";s:5:"width";i:701;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:152220;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"pexels-qhung999-16494873-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7112;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-qhung999-16494873-768x1122.webp";s:5:"width";i:768;s:6:"height";i:1122;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:176970;}s:9:"1536x1536";a:5:{s:4:"file";s:39:"pexels-qhung999-16494873-1051x1536.webp";s:5:"width";i:1051;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:290052;}s:9:"2048x2048";a:5:{s:4:"file";s:39:"pexels-qhung999-16494873-1401x2048.webp";s:5:"width";i:1401;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:421030;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/2025/05/04/navigation/</link>
+		<link>https://alfred.mikimalio.com/2025/05/04/navigation/</link>
 		<pubDate>Sun, 04 May 2025 14:26:13 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/2025/05/04/navigation/</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/2025/05/04/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -755,10 +95,10 @@
 														</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/</link>
+		<link>https://alfred.mikimalio.com/</link>
 		<pubDate>Sun, 04 May 2025 14:30:26 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?page_id=9</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","level":1,"fontSize":"xx-large"} -->
 <h1 class="wp-block-heading has-text-align-center has-xx-large-font-size">Photographer</h1>
@@ -785,10 +125,10 @@
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/2025/05/04/wp-global-styles-minimalio/</link>
+		<link>https://alfred.mikimalio.com/2025/05/04/wp-global-styles-minimalio/</link>
 		<pubDate>Sun, 04 May 2025 14:30:21 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/2025/05/04/wp-global-styles-minimalio/</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/2025/05/04/wp-global-styles-minimalio/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -809,140 +149,16 @@
 										<category domain="wp_theme" nicename="minimalio"><![CDATA[minimalio]]></category>
 						</item>
 					<item>
-		<title><![CDATA[London]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/</link>
-		<pubDate>Sun, 04 May 2025 14:31:22 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?post_type=portfolio&#038;p=15</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"5d3729e5","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":203,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957-203x300.webp","orientation":"portrait"},"large":{"height":1024,"width":693,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957-693x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957.webp","height":2216,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":38,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-serinus-5838957/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-300x300.webp","orientation":"landscape"},"large":{"height":1024,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-1024x1024.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp","height":1500,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":29,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-le-paon-176522580-11116655/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267-150x150.webp","orientation":"landscape"},"medium":{"height":200,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267-300x200.webp","orientation":"landscape"},"large":{"height":683,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267-1024x683.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267.webp","height":1000,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":39,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-who0ne-31573267/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":205,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873-205x300.webp","orientation":"portrait"},"large":{"height":1024,"width":701,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873-701x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873.webp","height":2192,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":37,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-qhung999-16494873/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314-150x150.webp","orientation":"landscape"},"medium":{"height":186,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314-300x186.webp","orientation":"landscape"},"large":{"height":634,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314-1024x634.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp","height":929,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":36,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-parviz-besharat-pur-2145697-5873314/","caption":""}],"colDevice":"smartphone","deskCol":1,"tabCol":1,"deskGap":4,"imageHoverEffect":"zoom__in"} -->
-<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-1 md:grid-cols-1 grid-cols-1 dg__4 tg__2 pg__2" data-id="5d3729e5" data-grid="masonry" id="5d3729e5"><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957.webp" alt="Gallery Image" class="wp-image-38"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp" alt="Gallery Image" class="wp-image-29"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267.webp" alt="Gallery Image" class="wp-image-39"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-qhung999-16494873.webp" alt="Gallery Image" class="wp-image-37"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-parviz-besharat-pur-2145697-5873314.webp" alt="Gallery Image" class="wp-image-36"/></a></figure></figure>
-<!-- /wp:minimalio-blocks/minimalio-gallery --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":1,"fontSize":"xx-large"} -->
-<h1 class="wp-block-heading has-xx-large-font-size">London</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"x-large"} -->
-<p class="has-x-large-font-size">Focusing on overlooked corners and shadowed alleyways, this project reveals the quiet poetry of urban design. Unusual perspectives and tight framing challenge the viewer’s sense of scale. The series evokes a mood of solitude amid chaos. The photographer used natural light at dusk to highlight textures and soft contrasts. It’s a tribute to the city’s unnoticed beauty.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>15</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:31:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:31:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 15:11:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 15:11:31]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[london]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="pattern"><![CDATA[Pattern]]></category>
-		<category domain="portfolio-categories" nicename="structure"><![CDATA[Structure]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[38]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Berlin]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/berlin/</link>
-		<pubDate>Sun, 04 May 2025 14:31:28 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?post_type=portfolio&#038;p=16</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"9970cc38","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":220,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383-220x300.webp","orientation":"portrait"},"large":{"height":1024,"width":750,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383-750x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp","height":2047,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":26,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-golnar-sabzpoush-rashidi-1317651-2530383/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614-683x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614.webp","height":2250,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":22,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-caique-araujo-101156227-10579614/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383-683x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383.webp","height":2250,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":25,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-ernesto-6188383/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302-150x150.webp","orientation":"landscape"},"medium":{"height":200,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302-300x200.webp","orientation":"landscape"},"large":{"height":683,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302-1024x683.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302.webp","height":1000,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":24,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-cbarajasphoto-29436302/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659-683x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659.webp","height":2250,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":23,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-cax0000-1880659/","caption":""}],"colDevice":"smartphone","deskCol":1,"tabCol":1,"deskGap":4,"imageHoverEffect":"zoom__in"} -->
-<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-1 md:grid-cols-1 grid-cols-1 dg__4 tg__2 pg__2" data-id="9970cc38" data-grid="masonry" id="9970cc38"><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-golnar-sabzpoush-rashidi-1317651-2530383.webp" alt="Gallery Image" class="wp-image-26"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-caique-araujo-101156227-10579614.webp" alt="Gallery Image" class="wp-image-22"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-ernesto-6188383.webp" alt="Gallery Image" class="wp-image-25"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cbarajasphoto-29436302.webp" alt="Gallery Image" class="wp-image-24"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-cax0000-1880659.webp" alt="Gallery Image" class="wp-image-23"/></a></figure></figure>
-<!-- /wp:minimalio-blocks/minimalio-gallery --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":1,"fontSize":"xx-large"} -->
-<h1 class="wp-block-heading has-xx-large-font-size">Berlin</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"fontSize":"x-large"} -->
-<p class="has-x-large-font-size">Set in the high-rise business districts of Berlin, this series emphasizes brutal surfaces and towering concrete facades. Structures and long exposures bring a cinematic edge to the shots. The work explores the tension between modernity and overdevelopment. Skyscrapers loom like monoliths, blurring the line between architecture and art. The atmosphere is vibrant yet unsettling.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>16</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:31:28]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:31:28]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 15:11:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 15:11:25]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[berlin]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="portfolio-categories" nicename="building"><![CDATA[Building]]></category>
-		<category domain="portfolio-categories" nicename="structure"><![CDATA[Structure]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[26]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[New York]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/new-york/</link>
+		<link>https://alfred.mikimalio.com/portfolio/new-york/</link>
 		<pubDate>Sun, 04 May 2025 14:31:38 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?post_type=portfolio&#038;p=17</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?post_type=portfolio&#038;p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"a1ba9c65","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701-683x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701.webp","height":2250,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":18,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-adnan-asim-1029876826-23319701/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113-150x150.webp","orientation":"landscape"},"medium":{"height":200,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113-300x200.webp","orientation":"landscape"},"large":{"height":681,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113-1024x681.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp","height":998,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":21,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-brett-sayles-12907113/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148-683x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp","height":2250,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":20,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-aysenaz-bilgin-421884106-16885148/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":225,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267-225x300.webp","orientation":"portrait"},"large":{"height":1024,"width":768,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267-768x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267.webp","height":2000,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":19,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-anshu-kumar-2148611331-31379267/","caption":""}],"colDevice":"smartphone","deskCol":1,"tabCol":1,"deskGap":4,"imageHoverEffect":"zoom__in"} -->
-<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-1 md:grid-cols-1 grid-cols-1 dg__4 tg__2 pg__2" data-id="a1ba9c65" data-grid="masonry" id="a1ba9c65"><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-adnan-asim-1029876826-23319701.webp" alt="Gallery Image" class="wp-image-18"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp" alt="Gallery Image" class="wp-image-21"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-aysenaz-bilgin-421884106-16885148.webp" alt="Gallery Image" class="wp-image-20"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-anshu-kumar-2148611331-31379267.webp" alt="Gallery Image" class="wp-image-19"/></a></figure></figure>
+<div class="wp-block-column"><!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"62f53472","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113-150x150.webp","orientation":"landscape"},"medium":{"height":200,"width":300,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113-300x200.webp","orientation":"landscape"},"large":{"height":681,"width":1024,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113-1024x681.webp","orientation":"landscape"},"full":{"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp","height":998,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":21,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp","alt":"","link":"https://alfred.mikimalio.com/pexels-brett-sayles-12907113/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":201,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432-201x300.webp","orientation":"portrait"},"large":{"height":1024,"width":687,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432-687x1024.webp","orientation":"portrait"},"full":{"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432.webp","height":2236,"width":1500,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":28,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432.webp","alt":"","link":"https://alfred.mikimalio.com/pexels-hikaique-65432/","caption":""}],"colDevice":"smartphone","deskCol":1,"tabCol":1,"deskGap":4,"imageHoverEffect":"zoom__in"} -->
+<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-1 md:grid-cols-1 grid-cols-1 dg__4 tg__2 pg__2" data-id="62f53472" data-grid="masonry" id="62f53472"><figure class="wp-block-image zoom__in ratio_1-1"><a href="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp"><img src="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp" alt="Gallery Image" class="wp-image-21"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432.webp"><img src="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432.webp" alt="Gallery Image" class="wp-image-28"/></a></figure></figure>
 <!-- /wp:minimalio-blocks/minimalio-gallery --></div>
 <!-- /wp:column -->
 
@@ -960,8 +176,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2025-05-04 14:31:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-05-04 14:31:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 15:11:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 15:11:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-01 13:42:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-01 13:42:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-york]]></wp:post_name>
@@ -995,77 +211,143 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[pexels-serinus-5838957]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-serinus-5838957/</link>
-		<pubDate>Sun, 04 May 2025 14:35:34 +0000</pubDate>
+		<title><![CDATA[pexels-brett-sayles-12907113]]></title>
+		<link>https://alfred.mikimalio.com/pexels-brett-sayles-12907113/</link>
+		<pubDate>Sun, 04 May 2025 14:33:23 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957.webp</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>38</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:35:34]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:35:34]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:34]]></wp:post_modified_gmt>
+		<wp:post_id>21</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-04 14:33:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-04 14:33:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-04 14:33:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-04 14:33:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-serinus-5838957]]></wp:post_name>
+		<wp:post_name><![CDATA[pexels-brett-sayles-12907113]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-serinus-5838957.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-brett-sayles-12907113.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-serinus-5838957.webp]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2025/05/pexels-brett-sayles-12907113.webp]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2216;s:4:"file";s:35:"2025/05/pexels-serinus-5838957.webp";s:8:"filesize";i:82788;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-serinus-5838957-203x300.webp";s:5:"width";i:203;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14722;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-serinus-5838957-693x1024.webp";s:5:"width";i:693;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:73670;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-serinus-5838957-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6368;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-serinus-5838957-768x1135.webp";s:5:"width";i:768;s:6:"height";i:1135;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:80058;}s:9:"1536x1536";a:5:{s:4:"file";s:37:"pexels-serinus-5838957-1040x1536.webp";s:5:"width";i:1040;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:113138;}s:9:"2048x2048";a:5:{s:4:"file";s:37:"pexels-serinus-5838957-1386x2048.webp";s:5:"width";i:1386;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:153700;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:998;s:4:"file";s:41:"2025/05/pexels-brett-sayles-12907113.webp";s:8:"filesize";i:123030;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:41:"pexels-brett-sayles-12907113-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:16992;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-brett-sayles-12907113-1024x681.webp";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:135496;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-brett-sayles-12907113-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7120;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-brett-sayles-12907113-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:85450;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[pexels-who0ne-31573267]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-who0ne-31573267/</link>
-		<pubDate>Sun, 04 May 2025 14:35:43 +0000</pubDate>
+		<title><![CDATA[pexels-hikaique-65432]]></title>
+		<link>https://alfred.mikimalio.com/pexels-hikaique-65432/</link>
+		<pubDate>Sun, 04 May 2025 14:34:09 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267.webp</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>39</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 14:35:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 14:35:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:43]]></wp:post_modified_gmt>
+		<wp:post_id>28</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-04 14:34:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-04 14:34:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-who0ne-31573267]]></wp:post_name>
+		<wp:post_name><![CDATA[pexels-hikaique-65432]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>15</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-who0ne-31573267.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-hikaique-65432.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-who0ne-31573267.webp]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2025/05/pexels-hikaique-65432.webp]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1000;s:4:"file";s:35:"2025/05/pexels-who0ne-31573267.webp";s:8:"filesize";i:73554;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:35:"pexels-who0ne-31573267-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:11002;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-who0ne-31573267-1024x683.webp";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:80750;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-who0ne-31573267-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4956;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-who0ne-31573267-768x512.webp";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:51710;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:2236;s:4:"file";s:34:"2025/05/pexels-hikaique-65432.webp";s:8:"filesize";i:132376;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-hikaique-65432-201x300.webp";s:5:"width";i:201;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14682;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-hikaique-65432-687x1024.webp";s:5:"width";i:687;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:98240;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-hikaique-65432-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7122;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-hikaique-65432-768x1145.webp";s:5:"width";i:768;s:6:"height";i:1145;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:115040;}s:9:"1536x1536";a:5:{s:4:"file";s:36:"pexels-hikaique-65432-1030x1536.webp";s:5:"width";i:1030;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:164408;}s:9:"2048x2048";a:5:{s:4:"file";s:36:"pexels-hikaique-65432-1374x2048.webp";s:5:"width";i:1374;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:232214;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-le-paon-176522580-11116655]]></title>
+		<link>https://alfred.mikimalio.com/pexels-le-paon-176522580-11116655/</link>
+		<pubDate>Sun, 04 May 2025 14:34:18 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-04 14:34:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-04 14:34:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-04 14:34:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-04 14:34:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-le-paon-176522580-11116655]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/pexels-le-paon-176522580-11116655.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1500;s:4:"file";s:46:"2025/05/pexels-le-paon-176522580-11116655.webp";s:8:"filesize";i:112928;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:46:"pexels-le-paon-176522580-11116655-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14836;}s:5:"large";a:5:{s:4:"file";s:48:"pexels-le-paon-176522580-11116655-1024x1024.webp";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:120868;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"pexels-le-paon-176522580-11116655-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4396;}s:12:"medium_large";a:5:{s:4:"file";s:46:"pexels-le-paon-176522580-11116655-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:78364;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[pexels-muharrem-alper-428087426-31682436]]></title>
+		<link>https://alfred.mikimalio.com/pexels-muharrem-alper-428087426-31682436/</link>
+		<pubDate>Sun, 04 May 2025 14:35:10 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2025-05-04 14:35:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-05-04 14:35:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-05-04 14:35:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-05-04 14:35:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[pexels-muharrem-alper-428087426-31682436]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1440;s:6:"height";i:2560;s:4:"file";s:60:"2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp";s:8:"filesize";i:141282;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682436-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5526;}s:5:"large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682436-576x1024.webp";s:5:"width";i:576;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:37442;}s:9:"thumbnail";a:5:{s:4:"file";s:53:"pexels-muharrem-alper-428087426-31682436-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3874;}s:12:"medium_large";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682436-768x1365.webp";s:5:"width";i:768;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:58304;}s:9:"1536x1536";a:5:{s:4:"file";s:54:"pexels-muharrem-alper-428087426-31682436-864x1536.webp";s:5:"width";i:864;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:70558;}s:9:"2048x2048";a:5:{s:4:"file";s:55:"pexels-muharrem-alper-428087426-31682436-1152x2048.webp";s:5:"width";i:1152;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:106478;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}s:14:"original_image";s:45:"pexels-muharrem-alper-428087426-31682436.webp";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[About me]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/about-me/</link>
+		<link>https://alfred.mikimalio.com/about-me/</link>
 		<pubDate>Sun, 04 May 2025 14:39:45 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?page_id=45</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?page_id=45</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
@@ -1088,7 +370,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":71,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-xxx-jefferson-6785331-1024x1024.webp" alt="" class="wp-image-71"/></figure>
+<figure class="wp-block-image size-large"><img src="https://alfred.mikimalio.com/domains/alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-xxx-jefferson-6785331-1024x1024.webp" alt="" class="wp-image-71"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
@@ -1110,10 +392,10 @@
 														</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/2025/05/04/47/</link>
+		<link>https://alfred.mikimalio.com/2025/05/04/47/</link>
 		<pubDate>Sun, 04 May 2025 14:39:57 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?p=47</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1167,10 +449,10 @@
 							</item>
 					<item>
 		<title><![CDATA[minimalio]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/2025/05/04/minimalio/</link>
+		<link>https://alfred.mikimalio.com/2025/05/04/minimalio/</link>
 		<pubDate>Sun, 04 May 2025 14:42:51 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/2025/05/04/minimalio/</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/2025/05/04/minimalio/</guid>
 		<description></description>
 		<content:encoded><![CDATA[.header__brand, .post-card__heading, .posts-ajax__tab-label {
 	font-size:clamp(1.944rem, 1.5904rem + 1.7682vw, 2.9607rem)!important;
@@ -1197,15 +479,15 @@ h1 {
 														</item>
 					<item>
 		<title><![CDATA[Oslo]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/portfolio/oslo/</link>
+		<link>https://alfred.mikimalio.com/portfolio/oslo/</link>
 		<pubDate>Sun, 04 May 2025 15:02:53 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?post_type=portfolio&#038;p=70</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?post_type=portfolio&#038;p=70</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"97f899c8","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":169,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-169x300.webp","orientation":"portrait"},"large":{"height":1024,"width":576,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-576x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp","height":2560,"width":1440,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":35,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-muharrem-alper-428087426-31682436/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-300x300.webp","orientation":"landscape"},"large":{"height":1024,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-1024x1024.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp","height":1500,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":29,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-le-paon-176522580-11116655/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":169,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-169x300.webp","orientation":"portrait"},"large":{"height":1024,"width":576,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-576x1024.webp","orientation":"portrait"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp","height":2560,"width":1440,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":30,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-lucut-razvan-96871-13454978/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881-150x150.webp","orientation":"landscape"},"medium":{"height":225,"width":300,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881-300x225.webp","orientation":"landscape"},"large":{"height":768,"width":1024,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881-1024x768.webp","orientation":"landscape"},"full":{"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881.webp","height":1125,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":31,"url":"http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881.webp","alt":"","link":"http://localhost:8888/demosfinal/alfred/portfolio/london/pexels-minsubreitenstein-16816881/","caption":""}],"colDevice":"smartphone","deskCol":1,"tabCol":1,"deskGap":4,"imageHoverEffect":"zoom__in"} -->
-<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-1 md:grid-cols-1 grid-cols-1 dg__4 tg__2 pg__2" data-id="97f899c8" data-grid="masonry" id="97f899c8"><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp" alt="Gallery Image" class="wp-image-35"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp" alt="Gallery Image" class="wp-image-29"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-lucut-razvan-96871-13454978-scaled.webp" alt="Gallery Image" class="wp-image-30"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881.webp"><img src="http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-minsubreitenstein-16816881.webp" alt="Gallery Image" class="wp-image-31"/></a></figure></figure>
+<div class="wp-block-column"><!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"06ef8e03","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":169,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-169x300.webp","orientation":"portrait"},"large":{"height":1024,"width":576,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-576x1024.webp","orientation":"portrait"},"full":{"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp","height":2560,"width":1440,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":35,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp","alt":"","link":"https://alfred.mikimalio.com/pexels-muharrem-alper-428087426-31682436/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":300,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-300x300.webp","orientation":"landscape"},"large":{"height":1024,"width":1024,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655-1024x1024.webp","orientation":"landscape"},"full":{"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp","height":1500,"width":1500,"orientation":"landscape"}},"mime":"image/webp","type":"image","subtype":"webp","id":29,"url":"https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp","alt":"","link":"https://alfred.mikimalio.com/pexels-le-paon-176522580-11116655/","caption":""}],"colDevice":"smartphone","deskCol":1,"tabCol":1,"deskGap":4,"imageHoverEffect":"zoom__in"} -->
+<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-1 md:grid-cols-1 grid-cols-1 dg__4 tg__2 pg__2" data-id="06ef8e03" data-grid="masonry" id="06ef8e03"><figure class="wp-block-image zoom__in ratio_1-1"><a href="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp"><img src="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-muharrem-alper-428087426-31682436-scaled.webp" alt="Gallery Image" class="wp-image-35"/></a></figure><figure class="wp-block-image zoom__in ratio_1-1"><a href="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp"><img src="https://alfred.mikimalio.com/wp-content/uploads/2025/05/pexels-le-paon-176522580-11116655.webp" alt="Gallery Image" class="wp-image-29"/></a></figure></figure>
 <!-- /wp:minimalio-blocks/minimalio-gallery --></div>
 <!-- /wp:column -->
 
@@ -1223,8 +505,8 @@ h1 {
 		<wp:post_id>70</wp:post_id>
 		<wp:post_date><![CDATA[2025-05-04 15:02:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-05-04 15:02:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 15:11:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 15:11:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-01 13:42:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-01 13:42:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[oslo]]></wp:post_name>
@@ -1258,44 +540,11 @@ h1 {
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[pexels-xxx-jefferson-6785331]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/about-me/pexels-xxx-jefferson-6785331/</link>
-		<pubDate>Sun, 04 May 2025 15:06:44 +0000</pubDate>
-		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-xxx-jefferson-6785331.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>71</wp:post_id>
-		<wp:post_date><![CDATA[2025-05-04 15:06:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-05-04 15:06:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-05-04 15:06:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-05-04 15:06:44]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-xxx-jefferson-6785331]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>45</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://localhost:8888/demosfinal/alfred/wp-content/uploads/2025/05/pexels-xxx-jefferson-6785331.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/05/pexels-xxx-jefferson-6785331.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1500;s:6:"height";i:1500;s:4:"file";s:41:"2025/05/pexels-xxx-jefferson-6785331.webp";s:8:"filesize";i:14196;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:41:"pexels-xxx-jefferson-6785331-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1578;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-xxx-jefferson-6785331-1024x1024.webp";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10304;}s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-xxx-jefferson-6785331-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:678;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-xxx-jefferson-6785331-768x768.webp";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6458;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/2025/05/04/74/</link>
+		<link>https://alfred.mikimalio.com/2025/05/04/74/</link>
 		<pubDate>Sun, 04 May 2025 15:08:34 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?p=74</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?p=74</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1349,10 +598,10 @@ h1 {
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>http://localhost:8888/demosfinal/alfred/2025/05/04/instagram/</link>
+		<link>https://alfred.mikimalio.com/2025/05/04/instagram/</link>
 		<pubDate>Sun, 04 May 2025 15:09:24 +0000</pubDate>
 		<dc:creator><![CDATA[Minimalio]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/demosfinal/alfred/?p=76</guid>
+		<guid isPermaLink="false">https://alfred.mikimalio.com/domains/alfred.mikimalio.com/?p=76</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>

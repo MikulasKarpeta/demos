@@ -2,74 +2,59 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-06-30 16:39:26",
-        "site_url": "http://localhost:8888/claude",
+        "export_date": "2025-07-01 13:43:53",
+        "site_url": "https://alfred.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
     "theme_mods": {
-        "minimalio_settings_header_container_type": "container",
+        "0": false,
+        "minimalio_settings_header_container_type": "container-fluid",
         "nav_menu_locations": {
-            "primary": 229
+            "primary": 3
         },
-        "minimalio_settings_portfolio_hover_option": "hover-image",
-        "minimalio_settings_header_variation": "vertical",
-        "minimalio_settings_portfolio_style": "style_3",
-        "minimalio_typography_settings_google_font": "Afacad",
-        "minimalio_settings_portfolio_columns": 3,
-        "minimalio_settings_portfolio_gap": "gap_2",
-        "minimalio_settings_container_type": "container",
-        "minimalio_settings_container_width": 1400,
-        "minimalio_settings_header_color": "#303030",
-        "minimalio_settings_social_media_location": "header",
-        "minimalio_settings_social_media_instagram": "#",
-        "minimalio_settings_social_media_linkedin": "",
+        "custom_css_post_id": 51,
+        "minimalio_typography_settings_google_font": "Roboto",
+        "minimalio_typography_settings_google_font_wight": 900,
+        "minimalio_settings_heading_sizes": "headings-scale-1-5",
+        "minimalio_settings_color_background": "#0a0a0a",
+        "minimalio_settings_font_color": "#ffffff",
+        "minimalio_settings_header_color": "#ffffff",
+        "minimalio_settings_menu_google_font_size": 40,
+        "minimalio_settings_portfolio_gap": "gap_3",
+        "minimalio_settings_portfolio_columns": 2,
+        "minimalio_settings_portfolio_type": "grid",
+        "minimalio_settings_portfolio_style": "style_1",
+        "minimalio_settings_portfolio_hover_color": "rgba(0,0,0,0.77)",
+        "minimalio_settings_container_type": "container-fluid",
+        "minimalio_gallery_bg_color_settings": "#0a0a0a",
+        "minimalio_settings_fixed_heading": "yes",
+        "minimalio_settings_social_media_location": "no",
+        "minimalio_settings_social_media_instagram": "",
         "minimalio_settings_social_media_pinterest": "",
-        "minimalio_settings_menu_google_font_size": 16,
-        "minimalio_settings_link_weight": "bold",
-        "minimalio_typography_settings_google_font_wight": 600,
-        "minimalio_settings_post_card_image_aspect_ratio": "1-1",
-        "minimalio_settings_portfolio_pagination": "load_scroll",
-        "minimalio_settings_single_portfolio_latest_portfolio_title": "yes",
-        "minimalio_settings_single_portfolio_latest_portfolio_title_label": "Latest",
-        "minimalio_settings_single_portfolio_latest_portfolio_title_size": "h4",
-        "minimalio_settings_single_portfolio_latest_portfolio_number": 3,
-        "minimalio_settings_single_portfolio_navigation": "yes",
-        "minimalio_settings_single_portfolio_latest": "yes",
-        "minimalio_settings_header_color_hover": "#0a0a0a",
-        "minimalio_settings_font_color": "#0a0a0a",
-        "minimalio_settings_single_post_title": "yes",
-        "minimalio_settings_single_post_title_size": "h2",
-        "minimalio_settings_single_post_title_align": "justify-center",
-        "minimalio_settings_single_post_latest_posts": "yes",
-        "minimalio_settings_single_post_latest_posts_title": "yes",
-        "minimalio_settings_single_post_latest_posts_title_label": "Latest",
-        "minimalio_settings_single_post_latest_posts_title_size": "h4",
-        "minimalio_settings_single_post_latest_posts_number": 3,
-        "minimalio_settings_blog_hover_color": "rgba(10,10,10,0.48)",
-        "minimalio_settings_google_letter_spacing": "",
-        "minimalio_settings_menu_google_letter_spacing": "2",
-        "minimalio_settings_header_background": "#ffffff",
-        "custom_css_post_id": 3366
+        "minimalio_settings_social_media_mail": "",
+        "minimalio_settings_footer_container": "container-fluid",
+        "minimalio_settings_mobile_menu_icon_colour": "#ffffff",
+        "minimalio_settings_mobile_menu_icon_colour_fixed": "#ffffff",
+        "minimalio_settings_mobile_top_background": "#0a0a0a",
+        "minimalio_settings_mobile_menu_width": "full-width",
+        "minimalio_settings_mobile_close_colour": "#ffffff",
+        "minimalio_settings_mobile_body_background": "#0a0a0a",
+        "minimalio_settings_mobile_font_colour": "#ffffff",
+        "minimalio_settings_mobile_font_size": 40
     },
-    "custom_css": ".vertical .menu-main-container {margin-top: 10rem!important}\n\n.posts-ajax__categories-wrapper, .posts__categories-wrapper {\n\tmargin-top:1rem;\n}\n\n.posts-ajax__categories-wrapper span, .posts__categories-wrapper span {\n\tfont-size:16px;\n}\n\nbody {\n\tmargin-top:1rem;\n}\n\n.header__brand {\n\tfont-family:Baskervville;\n\tfont-weight:100;\n}\n\n\n@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');\n\n",
+    "custom_css": ".header__brand, .post-card__heading, .posts-ajax__tab-label {\n\tfont-size:clamp(1.944rem, 1.5904rem + 1.7682vw, 2.9607rem)!important;\n}\n\nh1 {\n\tword-break:break-word;\n}",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
-            "right-sidebar": [
-                "block-2",
-                "block-3",
-                "block-4"
-            ],
-            "left-sidebar": [
-                "block-5",
-                "block-6"
-            ],
+            "right-sidebar": [],
+            "left-sidebar": [],
             "right-sidebar-blog": [],
             "left-sidebar-blog": [],
             "headerfull": [],
             "footerfull": [
-                "block-7"
+                "block-7",
+                "block-8"
             ]
         },
         "widget_content": {
@@ -128,60 +113,24 @@
                 "_multiwidget": 1
             },
             "block": {
-                "2": {
-                    "content": "<!-- wp:search /-->"
-                },
-                "3": {
-                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
-                },
-                "4": {
-                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
-                },
-                "5": {
-                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
-                },
-                "6": {
-                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
-                },
                 "7": {
-                    "content": "<!-- wp:paragraph -->\n<p>email@email.com</p>\n<!-- /wp:paragraph -->"
+                    "content": "<!-- wp:paragraph {\"fontSize\":\"x-large\"} -->\n<p class=\"has-x-large-font-size\"><a href=\"mailto:email@email.com\">email@email.com</a></p>\n<!-- /wp:paragraph -->"
+                },
+                "8": {
+                    "content": "<!-- wp:paragraph {\"fontSize\":\"x-large\"} -->\n<p class=\"has-x-large-font-size\"><a href=\"#\">Instragram</a></p>\n<!-- /wp:paragraph -->"
                 },
                 "_multiwidget": 1
             }
         },
         "widget_metadata": {
             "block": {
-                "2": {
-                    "type": "block",
-                    "title": "",
-                    "content_preview": "",
-                    "unique_identifier": ""
-                },
-                "3": {
-                    "type": "block",
-                    "title": "",
-                    "content_preview": "",
-                    "unique_identifier": ""
-                },
-                "4": {
-                    "type": "block",
-                    "title": "",
-                    "content_preview": "",
-                    "unique_identifier": ""
-                },
-                "5": {
-                    "type": "block",
-                    "title": "",
-                    "content_preview": "",
-                    "unique_identifier": ""
-                },
-                "6": {
-                    "type": "block",
-                    "title": "",
-                    "content_preview": "",
-                    "unique_identifier": ""
-                },
                 "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "8": {
                     "type": "block",
                     "title": "",
                     "content_preview": "",
@@ -192,17 +141,17 @@
     },
     "front_page": {
         "show_on_front": "page",
-        "page_on_front": "6",
+        "page_on_front": "9",
         "page_for_posts": "0",
-        "front_page_title": "About me",
+        "front_page_title": "Home",
         "posts_page_title": null
     },
     "menus": {
         "nav_menu_locations": {
-            "primary": 229
+            "primary": 3
         },
         "menu_names": {
-            "primary": "main"
+            "primary": "main-menu"
         }
     }
 }

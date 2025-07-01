@@ -1,0 +1,116 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2025-07-01 10:43:14",
+        "site_url": "https://george.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "minimalio_settings_header_container_type": "container-fluid",
+        "minimalio_settings_container_type": "container-fluid",
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_settings_color_background": "#f2fff3",
+        "minimalio_typography_settings_google_font": "Times+New+Roman",
+        "minimalio_settings_archive_template_filter_enable": "no",
+        "minimalio_settings_mobile_menu_breack": 1,
+        "minimalio_settings_blog_pagination": "no",
+        "minimalio_settings_blog_post_card": "style_3",
+        "custom_css_post_id": 251
+    },
+    "custom_css": "/* BODY FONT */\n\n.post-template-default {\n\tmax-width:700px;\n\tfloat:left;\n}\n\n/* HEADER */\n\n.header {\n\tpadding-bottom:0;\n}\n\n.content-area {\n\tpadding-top:5px;\n}\n\n.header__row {\n\tjustify-content:flex-start;\n}\n\n.header__col-left {\n\tdisplay:none;\n}\n\n.header__menu {\n\tdisplay:block;\n\tpadding:0;\n}\n\n.header__menu li a.nav__link {\n\tmargin:0;\n\tpadding:0;\n}\n\n/* Blog page */\n\n.posts__row {\n\tdisplay: flex;\n  flex-wrap: wrap;\n}\n\n.blog .blog-post-card-3 {\n\t\tflex-direction:column;\n}\n\n.post-item  {\n\twidth:200px!important;\n\tfloat:left;\n\tmargin-right: 1rem;\n}\n\n.post-card__body * {\n\tfont-size:14px!important;\n\tline-height:16px;\npadding:0 0 2px 0!important;\n}\n\n.post-card__image {\n\tmargin:0 0 8px 0!important;\n}\n\n.post-card__heading {\n\tcolor:blue;\n\tfont-style:italic;\n\ttext-decoration:underline;\n}\n\n.post-card__date {\n\tdisplay:none;\n}\n\n/* Single post */\n.single-post .entry-content, .single-portfolio .entry-content\n{\n\tmargin-top:5px;\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [
+                "block-8"
+            ],
+            "footerfull": []
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "8": {
+                    "content": "<!-- wp:paragraph {\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"#006cf9\"}}}}} -->\n<p class=\"has-link-color\">georgedoe@georgedoe.com (added in Appearance -> Widgets -> Header Widget)<br>+49 01 455 644 579<br><a href=\"#\" data-type=\"link\" data-id=\"george.minimalio.org\">home</a></p>\n<!-- /wp:paragraph -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "posts",
+        "page_on_front": "0",
+        "page_for_posts": "0",
+        "front_page_title": null,
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": [],
+        "menu_names": []
+    }
+}
