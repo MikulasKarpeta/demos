@@ -29,7 +29,7 @@
 	<title>Jane Doe</title>
 	<link>https://jane.mikimalio.com</link>
 	<description>Photographer</description>
-	<pubDate>Tue, 01 Jul 2025 11:11:09 +0000</pubDate>
+	<pubDate>Wed, 02 Jul 2025 07:59:52 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://jane.mikimalio.com</wp:base_site_url>
@@ -38,16 +38,22 @@
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Miki]]></wp:author_login><wp:author_email><![CDATA[mikulaskarpeta@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Jane Doe]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
-		<wp:term_id>4</wp:term_id>
-		<wp:category_nicename><![CDATA[posts]]></wp:category_nicename>
+		<wp:term_id>7</wp:term_id>
+		<wp:category_nicename><![CDATA[nature]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[Posts]]></wp:cat_name>
+		<wp:cat_name><![CDATA[Nature]]></wp:cat_name>
 	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>8</wp:term_id>
+		<wp:category_nicename><![CDATA[urban]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Urban]]></wp:cat_name>
 	</wp:category>
 					<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
 </wp:term>
@@ -630,8 +636,8 @@
 		<wp:post_id>141</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-10 14:00:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-10 14:00:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 11:05:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 11:05:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-02 07:59:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-02 07:59:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[whispers-of-waterfalls]]></wp:post_name>
@@ -641,7 +647,7 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="posts"><![CDATA[Posts]]></category>
+										<category domain="category" nicename="nature"><![CDATA[Nature]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -683,8 +689,8 @@
 		<wp:post_id>174</wp:post_id>
 		<wp:post_date><![CDATA[2023-08-20 14:05:59]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-08-20 14:05:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 11:05:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 11:05:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-02 07:59:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-02 07:59:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[enchanted-forest]]></wp:post_name>
@@ -694,7 +700,7 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="posts"><![CDATA[Posts]]></category>
+										<category domain="category" nicename="urban"><![CDATA[Urban]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
@@ -736,8 +742,8 @@
 		<wp:post_id>175</wp:post_id>
 		<wp:post_date><![CDATA[2023-09-28 14:06:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-09-28 14:06:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 11:05:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 11:05:42]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-07-02 07:59:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-07-02 07:59:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[mystical-moorlands]]></wp:post_name>
@@ -747,7 +753,7 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="posts"><![CDATA[Posts]]></category>
+										<category domain="category" nicename="nature"><![CDATA[Nature]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
