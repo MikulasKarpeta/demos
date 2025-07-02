@@ -2,7 +2,7 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 12:36:27",
+        "export_date": "2025-07-02 08:21:48",
         "site_url": "https://teresa.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
@@ -29,10 +29,10 @@
         "minimalio_settings_archive_template_filter_enable": "no",
         "minimalio_settings_blog_post_card": "style_1",
         "minimalio_settings_single_post_title": "yes",
-        "minimalio_settings_single_post_title_size": "h6",
-        "minimalio_settings_single_post_title_align": "justify-start",
-        "minimalio_settings_single_portfolio_title_size": "h2",
-        "minimalio_settings_single_portfolio_title_align": "justify-center",
+        "minimalio_settings_single_post_title_size": "h2",
+        "minimalio_settings_single_post_title_align": "justify-center",
+        "minimalio_settings_single_portfolio_title_size": "h6",
+        "minimalio_settings_single_portfolio_title_align": "justify-start",
         "minimalio_settings_page_title_size": "h6",
         "custom_css_post_id": 741
     },
