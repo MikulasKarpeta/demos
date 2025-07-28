@@ -155,8 +155,8 @@
     },
     {
       "id": "art-portfolio-child-theme",
-      "name": "Art Portfolio Child Theme",
-      "description": "A tutorial about the Art Portfolio child theme for Minimalio, featuring a vertical header design and enhanced portfolio functionality. Learn how to create a professional minimalist portfolio website with customizable main menu positioning, portfolio category filtering options, and elegant space utilization. Perfect for artists, photographers, and creative professionals seeking a clean portfolio design.",
+      "name": "Art Portfolio Child Theme / Eadweard Demo",
+      "description": "A tutorial about the Art Portfolio child theme for Minimalio, featuring the Eadweard Demo. This Minimalio child theme adds extra Theme Options for the purpose of full control over the specific adjustments of the Eadward Demo. So, if you like this demo, the Art Portfolio Child theme is exactly for you.",
       "url": "https://minimalio.org/art-portfolio-child-theme/",
       "image": "https://minimalio.sirv.com/Images/art-portfolio-child-theme.jpg",
       "category": "demos",
