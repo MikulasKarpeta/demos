@@ -7,7 +7,7 @@
       "url": "https://minimalio.org/tutorials/portfolio-website-from-start-to-finish/",
       "image": "https://minimalio.sirv.com/Images/portfolio-website.webp",
       "category": "beginners",
-      "videoUrl": "FZS7AEz"
+      "videoUrl": "pQ5gCbs"
     },
     {
       "id": "gutenberg-editor-for-beginners",
@@ -16,7 +16,7 @@
       "url": "https://minimalio.org/tutorials/gutenberg-editor-for-beginners/",
       "image": "https://minimalio.sirv.com/Images/gutenberg.webp",
       "category": "content",
-      "videoUrl": "pyraa-yGCvQ"
+      "videoUrl": "mXFEkNb"
     },
     {
       "id": "setting-up-the-portfolio-page",
@@ -25,7 +25,7 @@
       "url": "https://minimalio.org/tutorials/setting-up-the-portfolio-page/",
       "image": "https://minimalio.sirv.com/Images/portfolio-page.webp",
       "category": "content",
-      "videoUrl": "hwYMI_RwgVQ"
+      "videoUrl": "JTgJR3R"
     },
     {
       "id": "creating-a-single-portfolio",
@@ -34,7 +34,7 @@
       "url": "https://minimalio.org/tutorials/creating-a-single-portfolio/",
       "image": "https://minimalio.sirv.com/Images/single-portfolio.webp",
       "category": "content",
-      "videoUrl": "UJaOUgmTwzs"
+      "videoUrl": "Ljs3veZ"
     },
     {
       "id": "setting-google-title-and-description-seo-in-wordpress",
@@ -43,12 +43,12 @@
       "url": "https://minimalio.org/tutorials/setting-google-title-and-description-seo-in-wordpress/",
       "image": "https://minimalio.sirv.com/Images/seo.webp",
       "category": "beginners",
-      "videoUrl": "15AKgnPa4qY"
+      "videoUrl": "pQ5gCbs"
     },
     {
       "id": "how-to-import-a-demo",
       "name": "How to Import a Demo",
-      "description": "A step-by-step tutorial for importing WordPress demo content for the Minimalio theme. Covers importing the content and the theme settings, explains what exactly do these buttons do and how to use the imported content.",
+      "description": "A step-by-step tutorial for importing WordPress demo content and the Minimalio theme options. It explains what exactly do the buttons (Import Content, Import Settings) do and how to use them. How to adjust the imported content and what to do, if you want to import another demo.",
       "url": "https://minimalio.org/tutorials/how-to-import-a-demo/",
       "image": "https://minimalio.sirv.com/Images/demo-import.webp",
       "category": "beginners",
@@ -97,7 +97,7 @@
       "url": "https://minimalio.org/tutorials/adding-videos/",
       "image": "https://minimalio.sirv.com/Images/videos.webp",
       "category": "content",
-      "videoUrl": "1jDiYq9FO-Q"
+      "videoUrl": "MLFk8q8"
     },
     {
       "id": "header-options-social-media-icons",
@@ -115,7 +115,7 @@
       "url": "https://minimalio.org/tutorials/wordpress-security-and-backup/",
       "image": "https://minimalio.sirv.com/Images/security.webp",
       "category": "beginners",
-      "videoUrl": "8YaIUZO5T-o"
+      "videoUrl": "5mFvJ7n"
     },
     {
       "id": "typography-google-fonts-responsive-headings",
@@ -124,7 +124,7 @@
       "url": "https://minimalio.org/tutorials/typography/",
       "image": "https://minimalio.sirv.com/Images/typography.webp",
       "category": "theme options",
-      "videoUrl": "tWPrevcB7KY"
+      "videoUrl": "rhgAfnB"
     },
     {
       "id": "theme-layout-page-options-and-background",
@@ -133,7 +133,7 @@
       "url": "https://minimalio.org/tutorials/theme-layout-page-options-and-background/",
       "image": "https://minimalio.sirv.com/Images/layout.webp",
       "category": "theme options",
-      "videoUrl": "c6jehMC8V_U"
+      "videoUrl": "6NSPniw"
     },
     {
       "id": "adding-a-gallery-in-gutenberg",
@@ -152,6 +152,15 @@
       "image": "https://minimalio.sirv.com/Images/francis.webp",
       "category": "demos",
       "videoUrl": "kwtkHA3"
+    },
+    {
+      "id": "art-portfolio-child-theme",
+      "name": "Art Portfolio Child Theme",
+      "description": "A tutorial about the Art Portfolio child theme for Minimalio, featuring a vertical header design and enhanced portfolio functionality. Learn how to create a professional minimalist portfolio website with customizable main menu positioning, portfolio category filtering options, and elegant space utilization. Perfect for artists, photographers, and creative professionals seeking a clean portfolio design.",
+      "url": "https://minimalio.org/art-portfolio-child-theme/",
+      "image": "https://minimalio.sirv.com/Images/eadweard.webp",
+      "category": "demos",
+      "videoUrl": ""
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
