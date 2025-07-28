@@ -37,15 +37,6 @@
       "videoUrl": "Ljs3veZ"
     },
     {
-      "id": "setting-google-title-and-description-seo-in-wordpress",
-      "name": "Setting Google Title and Description (SEO) in WordPress",
-      "description": "A tutorial about configuring how your website appears in Google search results, specifically focusing on setting the title and description using the Rank Math SEO plugin in WordPress. Covers controlling search result appearance, recommends keeping description around 150-160 characters.",
-      "url": "https://minimalio.org/tutorials/setting-google-title-and-description-seo-in-wordpress/",
-      "image": "https://minimalio.sirv.com/Images/seo.webp",
-      "category": "beginners",
-      "videoUrl": "pQ5gCbs"
-    },
-    {
       "id": "how-to-import-a-demo",
       "name": "How to Import a Demo",
       "description": "A step-by-step tutorial for importing WordPress demo content and the Minimalio theme options. It explains what exactly do the buttons (Import Content, Import Settings) do and how to use them. How to adjust the imported content and what to do, if you want to import another demo.",
@@ -118,6 +109,15 @@
       "videoUrl": "5mFvJ7n"
     },
     {
+      "id": "setting-google-title-and-description-seo-in-wordpress",
+      "name": "Setting Google Title and Description (SEO) in WordPress",
+      "description": "A tutorial about configuring how your website appears in Google search results, specifically focusing on setting the title and description using the Rank Math SEO plugin in WordPress. Covers controlling search result appearance, recommends keeping description around 150-160 characters.",
+      "url": "https://minimalio.org/tutorials/setting-google-title-and-description-seo-in-wordpress/",
+      "image": "https://minimalio.sirv.com/Images/seo.webp",
+      "category": "beginners",
+      "videoUrl": "pQ5gCbs"
+    },
+    {
       "id": "typography-google-fonts-responsive-headings",
       "name": "Typography, Google fonts, Responsive Headings",
       "description": "A tutorial about typography settings in the Minimalio WordPress theme, covering font selection, styling, and responsive design for headings. Explains how to choose between web safe fonts and Google Fonts, customize font weight, style, color, and configure responsive heading sizes.",
@@ -160,7 +160,7 @@
       "url": "https://minimalio.org/art-portfolio-child-theme/",
       "image": "https://minimalio.sirv.com/Images/art-portfolio-child-theme.jpg",
       "category": "demos",
-      "videoUrl": ""
+      "videoUrl": "C7tvjgh"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
