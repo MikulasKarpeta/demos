@@ -46,6 +46,15 @@
       "videoUrl": "15AKgnPa4qY"
     },
     {
+      "id": "how-to-import-a-demo",
+      "name": "How to Import a Demo",
+      "description": "A step-by-step tutorial for importing WordPress demo content for the Minimalio theme. Covers importing the content and the theme settings, explains what exactly do these buttons do and how to use the imported content.",
+      "url": "https://minimalio.org/tutorials/how-to-import-a-demo/",
+      "image": "https://minimalio.sirv.com/Images/demo-import.webp",
+      "category": "beginners",
+      "videoUrl": "EyFNXsq"
+    },
+    {
       "id": "setting-up-the-blog-page",
       "name": "Setting up the Blog Page",
       "description": "A tutorial about configuring a blog page in the Minimalio WordPress theme, covering various settings like sidebar positioning, category filtering, post display options, and single post configurations. Explains how to create a blog page and customize blog settings in Theme Settings.",
@@ -143,15 +152,6 @@
       "image": "https://minimalio.sirv.com/Images/francis.webp",
       "category": "demos",
       "videoUrl": "kwtkHA3"
-    },
-    {
-      "id": "how-to-import-a-demo",
-      "name": "How to Import a Demo",
-      "description": "A step-by-step tutorial for importing WordPress demo content for the Minimalio theme. Covers importing the content and the theme settings, explains what exactly do these buttons do and how to use the imported content.",
-      "url": "https://minimalio.org/tutorials/how-to-import-a-demo/",
-      "image": "https://minimalio.sirv.com/Images/demo-import.webp",
-      "category": "beginner",
-      "videoUrl": "EyFNXsq"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
