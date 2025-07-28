@@ -7,7 +7,7 @@
       "url": "https://minimalio.org/tutorials/portfolio-website-from-start-to-finish/",
       "image": "https://minimalio.sirv.com/Images/portfolio-website.webp",
       "category": "beginners",
-      "videoUrl": "UoLA0Wh8JMI"
+      "videoUrl": "FZS7AEz"
     },
     {
       "id": "gutenberg-editor-for-beginners",
@@ -52,7 +52,7 @@
       "url": "https://minimalio.org/tutorials/setting-up-the-blog-page/",
       "image": "https://minimalio.sirv.com/Images/blog-page.webp",
       "category": "content",
-      "videoUrl": "XNO2A5ENilQ"
+      "videoUrl": "YATgcjP"
     },
     {
       "id": "how-to-install-the-theme-and-the-premium-plugin",
@@ -70,7 +70,7 @@
       "url": "https://minimalio.org/tutorials/mobile-menu/",
       "image": "https://minimalio.sirv.com/Images/mobile-menu.webp",
       "category": "theme options",
-      "videoUrl": "j3j-F14HJ5Y"
+      "videoUrl": "ooSXYZj"
     },
     {
       "id": "small-design-changes-with-custom-css",
@@ -79,7 +79,7 @@
       "url": "https://minimalio.org/tutorials/small-design-changes-with-custom-css/",
       "image": "https://minimalio.sirv.com/Images/custom-css.webp",
       "category": "theme options",
-      "videoUrl": "iHiJ8q2iSeY"
+      "videoUrl": "i5g25oU"
     },
     {
       "id": "adding-videos-in-gutenberg-editor",
@@ -97,7 +97,7 @@
       "url": "https://minimalio.org/tutorials/header-options-social-media-icons/",
       "image": "https://minimalio.sirv.com/Images/header.webp",
       "category": "theme options",
-      "videoUrl": "teyBVnM9JgU"
+      "videoUrl": "3Vtb6Ve"
     },
     {
       "id": "wordpress-security-and-backup",
@@ -133,7 +133,7 @@
       "url": "https://minimalio.org/tutorials/adding-a-gallery/",
       "image": "https://minimalio.sirv.com/Images/gallery.webp",
       "category": "content",
-      "videoUrl": "Mo67VrU1lOs"
+      "videoUrl": "2tgTsH6"
     },
     {
       "id": "francis-demo",
@@ -142,16 +142,16 @@
       "url": "https://minimalio.org/tutorials/francis-demo/",
       "image": "https://minimalio.sirv.com/Images/francis.webp",
       "category": "demos",
-      "videoUrl": "m96UIMylJW0"
+      "videoUrl": "kwtkHA3"
     },
     {
       "id": "how-to-import-a-demo",
       "name": "How to Import a Demo",
-      "description": "A step-by-step tutorial for importing WordPress demo content for the Minimalio theme. Covers installing Minimalio theme and Premium Plugin, downloading demo files, importing WordPress content, using Customizer Export/Import plugin, setting homepage and menu, and recommended security plugin installation.",
+      "description": "A step-by-step tutorial for importing WordPress demo content for the Minimalio theme. Covers importing the content and the theme settings, explains what exactly do these buttons do and how to use the imported content.",
       "url": "https://minimalio.org/tutorials/how-to-import-a-demo/",
       "image": "https://minimalio.sirv.com/Images/demo-import.webp",
       "category": "beginner",
-      "videoUrl": "FyTLeRCsqxw"
+      "videoUrl": "EyFNXsq"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
