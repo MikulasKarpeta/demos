@@ -1,19 +1,17 @@
 {
     "export_info": {
-        "theme": "minimalio",
+        "theme": "art-portfolio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 13:56:36",
-        "site_url": "https://eadweard.mikimalio.com",
+        "export_date": "2025-07-30 07:50:20",
+        "site_url": "http://localhost:8888/test/test10",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
     "theme_mods": {
-        "0": false,
         "minimalio_settings_header_container_type": "container",
         "nav_menu_locations": {
-            "primary": 3
+            "primary": 7
         },
-        "custom_css_post_id": 68,
         "minimalio_settings_portfolio_hover_option": "hover-image",
         "minimalio_settings_header_variation": "vertical",
         "minimalio_settings_portfolio_style": "style_3",
@@ -51,9 +49,10 @@
         "minimalio_settings_blog_hover_color": "rgba(10,10,10,0.48)",
         "minimalio_settings_google_letter_spacing": "",
         "minimalio_settings_menu_google_letter_spacing": "2",
-        "minimalio_settings_header_background": "#ffffff"
+        "minimalio_settings_header_background": "#ffffff",
+        "custom_css_post_id": 231
     },
-    "custom_css": ".vertical .menu-main-container {margin-top: 10rem!important}\n\n.posts-ajax__categories-wrapper, .posts__categories-wrapper {\n\tmargin-top:1rem;\n}\n\n.posts-ajax__categories-wrapper span, .posts__categories-wrapper span {\n\tfont-size:16px;\n}\n\nbody {\n\tmargin-top:1rem;\n}\n\n.header__brand {\n\tfont-family:Baskervville;\n\tfont-weight:100;\n}\n\n\n@import url('https://fonts.googleapis.com/css2?family=Baskervville:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');\n\n",
+    "custom_css": ".vertical .menu-main-container {margin-top: 10rem!important}\n\n.posts-ajax__categories-wrapper, .posts__categories-wrapper {\n\tmargin-top:1rem;\n}\n\n.posts-ajax__categories-wrapper span, .posts__categories-wrapper span {\n\tfont-size:16px;\n}\n\n\n",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
@@ -91,6 +90,9 @@
                 "_multiwidget": 1
             },
             "media_video": {
+                "_multiwidget": 1
+            },
+            "meta": {
                 "_multiwidget": 1
             },
             "search": {
@@ -179,14 +181,14 @@
     },
     "front_page": {
         "show_on_front": "page",
-        "page_on_front": "9",
+        "page_on_front": "10",
         "page_for_posts": "0",
         "front_page_title": "Home",
         "posts_page_title": null
     },
     "menus": {
         "nav_menu_locations": {
-            "primary": 3
+            "primary": 7
         },
         "menu_names": {
             "primary": "main-menu"
