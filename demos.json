@@ -143,6 +143,14 @@
       "preview_url": "https://eadweard.minimalio.org",
       "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/eadweard-wp-content.xml",
       "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/eadweard-theme-settings.json"
+    },
+    {
+      "id": "charles",
+      "name": "Charles",
+      "image": "https://minimalio.sirv.com/Images/charles.webp",
+      "preview_url": "https://charles.minimalio.org",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/charles-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/charles-theme-settings.json"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
