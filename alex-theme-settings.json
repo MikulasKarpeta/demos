@@ -2,14 +2,14 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 10:03:38",
+        "export_date": "2025-11-04 10:53:54",
         "site_url": "https://alex.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
     },
     "theme_mods": {
         "nav_menu_locations": {
-            "primary": 4
+            "primary": 3
         },
         "minimalio_settings_header_container_type": "container-fluid",
         "minimalio_settings_container_type": "container-fluid",
@@ -29,14 +29,33 @@
         "minimalio_settings_portfolio_columns": 3,
         "minimalio_settings_post_card_image_aspect_ratio": "9-16",
         "minimalio_settings_mobile_font_size": 22,
-        "minimalio_settings_header_color": "#ffffff",
+        "minimalio_settings_header_color": "#0a0a0a",
         "minimalio_typography_settings_google_font_wight": 400,
         "minimalio_settings_mobile_menu_icon_colour": "#ffffff",
         "minimalio_gallery_bg_color_settings": "#ffffff",
-        "minimalio_ligtbox_icon_color_settings": "",
-        "custom_css_post_id": 303
+        "minimalio_ligtbox_icon_color_settings": "#0a0a0a",
+        "custom_css_post_id": 133,
+        "sidebars_widgets": {
+            "time": 1761747270,
+            "data": {
+                "wp_inactive_widgets": [],
+                "right-sidebar": [],
+                "left-sidebar": [],
+                "right-sidebar-blog": [],
+                "left-sidebar-blog": [],
+                "headerfull": [],
+                "footerfull": [
+                    "block-8",
+                    "block-9",
+                    "block-7"
+                ]
+            }
+        },
+        "minimalio_settings_social_media_location": "header",
+        "minimalio_settings_social_media_instagram": "https://instagram.com",
+        "minimalio_lightbox_icons_style_settings": "style_1"
     },
-    "custom_css": "/* site padding */\n  .container, .container-fluid {\n    padding: 1rem!important;\n  }\n\n/* header */\n\n.header {\n\tpadding: 1.5rem 2rem !important;\n}\n\n.single-post .header * {\n\tcolor:black!important;\n}\n\n\n/* portfolio postcard */\n\n.post-card__body {\n\tposition: absolute;\n  bottom: 2rem;\n  left: 2rem;\n\tcolor:white;\n\tz-index:10;\n}\n\n.post-card__heading {\n\tfont-size:22px;\n}\t\n.post-card__image {\n\tmargin:0;\n}\n\n.post-card__overlay {\n\tdisplay:block;\n\topacity:0.3;\n}\n\n.post-card:hover .post-card__overlay{\n  opacity:0;\n\ttransition:all 0.5s;\n}\n\n/* blog post card */\n\n.blog-post-card-3 .post-card__heading {\n\tfont-size:1.5rem;\n}\n\n/* single post, about page */\n\n\t.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer  {\n\tpadding:0 2rem!important;\n}\n\n.page-template-default .header *, .single-post .header * {\n\tcolor:black!important;\n}\n\n.page-template-default .content-area, .single-post .content-area {\n\tmargin-top:6rem;\n}\n\n/* media */\n\n@media screen and (max-width:600px) {\n\t.header {\n\tpadding: 0.5rem 1rem !important;\n}\n\t\n\t.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer {\n\tpadding:0 1rem!important;\n}\n\t\n\t.post-card__body {\n  bottom: 1.5rem;\n  left: 1rem;\n}\n\t\n.post-card__heading {\n\tfont-size:16px;\n}\t\n}\n\n\n@media screen and (max-width:781px) {\n\t.footer-widget h5, .footer-widget h4 {\n\ttext-align:center!important;\n}\n}",
+    "custom_css": "/* Minimalist Photography Portfolio Custom Styles*/\n/* site padding */\n .container, .container-fluid {\n\t padding: 1rem !important;\n}\n/* header */\n .header {\n\t padding: 1.5rem 2rem !important;\n}\n/* \nwhite header on portfolio page, single portfolio and blog archive page */\n\nbody.page-template-portfolio-atbottompage .header a,\nbody.single-portfolio .header a, body.page-template-blog-template .header a {\n\tcolor:white;\n}\n\nbody.page-template-portfolio-atbottompage .header .socials__icon,\nbody.single-portfolio .header .socials__icon, body.page-template-blog-template .header .socials__icon {\n\tfill:white;\n}\n\n/* portfolio postcard */\n .post-card-1 .post-card__body, .post-card-4 .post-card__body {\n\t position: absolute;\n\t padding-right: 1rem;\n\t bottom: 1rem;\n\t left: 2rem;\n\t color: white;\n\t z-index: 10;\n}\n .post-card-1 .post-card__image, .post-card-4 .post-card__image {\n\t margin: 0;\n}\n .post-card-1 .post-card__overlay, .post-card-4 .post-card__overlay {\n\t display: block;\n\t opacity: 1;\n\t background-color: rgba(0, 0, 0, 0.15);\n}\n .post-card-1:hover .post-card__overlay, .post-card-4:hover .post-card__overlay {\n\t opacity: 0;\n\t transition: all 0.5s;\n}\n .post-card__heading {\n\t font-size: 1.3rem;\n}\n/* blog post card */\n .blog-post-type .blog-post-card-1 .post-card__body, .blog-post-type .blog-post-card-3 .post-card__body, .blog-post-type .blog-post-card-4 .post-card__body {\n\t position: absolute;\n\t padding-right: 1rem;\n\t bottom: 1rem;\n\t left: 2rem;\n\t color: white;\n\t z-index: 10;\n}\n\n .blog-post-type .blog-post-card-1 .post-card__overlay, .blog-post-type .blog-post-card-3 .post-card__overlay, .blog-post-type .blog-post-card-4 .post-card__overlay {\n\t display: block;\n\t opacity: 1;\n\t background-color: rgba(0, 0, 0, 0.15);\n}\n\n .blog-post-type .blog-post-card-1:hover .post-card__overlay, .blog-post-type .blog-post-card-3:hover .post-card__overlay, .blog-post-type .blog-post-card-4:hover .post-card__overlay {\n\t opacity: 0;\n\t transition: all 0.5s;\n}\n .blog-post-type .blog-post-card-1 .post-card__image, .blog-post-type .blog-post-card-3 .post-card__image, .blog-post-type .blog-post-card-4 .post-card__image {\n\t margin: 0;\n}\n .blog-post-card-3 .post-card__heading {\n\t font-size: 1.3rem;\n}\n\n/* hide entry title on archive pages */\n .archive.tax-portfolio-categories .entry-title, .archive.tax-portfolio-tags .entry-title, body.archive.category .entry-title, body.archive.tag .entry-title {\n\t display: none;\n}\n/* single post and default page template paddings */\n .page-template-default:not(.home) .entry-content, .single-post .entry-content, .page-template-default footer, .single-post footer {\n\t padding: 0 2rem !important;\n}\n .page-template-default:not(.home) .content-area, .single-post .content-area {\n\t margin-top: 6rem;\n}\n/* media */\n @media screen and (max-width: 639px) {\n\t .posts-ajax .posts__row, .posts .posts__row {\n\t\t grid-template-columns: repeat(2, minmax(0, 1fr));\n\t}\n}\n @media screen and (max-width: 600px) {\n\t .header {\n\t\t padding: 0.5rem 1rem !important;\n\t}\n\t .page-template-default .entry-content, .single-post .entry-content, .page-template-default footer, .single-post footer {\n\t\t padding: 0 1rem !important;\n\t}\n\t .post-card-1 .post-card__body, .post-card-4 .post-card__body {\n\t\t bottom: 0;\n\t\t left: 1rem;\n\t}\n\t .blog-post-type .blog-post-card-1 .post-card__body, .blog-post-type .blog-post-card-3 .post-card__body, .blog-post-type .blog-post-card-4 .post-card__body {\n\t\t bottom: 0;\n\t\t left: 1rem;\n\t}\n\t .post-card__heading {\n\t\t font-size: 16px;\n\t}\n}\n ",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
@@ -141,17 +160,17 @@
     },
     "front_page": {
         "show_on_front": "page",
-        "page_on_front": "56",
+        "page_on_front": "9",
         "page_for_posts": "0",
-        "front_page_title": "Portfolio",
+        "front_page_title": "My Work",
         "posts_page_title": null
     },
     "menus": {
         "nav_menu_locations": {
-            "primary": 4
+            "primary": 3
         },
         "menu_names": {
-            "primary": "main"
+            "primary": "header-main"
         }
     }
 }

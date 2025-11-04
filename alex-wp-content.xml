@@ -28,40 +28,28 @@
 <channel>
 	<title>Alex Doe</title>
 	<link>https://alex.mikimalio.com</link>
-	<description>Photography portfolio</description>
-	<pubDate>Wed, 02 Jul 2025 07:55:51 +0000</pubDate>
+	<description></description>
+	<pubDate>Tue, 04 Nov 2025 10:53:45 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://alex.mikimalio.com</wp:base_site_url>
 	<wp:base_blog_url>https://alex.mikimalio.com</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Miki]]></wp:author_login><wp:author_email><![CDATA[mikulaskarpeta@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[Miki]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[Minimalio]]></wp:author_login><wp:author_email><![CDATA[mikulaskarpeta@gmail.com]]></wp:author_email><wp:author_display_name><![CDATA[root]]></wp:author_display_name><wp:author_first_name><![CDATA[Mikulas]]></wp:author_first_name><wp:author_last_name><![CDATA[Minimalio]]></wp:author_last_name></wp:author>
 
-		<wp:category>
-		<wp:term_id>2</wp:term_id>
-		<wp:category_nicename><![CDATA[imagination]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[imagination]]></wp:cat_name>
-	</wp:category>
-		<wp:category>
-		<wp:term_id>3</wp:term_id>
-		<wp:category_nicename><![CDATA[my-trips]]></wp:category_nicename>
-		<wp:category_parent><![CDATA[]]></wp:category_parent>
-		<wp:cat_name><![CDATA[my trips]]></wp:cat_name>
-	</wp:category>
 		<wp:category>
 		<wp:term_id>1</wp:term_id>
 		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
 	</wp:category>
-					<wp:term><wp:term_id>4</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[main]]></wp:term_slug><wp:term_name><![CDATA[main]]></wp:term_name>
+					<wp:term><wp:term_id>3</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[header-main]]></wp:term_slug><wp:term_name><![CDATA[header-main]]></wp:term_name>
 </wp:term>
 
 	
 
 <image>
-	<url>http://alex.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon-32x32.webp</url>
+	<url>https://alex.mikimalio.com/wp-content/uploads/2025/09/cropped-favicon-32x32.webp</url>
 	<title>Alex Doe</title>
 	<link>https://alex.mikimalio.com</link>
 	<width>32</width>
@@ -69,22 +57,22 @@
 </image> 
 
 		<item>
-		<title><![CDATA[Portfolio]]></title>
+		<title><![CDATA[My Work]]></title>
 		<link>https://alex.mikimalio.com/</link>
-		<pubDate>Thu, 28 Sep 2023 10:32:49 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-1/?page_id=56</guid>
+		<pubDate>Thu, 25 Sep 2025 11:16:00 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/?page_id=9</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 10:32:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 10:32:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 10:32:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 10:32:49]]></wp:post_modified_gmt>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:16:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:16:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-17 08:44:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-17 08:44:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[portfolio]]></wp:post_name>
+		<wp:post_name><![CDATA[my-work]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -93,717 +81,51 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[templates/pages/portfolio-atbottompage.php]]></wp:meta_value>
+		<wp:meta_value><![CDATA[portfolio-atbottompage.php]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[About me]]></title>
-		<link>https://alex.mikimalio.com/about-me/</link>
-		<pubDate>Thu, 28 Sep 2023 10:59:16 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-1/?page_id=67</guid>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://alex.mikimalio.com/wp-global-styles-video-editor-portfolio/</link>
+		<pubDate>Thu, 25 Sep 2025 11:15:45 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/2025/09/25/wp-global-styles-video-editor-portfolio/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
-<div class="wp-block-group"><!-- wp:image {"align":"right","id":156,"width":"200px","height":"undefinedpx","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image alignright size-full is-resized"><img src="http://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2023/09/pexels-pixabay-458497.webp" alt="" class="wp-image-156" style="width:200px;height:undefinedpx"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"layout":{"type":"constrained","contentSize":""}} -->
-<div class="wp-block-group"><!-- wp:heading {"textAlign":"right","level":5} -->
-<h5 class="wp-block-heading has-text-align-right"><a href="http://www.instagram.com" data-type="link" data-id="www.instagram.com">instagram</a></h5>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"textAlign":"right","level":5} -->
-<h5 class="wp-block-heading has-text-align-right"><a href="mailto:email@email.com">email@email.com</a></h5>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"textAlign":"right","level":5} -->
-<h5 class="wp-block-heading has-text-align-right">+420 798 798 798</h5>
-<!-- /wp:heading -->
-
-<!-- wp:spacer {"height":"32px"} -->
-<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"textAlign":"right","level":5} -->
-<h5 class="wp-block-heading has-text-align-right">Through my lens, I endeavor to unearth the hidden poetry that resides within the serene landscapes of our planet. From the majestic grandeur of snow-capped mountains reaching skyward to the tranquil depths of emerald-hued forests, I seek to unveil the intricate details, vibrant colors, and raw, untouched wilderness that often elude the casual observer.</h5>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"textAlign":"right","level":5} -->
-<h5 class="wp-block-heading has-text-align-right">It's in these remote corners of the Earth where I find solace, where the whisper of the wind through leaves and the babbling of a crystal-clear stream harmonize with the symphony of birdsong and rustling leaves, creating a sense of timelessness.<br><br>Pictures from <a href="https://www.pexels.com/@sincegameon/" data-type="link" data-id="https://www.pexels.com/@hngstrm/">Shivansh Sharma</a> Thank you!<br></h5>
-<!-- /wp:heading --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 10:59:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 10:59:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 16:20:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 16:20:40]]></wp:post_modified_gmt>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:15:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:15:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 11:15:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 11:15:45]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[about-me]]></wp:post_name>
+		<wp:post_name><![CDATA[wp-global-styles-video-editor-portfolio]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
+										<category domain="wp_theme" nicename="video-editor-portfolio"><![CDATA[video-editor-portfolio]]></category>
+						</item>
 					<item>
-		<title><![CDATA[]]></title>
-		<link>https://alex.mikimalio.com/143/</link>
-		<pubDate>Tue, 05 Dec 2023 13:50:47 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/2023/12/05/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>143</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-05 13:50:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-05 13:50:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 13:50:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 13:50:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[143]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[56]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://alex.mikimalio.com/144/</link>
-		<pubDate>Tue, 05 Dec 2023 13:50:47 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/2023/12/05/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-05 13:50:47]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-05 13:50:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 13:50:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 13:50:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[144]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[67]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-shivansh-sharma-12650522_1K]]></title>
-		<link>https://alex.mikimalio.com/portfolio/urbanism/pexels-shivansh-sharma-12650522_1k/</link>
-		<pubDate>Thu, 28 Sep 2023 12:39:14 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp</guid>
+		<title><![CDATA[Thoughts]]></title>
+		<link>https://alex.mikimalio.com/thoughts/</link>
+		<pubDate>Thu, 25 Sep 2025 11:16:24 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/?page_id=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>153</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:39:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:39:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 12:39:14]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 12:39:14]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-shivansh-sharma-12650522_1k]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>159</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/09/pexels-shivansh-sharma-12650522_1K.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:562;s:6:"height";i:1000;s:4:"file";s:47:"2023/09/pexels-shivansh-sharma-12650522_1K.webp";s:8:"filesize";i:55126;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-12650522_1K-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7880;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-12650522_1K-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2138;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-shivansh-sharma-15307430_1K]]></title>
-		<link>https://alex.mikimalio.com/portfolio/mother-nature/pexels-shivansh-sharma-15307430_1k/</link>
-		<pubDate>Thu, 28 Sep 2023 12:39:52 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>154</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:39:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:39:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 12:39:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 12:39:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-shivansh-sharma-15307430_1k]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>158</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/09/pexels-shivansh-sharma-15307430_1K.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:562;s:6:"height";i:1000;s:4:"file";s:47:"2023/09/pexels-shivansh-sharma-15307430_1K.webp";s:8:"filesize";i:49002;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-15307430_1K-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6070;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-15307430_1K-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3782;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-shivansh-sharma-13801876_1K]]></title>
-		<link>https://alex.mikimalio.com/portfolio/experiment/pexels-shivansh-sharma-13801876_1k/</link>
-		<pubDate>Thu, 28 Sep 2023 12:41:17 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:41:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:41:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 12:41:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 12:41:17]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-shivansh-sharma-13801876_1k]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>160</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/09/pexels-shivansh-sharma-13801876_1K.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:562;s:6:"height";i:1000;s:4:"file";s:47:"2023/09/pexels-shivansh-sharma-13801876_1K.webp";s:8:"filesize";i:15208;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-13801876_1K-169x300.webp";s:5:"width";i:169;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3168;}s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-shivansh-sharma-13801876_1K-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1924;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-pixabay-458497]]></title>
-		<link>https://alex.mikimalio.com/about-me/pexels-pixabay-458497/</link>
-		<pubDate>Thu, 28 Sep 2023 12:46:43 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2023/09/pexels-pixabay-458497.webp</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:46:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:46:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 12:46:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 12:46:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-pixabay-458497]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>67</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-pixabay-458497.webp]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/09/pexels-pixabay-458497.webp]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1000;s:6:"height";i:666;s:4:"file";s:34:"2023/09/pexels-pixabay-458497.webp";s:8:"filesize";i:9326;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:34:"pexels-pixabay-458497-300x200.webp";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1568;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-pixabay-458497-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1102;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-pixabay-458497-768x511.webp";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:5834;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Mother Nature]]></title>
-		<link>https://alex.mikimalio.com/portfolio/mother-nature/</link>
-		<pubDate>Thu, 28 Sep 2023 12:38:06 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-2/?post_type=portfolio&#038;p=150</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gallery {"linkTo":"media"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":153,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp" alt="" class="wp-image-153"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":154,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":155,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp" alt="" class="wp-image-155"/></a></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>158</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:38:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:38:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 09:54:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 09:54:32]]></wp:post_modified_gmt>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:16:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:16:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 11:16:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 11:16:24]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mother-nature]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[154]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Urbanism]]></title>
-		<link>https://alex.mikimalio.com/portfolio/urbanism/</link>
-		<pubDate>Thu, 28 Sep 2023 12:39:21 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-2/?post_type=portfolio&#038;p=151</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gallery {"linkTo":"media"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":153,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp" alt="" class="wp-image-153"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":155,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp" alt="" class="wp-image-155"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":154,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></a></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:39:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:39:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 10:01:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 10:01:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[urbanism]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[153]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Experiment]]></title>
-		<link>https://alex.mikimalio.com/portfolio/experiment/</link>
-		<pubDate>Thu, 28 Sep 2023 12:40:52 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-2/?post_type=portfolio&#038;p=152</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:gallery {"linkTo":"media"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":154,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":155,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp" alt="" class="wp-image-155"/></a></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":153,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp" alt="" class="wp-image-153"/></a></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>160</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 12:40:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 12:40:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 09:53:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 09:53:03]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[experiment]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[155]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Whispers of Waterfalls]]></title>
-		<link>https://alex.mikimalio.com/whispers-of-waterfalls/</link>
-		<pubDate>Mon, 10 Jul 2023 14:00:13 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-4/?p=141</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":153,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-12650522_1K.webp" alt="" class="wp-image-153"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Whispers of Waterfalls</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>| Beneath towering waterfalls, I felt the power of nature's verses as the cascading waters spoke of ancient forces. My own words flowed like the falls, capturing the awe-inspiring beauty of these liquid poems. The waterfalls, with their thundering descent and shimmering mist, served as both muse and metaphor. I stood in their presence, entranced by their unyielding energy, and my verses became a tribute to the relentless flow of life and the eternal rhythm of nature.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Cascading tales of liquid poetry.]]></excerpt:encoded>
-		<wp:post_id>181</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-10 14:00:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-10 14:00:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 09:56:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 09:56:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[whispers-of-waterfalls]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="my-trips"><![CDATA[my trips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[153]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-09-28]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Enchanted Forest]]></title>
-		<link>https://alex.mikimalio.com/enchanted-forest/</link>
-		<pubDate>Sun, 20 Aug 2023 14:05:59 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-4/?p=174</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":155,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-13801876_1K.webp" alt="" class="wp-image-155"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Enchanted Forest</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Amongst the giants of the enchanted forest, I discovered the art of quiet contemplation. My verses resonated with the wisdom of the trees, translating their silent conversations into a poetic ode to their enduring majesty. The forest, a realm of towering giants and dappled sunlight, offered me a sanctuary for introspection and introspection. I sat beneath the canopy of leaves, feeling the heartbeat of the forest, and my verses became a testament to the deep connection between humans and the natural world.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>| Beneath towering waterfalls, I felt the power of nature's verses as the cascading waters spoke of ancient forces. My own words flowed like the falls, capturing the awe-inspiring beauty of these liquid poems. The waterfalls, with their thundering descent and shimmering mist, served as both muse and metaphor. I stood in their presence, entranced by their unyielding energy, and my verses became a tribute to the relentless flow of life and the eternal rhythm of nature.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Where trees share secrets in silence.]]></excerpt:encoded>
-		<wp:post_id>188</wp:post_id>
-		<wp:post_date><![CDATA[2023-08-20 14:05:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-20 14:05:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 09:56:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 09:56:41]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[enchanted-forest]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="imagination"><![CDATA[imagination]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[155]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-09-28]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Mystical Moorlands]]></title>
-		<link>https://alex.mikimalio.com/mystical-moorlands/</link>
-		<pubDate>Thu, 28 Sep 2023 14:06:43 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-4/?p=175</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":154,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://alex.mikimalio.com/wp-content/uploads/2023/09/pexels-shivansh-sharma-15307430_1K.webp" alt="" class="wp-image-154"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">Mystical Moorlands</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>On the windswept moorlands, I embraced the solitude and solitude. My verses painted the vast, open landscape with words, capturing the ethereal beauty of heather-covered hills and the cries of distant curlews. The moorlands, a landscape of sweeping vistas and ever-changing skies, became a canvas for my poetic expression. I wandered across the undulating terrain, feeling</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[Windswept tales across open moors."]]></excerpt:encoded>
-		<wp:post_id>189</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 14:06:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 14:06:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-02 07:52:02]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-02 07:52:02]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[mystical-moorlands]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="my-trips"><![CDATA[my trips]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[154]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://alex.mikimalio.com/blog/</link>
-		<pubDate>Mon, 20 Nov 2023 18:39:43 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/mikimalio/demos/demo2/?page_id=196</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>196</wp:post_id>
-		<wp:post_date><![CDATA[2023-11-20 18:39:43]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-11-20 18:39:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 10:02:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 10:02:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:post_name><![CDATA[thoughts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -816,29 +138,117 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[About me]]></title>
+		<link>https://alex.mikimalio.com/about-me/</link>
+		<pubDate>Thu, 25 Sep 2025 11:16:47 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/?page_id=14</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"><strong>Hi, I am Alex</strong></h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I am a photographer working within the spaces of street and documentary imagery.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My work is grounded in observation — the slow act of watching a city breathe. I’m drawn to the moments that most people overlook: a brief exchange of glances, a shadow on concrete, the quiet rhythm between footsteps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photography, for me, isn’t about capturing perfection. It’s about&nbsp;presence&nbsp;— the silence before a gesture, the texture of ordinary light, the stories that live in stillness. Each image is an attempt to listen to the world rather than to frame it.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I’m less interested in grand narratives than in the small fragments that reveal how people inhabit a place. My photographs often explore themes of distance, intimacy, and the poetry of the everyday.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>My work has been exhibited in independent galleries and festivals such as:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>Peripheral Visions Festival (Copenhagen)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Underpasses &amp; Overlooks (Budapest)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>The Night Archive (Hamburg)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Framewalk Documentary Festival (Berlin)</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Lumen Streets (Lisbon)</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Outside of personal projects, I also collaborate on editorial and visual documentary commissions, always searching for that thin line where clarity meets emotion.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.instagram.com">instagram</a><br><a href="https://www.facebook.com">facebook</a><br><a href="https://www.linkedin.com">linkedin</a><br></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:16:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:16:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-03 11:05:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-03 11:05:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-me]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[]]></title>
-		<link>https://alex.mikimalio.com/197/</link>
-		<pubDate>Tue, 05 Dec 2023 13:51:56 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/2023/12/05/</guid>
+		<link>https://alex.mikimalio.com/17/</link>
+		<pubDate>Thu, 25 Sep 2025 11:17:29 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/2025/09/25/17/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>197</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-05 13:51:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-05 13:51:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-05 13:51:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-05 13:51:56]]></wp:post_modified_gmt>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:17:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:17:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 11:17:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 11:17:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[197]]></wp:post_name>
+		<wp:post_name><![CDATA[17]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="main"><![CDATA[main]]></category>
+										<category domain="nav_menu" nicename="header-main"><![CDATA[header-main]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
 		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
@@ -849,7 +259,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[196]]></wp:meta_value>
+		<wp:meta_value><![CDATA[9]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -873,254 +283,146 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[wince-child]]></title>
-		<link>https://alex.mikimalio.com/wince-child/</link>
-		<pubDate>Tue, 05 Dec 2023 15:22:01 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/2023/12/05/wince-child/</guid>
+		<title><![CDATA[]]></title>
+		<link>https://alex.mikimalio.com/18/</link>
+		<pubDate>Thu, 25 Sep 2025 11:17:29 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/2025/09/25/18/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* site padding */
-  .container, .container-fluid {
-    padding: 1rem!important;
-  }
-
-
-/* header */
-
-.header {
-	padding: 1.5rem 2rem !important;
-}
-
-.single-post .header * {
-	color:black!important;
-}
-
-
-/* portfolio postcard */
-
-.post-card__body {
-	position: absolute;
-  bottom: 2rem;
-  left: 2rem;
-	color:white;
-	z-index:10;
-
-}
-
-.post-card__heading {
-	font-size:22px;
-}	
-.post-card__image {
-	margin:0;
-}
-
-.post-card__overlay {
-	display:block;
-	opacity:0.3;
-}
-
-.post-card:hover .post-card__overlay{
-  opacity:0;
-	transition:all 0.5s;
-}
-
-
-/* single post, about page */
-
-.page-template-default .header, .single-post .header {
-	padding:0!important;
-}
-
-.page-template-default .header *, .single-post .header * {
-	color:black!important;
-}
-
-.page-template-default .content-area, .single-post .content-area {
-	margin-top:6rem;
-}
-
-/* media */
-
-@media screen and (max-width:600px) {
-	.header {
-	padding: 0.5rem 1rem !important;
-}
-	
-	.post-card__body {
-  bottom: 1.5rem;
-  left: 1rem;
-}
-	
-.post-card__heading {
-	font-size:16px;
-}	
-}
-
-
-@media screen and (max-width:781px) {
-	.footer-widget h5, .footer-widget h4 {
-	text-align:center!important;
-}
-}]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>206</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-05 15:22:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-05 15:22:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-13 11:16:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-13 11:16:29]]></wp:post_modified_gmt>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:17:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:17:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 11:17:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 11:17:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wince-child]]></wp:post_name>
+		<wp:post_name><![CDATA[18]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="nav_menu" nicename="header-main"><![CDATA[header-main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
-		<title><![CDATA[Minimalio-child]]></title>
-		<link>https://alex.mikimalio.com/minimalio-child/</link>
-		<pubDate>Sat, 16 Dec 2023 15:29:21 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/2023/12/16/minimalio-child/</guid>
+		<title><![CDATA[]]></title>
+		<link>https://alex.mikimalio.com/19/</link>
+		<pubDate>Thu, 25 Sep 2025 11:17:29 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/2025/09/25/19/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* site padding */
-  .container, .container-fluid {
-    padding: 1rem!important;
-  }
-
-
-
-
-/* header */
-
-.header {
-	padding: 1.5rem 2rem !important;
-}
-
-.single-post .header * {
-	color:black!important;
-}
-
-
-/* portfolio postcard */
-
-.post-card__body {
-	position: absolute;
-  bottom: 2rem;
-  left: 2rem;
-	color:white;
-	z-index:10;
-
-}
-
-.post-card__heading {
-	font-size:22px;
-}	
-.post-card__image {
-	margin:0;
-}
-
-.post-card__overlay {
-	display:block;
-	opacity:0.3;
-}
-
-.post-card:hover .post-card__overlay{
-  opacity:0;
-	transition:all 0.5s;
-}
-
-
-/* single post, about page */
-
-/* .page-template-default .header, .single-post .header {
-	padding:0!important;
-} */
-
-	.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer  {
-	padding:0 2rem!important;
-}
-
-.page-template-default .header *, .single-post .header * {
-	color:black!important;
-}
-
-.page-template-default .content-area, .single-post .content-area {
-	margin-top:6rem;
-}
-
-/* media */
-
-@media screen and (max-width:600px) {
-	.header {
-	padding: 0.5rem 1rem !important;
-}
-	
-	.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer {
-	padding:0 1rem!important;
-}
-	
-	.post-card__body {
-  bottom: 1.5rem;
-  left: 1rem;
-}
-	
-.post-card__heading {
-	font-size:16px;
-}	
-}
-
-
-@media screen and (max-width:781px) {
-	.footer-widget h5, .footer-widget h4 {
-	text-align:center!important;
-}
-}]]></content:encoded>
+		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>263</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-16 15:29:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-16 15:29:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-01-31 14:18:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-01-31 14:18:29]]></wp:post_modified_gmt>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:17:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:17:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 11:17:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 11:17:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[minimalio-child]]></wp:post_name>
+		<wp:post_name><![CDATA[19]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+										<category domain="nav_menu" nicename="header-main"><![CDATA[header-main]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[14]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[cropped-favicon.webp]]></title>
-		<link>https://alex.mikimalio.com/cropped-favicon-webp/</link>
-		<pubDate>Wed, 20 Dec 2023 15:03:49 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon.webp</guid>
+		<link>https://alex.mikimalio.com/?attachment_id=22</link>
+		<pubDate>Thu, 25 Sep 2025 11:18:03 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/wp-content/uploads/2025/09/cropped-favicon.webp</guid>
 		<description></description>
-		<content:encoded><![CDATA[http://alex.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon.webp]]></content:encoded>
+		<content:encoded><![CDATA[https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/wp-content/uploads/2025/09/cropped-favicon.webp]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>288</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-20 15:03:49]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-20 15:03:49]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-20 15:03:49]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-20 15:03:49]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[]]></wp:comment_status>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 11:18:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 11:18:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 11:18:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 11:18:03]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[cropped-favicon-webp]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>21</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://alex.mikimalio.com/wp-content/uploads/2023/12/cropped-favicon.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://alex.mikimalio.com/wp-content/uploads/2025/09/cropped-favicon.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/12/cropped-favicon.webp]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2025/09/cropped-favicon.webp]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
@@ -1128,112 +430,538 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:28:"2023/12/cropped-favicon.webp";s:8:"filesize";i:528;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:28:"cropped-favicon-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:226;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"cropped-favicon-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:108;}s:13:"site_icon-270";a:5:{s:4:"file";s:28:"cropped-favicon-270x270.webp";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:192;}s:13:"site_icon-192";a:5:{s:4:"file";s:28:"cropped-favicon-192x192.webp";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128;}s:13:"site_icon-180";a:5:{s:4:"file";s:28:"cropped-favicon-180x180.webp";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128;}s:12:"site_icon-32";a:5:{s:4:"file";s:26:"cropped-favicon-32x32.webp";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:58;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:28:"2025/09/cropped-favicon.webp";s:8:"filesize";i:528;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:28:"cropped-favicon-300x300.webp";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:226;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"cropped-favicon-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:108;}s:13:"site_icon-270";a:5:{s:4:"file";s:28:"cropped-favicon-270x270.webp";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:192;}s:13:"site_icon-192";a:5:{s:4:"file";s:28:"cropped-favicon-192x192.webp";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128;}s:13:"site_icon-180";a:5:{s:4:"file";s:28:"cropped-favicon-180x180.webp";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:128;}s:12:"site_icon-32";a:5:{s:4:"file";s:26:"cropped-favicon-32x32.webp";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:58;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_798d6d657388e8574774472aaf8764d2]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{{unknown}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Peripheral Visions Festival]]></title>
+		<link>https://alex.mikimalio.com/making-the-existence/</link>
+		<pubDate>Thu, 25 Sep 2025 12:52:06 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/?p=49</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":227,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-683x1024.webp" alt="" class="wp-image-227"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Peripheral Visions Festival</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There’s something disarming about a festival that celebrates nothing special.<br>No famous names, no monumental prints — just small photographs of small things: a wet sidewalk, a folded curtain, a half-eaten sandwich left on a bench. The&nbsp;Peripheral Visions Festival&nbsp;in Copenhagen was exactly that — an ode to what usually slips past the frame.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Walking through the converted warehouse where the exhibition took place, I felt an unusual quiet. People weren’t rushing to capture the perfect post; they were just… looking.<br>One image showed a man waiting at a bus stop, eyes closed, head tilted to the sun. Another was nothing more than a patch of wall where posters had been torn down so many times that the layers of paper became a kind of accidental painting.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There were no slogans about “the human condition.” No conceptual walls of text. Just the kind of moments that remind you photography started as a way of&nbsp;<em>noticing</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>What struck me most wasn’t the quality of the images — though many were beautiful — but the tenderness behind them. You could feel that each photographer had stood in front of something unremarkable and said,&nbsp;<em>this matters.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>At a panel discussion, someone asked whether images of the everyday can still move us in an age of visual saturation. A young photographer answered simply: “Only if we mean them.” That line stayed with me the rest of the evening.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The festival didn’t try to define what documentary photography&nbsp;<em>should</em>&nbsp;be. Instead, it invited you to slow down, to accept the peripheral as central.<br>And maybe that’s the quiet revolution we need — not sharper lenses, not bigger prints, but the courage to look gently.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When I left, the sun was setting over the harbor. A man was smoking by the water, the light catching the smoke just so. I didn’t take the picture. I didn’t have to.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[A celebration of ordinary moments that quietly ask to be seen]]></excerpt:encoded>
+		<wp:post_id>49</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 12:52:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 12:52:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-29 15:15:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-29 15:15:22]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[making-the-existence]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[227]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Why I Shoot on a 20-Year-Old Camera]]></title>
+		<link>https://alex.mikimalio.com/making-the-audi-ad/</link>
+		<pubDate>Thu, 25 Sep 2025 12:52:48 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/?p=50</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":236,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-683x1024.webp" alt="" class="wp-image-236"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Why I Shoot on a 20-Year-Old Camera</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>People often ask why I still walk around with a camera that looks like it belongs in a museum. It’s scratched, slow, and the screen barely works in daylight. I’ve dropped it more times than I can count. But it’s still the first thing I reach for every morning before I head out.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It’s a 2005 digital rangefinder, one of those early models everyone thought was revolutionary at the time. By today’s standards, it’s prehistoric — tiny buffer, clunky autofocus, weak battery. But I love it for all the reasons others wouldn’t.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This camera forces me to be deliberate. It doesn’t let me spray and pray. I can’t shoot ten frames per second — I can shoot one, maybe two, before the buffer chokes. Every photograph feels like a small decision, not a reflex. When I look through the viewfinder, I’m not just framing — I’m committing.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Modern cameras are incredible machines, no question. They see better than the human eye. But sometimes I think that’s the problem. They’re too forgiving. They make it easy to forget that photography isn’t about perfection — it’s about perception.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>With this old camera, I get imperfections that feel alive. The highlights blow out like sunlight on a hangover morning. The shadows are rough, grainy, unpredictable. When I look at those files later, they feel like memories, not records.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>And maybe that’s the point.<br>I don’t want to capture what things <em>look like</em> — I want to capture what they <em>felt like</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The city changes fast, and people move faster. Having a piece of gear that slows me down keeps me honest. It reminds me why I started photographing in the first place: to pay attention.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So no, I don’t need the newest body, the latest sensor, or the cleanest noise performance. What I need is a camera that argues with me a little — one that makes me wait, think, and listen before I press the shutter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That’s what this 20-year-old relic gives me. And honestly, I hope it never dies.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[On finding truth through the limits of an old camera]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 12:52:48]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 12:52:48]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-29 15:15:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-29 15:15:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[making-the-audi-ad]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[236]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The Silence Between Frames]]></title>
+		<link>https://alex.mikimalio.com/the-process-of-editing-the-sci-fi-hero/</link>
+		<pubDate>Thu, 25 Sep 2025 12:53:28 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/?p=51</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":245,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-683x1024.webp" alt="" class="wp-image-245"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">The Silence Between Frames</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>There’s a rhythm to the street that you can’t force — it moves on its own terms. Some days, everything hums with possibility. Other days, the world feels sealed shut, like light can’t find its way in. I’ve learned not to fight that rhythm.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Photography, for me, isn’t about pressing the shutter. It’s about waiting for the city to breathe.<br>It’s about being still long enough to feel when the air shifts — when something invisible turns visible. The silence between frames is where the real work happens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>People sometimes ask how I know when to take the shot. The truth is, I don’t. I just stay there — standing in the cold, leaning on a wall, pretending to tie my shoes — and I listen. The sound of a lighter flicking. The pause before a tram door closes. A man glancing at his reflection in a shop window, not recognizing himself for half a second.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>That’s the moment I’m chasing. Not the image itself, but the space before it becomes one.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When you spend enough time on the streets, you realize the world doesn’t perform for you. You have to earn your place in it. The best photographs I’ve taken came after hours of nothing — just silence, footsteps, light, and a kind of patience that feels like faith.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I think that’s why I love documentary work: it’s not about finding stories, it’s about noticing the ones that are already happening — quietly, constantly, in the spaces we never look twice at.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maybe the silence between frames isn’t empty after all. Maybe it’s the only part that’s real.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[Finding meaning in the quiet between shots]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 12:53:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 12:53:28]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-29 15:15:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-29 15:15:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-process-of-editing-the-sci-fi-hero]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[245]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[video-editor-portfolio]]></title>
+		<link>https://alex.mikimalio.com/video-editor-portfolio/</link>
+		<pubDate>Thu, 25 Sep 2025 13:29:52 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/2025/09/25/video-editor-portfolio/</guid>
+		<description></description>
+		<content:encoded><![CDATA[.header__brand {
+	border: 1px double;
+  padding-inline: 1rem;
+}
+
+@media (max-width: 781px) {
+  .portfolio-columns {
+    flex-direction: column-reverse;
+  }
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>62</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 13:29:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 13:29:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-03 12:43:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-03 12:43:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[video-editor-portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Street Photo]]></title>
+		<link>https://alex.mikimalio.com/portfolio/vertical-city/</link>
+		<pubDate>Fri, 03 Oct 2025 11:25:54 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/?post_type=portfolio&#038;p=83</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"a5a4acad","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":245,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/streetphoto_01/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":236,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/portrait_01/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":227,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/light_01/","caption":""}],"colDevice":"smartphone","phoneCol":2} -->
+<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-3 md:grid-cols-2 grid-cols-2 dg__2 tg__2 pg__2" data-id="a5a4acad" data-grid="masonry" data-caption-enabled="false" id="a5a4acad"><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp" alt="Gallery Image" class="wp-image-245"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp" alt="Gallery Image" class="wp-image-236"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp" alt="Gallery Image" class="wp-image-227"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure></figure>
+<!-- /wp:minimalio-blocks/minimalio-gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-03 11:25:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-03 11:25:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-03 13:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-03 13:23:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[vertical-city]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[85]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[lnn-headquarters]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[245]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Light as Art]]></title>
+		<link>https://alex.mikimalio.com/portfolio/midnight-echoes/</link>
+		<pubDate>Fri, 03 Oct 2025 11:31:04 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/?post_type=portfolio&#038;p=86</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"bb7b1cb4","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":227,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/light_01/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":236,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/portrait_01/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":245,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/streetphoto_01/","caption":""}],"colDevice":"smartphone","phoneCol":2} -->
+<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-3 md:grid-cols-2 grid-cols-2 dg__2 tg__2 pg__2" data-id="bb7b1cb4" data-grid="masonry" data-caption-enabled="false" id="bb7b1cb4"><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp" alt="Gallery Image" class="wp-image-227"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp" alt="Gallery Image" class="wp-image-236"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp" alt="Gallery Image" class="wp-image-245"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure></figure>
+<!-- /wp:minimalio-blocks/minimalio-gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>86</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-03 11:31:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-03 11:31:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-03 13:23:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-03 13:23:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[midnight-echoes]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[88]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[227]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Portraits]]></title>
+		<link>https://alex.mikimalio.com/portfolio/benz-class-c/</link>
+		<pubDate>Fri, 03 Oct 2025 11:35:12 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/?post_type=portfolio&#038;p=89</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:minimalio-blocks/minimalio-gallery {"galleryId":"bf909e29","images":[{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":236,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/portrait_01/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":227,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/light_01/","caption":""},{"sizes":{"thumbnail":{"height":150,"width":150,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-150x150.webp","orientation":"landscape"},"medium":{"height":300,"width":200,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-200x300.webp","orientation":"portrait"},"large":{"height":1024,"width":683,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01-683x1024.webp","orientation":"portrait"},"full":{"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp","height":1200,"width":800,"orientation":"portrait"}},"mime":"image/webp","type":"image","subtype":"webp","id":245,"url":"https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp","alt":"","link":"https://alex.mikimalio.com/domains/alex.mikimalio.com/portfolio/benz-class-c/streetphoto_01/","caption":""}],"colDevice":"smartphone","phoneCol":2} -->
+<figure class="wp-block-minimalio-blocks-minimalio-gallery wp-block-gallery grid masonry lg:grid-cols-3 md:grid-cols-2 grid-cols-2 dg__2 tg__2 pg__2" data-id="bf909e29" data-grid="masonry" data-caption-enabled="false" id="bf909e29"><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp" alt="Gallery Image" class="wp-image-236"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp" alt="Gallery Image" class="wp-image-227"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure><figure class="wp-block-image none " data-fld-width="800" data-fld-height="1200"><a href="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp"><img src="https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp" alt="Gallery Image" class="wp-image-245"/></a><figcaption class="wp-element-caption" style="font-size:14px;text-align:left"></figcaption></figure></figure>
+<!-- /wp:minimalio-blocks/minimalio-gallery -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-03 11:35:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-03 11:35:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-03 13:23:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-03 13:23:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[benz-class-c]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[portfolio]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_image_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_vimeo_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_hover_video_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[91]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[236]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[minimalio]]></title>
 		<link>https://alex.mikimalio.com/minimalio/</link>
-		<pubDate>Tue, 01 Jul 2025 09:49:05 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">https://alex.mikimalio.com/2025/07/01/minimalio/</guid>
+		<pubDate>Fri, 17 Oct 2025 08:43:45 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/minimalio/</guid>
 		<description></description>
-		<content:encoded><![CDATA[/* site padding */
-  .container, .container-fluid {
-    padding: 1rem!important;
-  }
-
+		<content:encoded><![CDATA[/* Minimalist Photography Portfolio Custom Styles*/
+/* site padding */
+ .container, .container-fluid {
+	 padding: 1rem !important;
+}
 /* header */
+ .header {
+	 padding: 1.5rem 2rem !important;
+}
+/* 
+white header on portfolio page, single portfolio and blog archive page */
 
-.header {
-	padding: 1.5rem 2rem !important;
+body.page-template-portfolio-atbottompage .header a,
+body.single-portfolio .header a, body.page-template-blog-template .header a {
+	color:white;
 }
 
-.single-post .header * {
-	color:black!important;
+body.page-template-portfolio-atbottompage .header .socials__icon,
+body.single-portfolio .header .socials__icon, body.page-template-blog-template .header .socials__icon {
+	fill:white;
 }
-
 
 /* portfolio postcard */
-
-.post-card__body {
-	position: absolute;
-  bottom: 2rem;
-  left: 2rem;
-	color:white;
-	z-index:10;
+ .post-card-1 .post-card__body, .post-card-4 .post-card__body {
+	 position: absolute;
+	 padding-right: 1rem;
+	 bottom: 1rem;
+	 left: 2rem;
+	 color: white;
+	 z-index: 10;
 }
-
-.post-card__heading {
-	font-size:22px;
-}	
-.post-card__image {
-	margin:0;
+ .post-card-1 .post-card__image, .post-card-4 .post-card__image {
+	 margin: 0;
 }
-
-.post-card__overlay {
-	display:block;
-	opacity:0.3;
+ .post-card-1 .post-card__overlay, .post-card-4 .post-card__overlay {
+	 display: block;
+	 opacity: 1;
+	 background-color: rgba(0, 0, 0, 0.15);
 }
-
-.post-card:hover .post-card__overlay{
-  opacity:0;
-	transition:all 0.5s;
+ .post-card-1:hover .post-card__overlay, .post-card-4:hover .post-card__overlay {
+	 opacity: 0;
+	 transition: all 0.5s;
 }
-
+ .post-card__heading {
+	 font-size: 1.3rem;
+}
 /* blog post card */
-
-.blog-post-card-3 .post-card__heading {
-	font-size:1.5rem;
+ .blog-post-type .blog-post-card-1 .post-card__body, .blog-post-type .blog-post-card-3 .post-card__body, .blog-post-type .blog-post-card-4 .post-card__body {
+	 position: absolute;
+	 padding-right: 1rem;
+	 bottom: 1rem;
+	 left: 2rem;
+	 color: white;
+	 z-index: 10;
 }
 
-/* single post, about page */
-
-	.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer  {
-	padding:0 2rem!important;
+ .blog-post-type .blog-post-card-1 .post-card__overlay, .blog-post-type .blog-post-card-3 .post-card__overlay, .blog-post-type .blog-post-card-4 .post-card__overlay {
+	 display: block;
+	 opacity: 1;
+	 background-color: rgba(0, 0, 0, 0.15);
 }
 
-.page-template-default .header *, .single-post .header * {
-	color:black!important;
+ .blog-post-type .blog-post-card-1:hover .post-card__overlay, .blog-post-type .blog-post-card-3:hover .post-card__overlay, .blog-post-type .blog-post-card-4:hover .post-card__overlay {
+	 opacity: 0;
+	 transition: all 0.5s;
+}
+ .blog-post-type .blog-post-card-1 .post-card__image, .blog-post-type .blog-post-card-3 .post-card__image, .blog-post-type .blog-post-card-4 .post-card__image {
+	 margin: 0;
+}
+ .blog-post-card-3 .post-card__heading {
+	 font-size: 1.3rem;
 }
 
-.page-template-default .content-area, .single-post .content-area {
-	margin-top:6rem;
+/* hide entry title on archive pages */
+ .archive.tax-portfolio-categories .entry-title, .archive.tax-portfolio-tags .entry-title, body.archive.category .entry-title, body.archive.tag .entry-title {
+	 display: none;
 }
-
+/* single post and default page template paddings */
+ .page-template-default:not(.home) .entry-content, .single-post .entry-content, .page-template-default footer, .single-post footer {
+	 padding: 0 2rem !important;
+}
+ .page-template-default:not(.home) .content-area, .single-post .content-area {
+	 margin-top: 6rem;
+}
 /* media */
-
-@media screen and (max-width:600px) {
-	.header {
-	padding: 0.5rem 1rem !important;
+ @media screen and (max-width: 639px) {
+	 .posts-ajax .posts__row, .posts .posts__row {
+		 grid-template-columns: repeat(2, minmax(0, 1fr));
+	}
 }
-	
-	.page-template-default .entry-content, .single-post .entry-content, .page-template-default footer , .single-post footer {
-	padding:0 1rem!important;
+ @media screen and (max-width: 600px) {
+	 .header {
+		 padding: 0.5rem 1rem !important;
+	}
+	 .page-template-default .entry-content, .single-post .entry-content, .page-template-default footer, .single-post footer {
+		 padding: 0 1rem !important;
+	}
+	 .post-card-1 .post-card__body, .post-card-4 .post-card__body {
+		 bottom: 0;
+		 left: 1rem;
+	}
+	 .blog-post-type .blog-post-card-1 .post-card__body, .blog-post-type .blog-post-card-3 .post-card__body, .blog-post-type .blog-post-card-4 .post-card__body {
+		 bottom: 0;
+		 left: 1rem;
+	}
+	 .post-card__heading {
+		 font-size: 16px;
+	}
 }
-	
-	.post-card__body {
-  bottom: 1.5rem;
-  left: 1rem;
-}
-	
-.post-card__heading {
-	font-size:16px;
-}	
-}
-
-
-@media screen and (max-width:781px) {
-	.footer-widget h5, .footer-widget h4 {
-	text-align:center!important;
-}
-}]]></content:encoded>
+ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>303</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-01 09:49:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-01 09:49:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 09:49:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 09:49:05]]></wp:post_modified_gmt>
+		<wp:post_id>133</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-17 08:43:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-17 08:43:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-03 13:12:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-03 13:12:55]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[minimalio]]></wp:post_name>
@@ -1245,109 +973,166 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://alex.mikimalio.com/wp-global-styles-wince-child/</link>
-		<pubDate>Thu, 28 Sep 2023 10:22:00 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-1/2023/09/28/wp-global-styles-wince-child/</guid>
+		<title><![CDATA[light_01]]></title>
+		<link>https://alex.mikimalio.com/portfolio/benz-class-c/light_01/</link>
+		<pubDate>Sat, 25 Oct 2025 19:14:54 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>46</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 10:22:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 10:22:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 10:22:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 10:22:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>227</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-25 19:14:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-25 19:14:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-25 19:14:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-25 19:14:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-wince-child]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_name><![CDATA[light_01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>89</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="wince-child"><![CDATA[wince-child]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+						<wp:attachment_url><![CDATA[https://alex.mikimalio.com/wp-content/uploads/2025/10/light_01.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/light_01.webp]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:1200;s:4:"file";s:21:"2025/10/light_01.webp";s:8:"filesize";i:15250;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:21:"light_01-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3128;}s:5:"large";a:5:{s:4:"file";s:22:"light_01-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17612;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"light_01-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1806;}s:12:"medium_large";a:5:{s:4:"file";s:22:"light_01-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:20518;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[main]]></title>
-		<link>https://alex.mikimalio.com/main/</link>
-		<pubDate>Thu, 28 Sep 2023 11:02:08 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8888/content/content-1/2023/09/28/main/</guid>
+		<title><![CDATA[portrait_01]]></title>
+		<link>https://alex.mikimalio.com/portfolio/benz-class-c/portrait_01/</link>
+		<pubDate>Sat, 25 Oct 2025 19:15:13 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"56","kind":"post-type","label":"Portfolio","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"http://localhost:8888/content/content-1/portfolio/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page","description":"","id":"49","kind":"post-type","label":"home-2","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"http://localhost:8888/content/content-1/home-2/"} /--><!-- wp:navigation-link {"className":" menu-item menu-item-type-post_type menu-item-object-page menu-item-home","description":"","id":"45","kind":"post-type","label":"home-1","opensInNewTab":false,"rel":null,"title":"","type":"page","url":"http://localhost:8888/content/content-1/"} /-->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>75</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-28 11:02:08]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-09-28 11:02:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-28 11:02:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-28 11:02:08]]></wp:post_modified_gmt>
+		<wp:post_id>236</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-25 19:15:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-25 19:15:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-25 19:15:13]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-25 19:15:13]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[portrait_01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>89</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://alex.mikimalio.com/wp-content/uploads/2025/10/portrait_01.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/portrait_01.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:1200;s:4:"file";s:24:"2025/10/portrait_01.webp";s:8:"filesize";i:76526;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:24:"portrait_01-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:7676;}s:5:"large";a:5:{s:4:"file";s:25:"portrait_01-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:76956;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"portrait_01-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3952;}s:12:"medium_large";a:5:{s:4:"file";s:25:"portrait_01-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:96524;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[streetphoto_01]]></title>
+		<link>https://alex.mikimalio.com/portfolio/benz-class-c/streetphoto_01/</link>
+		<pubDate>Sat, 25 Oct 2025 19:15:30 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>245</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-25 19:15:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-25 19:15:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-25 19:15:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-25 19:15:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[streetphoto_01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>89</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://alex.mikimalio.com/wp-content/uploads/2025/10/streetphoto_01.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/10/streetphoto_01.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:1200;s:4:"file";s:27:"2025/10/streetphoto_01.webp";s:8:"filesize";i:51732;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"streetphoto_01-200x300.webp";s:5:"width";i:200;s:6:"height";i:300;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3814;}s:5:"large";a:5:{s:4:"file";s:28:"streetphoto_01-683x1024.webp";s:5:"width";i:683;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:46788;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"streetphoto_01-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1860;}s:12:"medium_large";a:5:{s:4:"file";s:28:"streetphoto_01-768x1152.webp";s:5:"width";i:768;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:62074;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[minimalist-photography-portfolio]]></title>
+		<link>https://alex.mikimalio.com/minimalist-photography-portfolio/</link>
+		<pubDate>Wed, 29 Oct 2025 14:15:07 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/minimalist-photography-portfolio/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>284</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-29 14:15:07]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-29 14:15:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-29 14:15:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-29 14:15:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[main]]></wp:post_name>
+		<wp:post_name><![CDATA[minimalist-photography-portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://alex.mikimalio.com/navigation/</link>
+		<pubDate>Thu, 25 Sep 2025 09:38:16 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/domains/child3.mikulaskarpeta.net/2025/09/25/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-25 09:38:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-25 09:38:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-25 09:38:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-25 09:38:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_eb_reusable_block_ids]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:0:{}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Custom Styles]]></title>
-		<link>https://alex.mikimalio.com/wp-global-styles-minimalio-child/</link>
-		<pubDate>Sat, 16 Dec 2023 16:32:35 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">http://alex.mikimalio.com/domains/alex.mikimalio.com/2023/12/16/wp-global-styles-minimalio-child/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"version": 2, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>283</wp:post_id>
-		<wp:post_date><![CDATA[2023-12-16 16:32:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-12-16 16:32:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-16 16:32:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-16 16:32:35]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[wp-global-styles-minimalio-child]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="minimalio-child"><![CDATA[Minimalio-child]]></category>
-						</item>
+														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
 		<link>https://alex.mikimalio.com/wp-global-styles-minimalio/</link>
-		<pubDate>Tue, 01 Jul 2025 09:50:33 +0000</pubDate>
-		<dc:creator><![CDATA[Miki]]></dc:creator>
-		<guid isPermaLink="false">https://alex.mikimalio.com/2025/07/01/wp-global-styles-minimalio/</guid>
+		<pubDate>Fri, 17 Oct 2025 08:44:00 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-global-styles-minimalio/</guid>
 		<description></description>
 		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>305</wp:post_id>
-		<wp:post_date><![CDATA[2025-07-01 09:50:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-07-01 09:50:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-07-01 09:50:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-07-01 09:50:33]]></wp:post_modified_gmt>
+		<wp:post_id>135</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-17 08:44:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-17 08:44:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-17 08:44:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-17 08:44:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-minimalio]]></wp:post_name>
@@ -1358,6 +1143,31 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="minimalio"><![CDATA[minimalio]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://alex.mikimalio.com/wp-global-styles-minimalist-photography-portfolio/</link>
+		<pubDate>Mon, 03 Nov 2025 10:14:37 +0000</pubDate>
+		<dc:creator><![CDATA[Minimalio]]></dc:creator>
+		<guid isPermaLink="false">https://alex.mikimalio.com/domains/alex.mikimalio.com/wp-global-styles-minimalist-photography-portfolio/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>306</wp:post_id>
+		<wp:post_date><![CDATA[2025-11-03 10:14:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-11-03 10:14:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-11-03 10:14:37]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-11-03 10:14:37]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-minimalist-photography-portfolio]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="minimalist-photography-portfolio"><![CDATA[minimalist-photography-portfolio]]></category>
 						</item>
 				</channel>
 </rss>
