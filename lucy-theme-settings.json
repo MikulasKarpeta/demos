@@ -2,7 +2,7 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-07-01 11:24:26",
+        "export_date": "2025-11-27 13:24:08",
         "site_url": "https://lucy.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
@@ -14,16 +14,24 @@
         "minimalio_settings_header_container_type": "container",
         "minimalio_settings_container_width": 1440,
         "minimalio_settings_scrollbar": "stable",
-        "minimalio_typography_settings_google_font": "Libre+Baskerville",
+        "minimalio_typography_settings_google_font": "Ubuntu",
         "minimalio_settings_logo_position": "center",
-        "minimalio_settings_font_color": "#0a0a0a",
+        "minimalio_settings_font_color": "#000000",
         "minimalio_gallery_bg_color_settings": "#ffffff",
         "minimalio_settings_heading_sizes": "default",
         "minimalio_typography_settings_google_font_wight": 400,
         "minimalio_settings_google_letter_spacing": "",
-        "custom_css_post_id": -1
+        "minimalio_settings_color_background": "#efefef",
+        "minimalio_settings_header_color": "#1f3447",
+        "minimalio_settings_header_background": "",
+        "minimalio_settings_header_color_hover": "#1f3447",
+        "minimalio_settings_link_decoration": "underline",
+        "minimalio_ligtbox_icon_color_settings": "#0a0a0a",
+        "minimalio_lightbox_icons_style_settings": "style_1",
+        "minimalio_lightbox_show_captions_settings": "yes",
+        "custom_css_post_id": 407
     },
-    "custom_css": "",
+    "custom_css": ".header__brand {\n\tfont-size: 2.2rem;\n\tfont-weight: 700;\n\tcolor: #1f3447;\n\tletter-spacing: -0.02em;\n}",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
@@ -32,7 +40,9 @@
             "right-sidebar-blog": [],
             "left-sidebar-blog": [],
             "headerfull": [],
-            "footerfull": []
+            "footerfull": [
+                "block-2"
+            ]
         },
         "widget_content": {
             "pages": {
@@ -87,10 +97,22 @@
                 "_multiwidget": 1
             },
             "block": {
+                "2": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":4} -->\n<h4 class=\"wp-block-heading\"><strong>Lucy Doe</strong></h4>\n<!-- /wp:heading --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"mailto:lucy@lucy.com\">lucy@lucy.com</a><br><a href=\"https://instagram.com\">instagram</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
                 "_multiwidget": 1
             }
         },
-        "widget_metadata": []
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
     },
     "front_page": {
         "show_on_front": "page",
