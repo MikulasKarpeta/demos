@@ -2,7 +2,7 @@
     "export_info": {
         "theme": "minimalio",
         "version": "1.0.5",
-        "export_date": "2025-11-27 13:24:08",
+        "export_date": "2025-11-27 13:36:44",
         "site_url": "https://lucy.mikimalio.com",
         "format_version": "1.0",
         "exported_by": "Minimalio Portfolio Plugin"
@@ -31,7 +31,7 @@
         "minimalio_lightbox_show_captions_settings": "yes",
         "custom_css_post_id": 407
     },
-    "custom_css": ".header__brand {\n\tfont-size: 2.2rem;\n\tfont-weight: 700;\n\tcolor: #1f3447;\n\tletter-spacing: -0.02em;\n}",
+    "custom_css": ".header__brand {\n\tfont-weight: 700;\n}",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],
