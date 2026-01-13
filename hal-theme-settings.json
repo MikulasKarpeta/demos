@@ -1,0 +1,173 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2026-01-13 12:55:49",
+        "site_url": "https://hal.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 7
+        },
+        "minimalio_settings_container_width": 1440,
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_settings_color_background": "#0a0a0a",
+        "minimalio_typography_settings_google_font": "Inconsolata",
+        "minimalio_typography_settings_google_font_wight": 300,
+        "minimalio_settings_font_color": "#ffffff",
+        "minimalio_settings_link_color": "#dddddd",
+        "minimalio_settings_hover_color": "#ffffff",
+        "minimalio_settings_header_color": "#ffffff",
+        "minimalio_settings_header_color_hover": "#ffffff",
+        "minimalio_settings_link_decoration": "underline",
+        "minimalio_settings_social_media_location": "both",
+        "minimalio_settings_social_media_style": "-pill",
+        "minimalio_settings_social_media_vimeo": "https://vimeo.com",
+        "minimalio_settings_social_media_imdb": "",
+        "minimalio_settings_social_media_youtube": "https://imdb.com",
+        "minimalio_settings_portfolio_columns": 3,
+        "minimalio_settings_post_card_image_aspect_ratio": "16-9",
+        "minimalio_settings_portfolio_style": "style_1",
+        "video_editor_portfolio_settings_post_card_border_width": "",
+        "video_editor_portfolio_settings_category_font_size": "18",
+        "minimalio_settings_portfolio_hover_color": "#0a0a0a",
+        "minimalio_settings_archive_template_filter_enable": "no",
+        "custom_logo": 117,
+        "minimalio_settings_mobile_menu_icon_colour": "#ffffff",
+        "video_editor_portfolio_settings_mobile_hamburger_icon_color": "#ffffff",
+        "minimalio_settings_portfolio_hover_option": "hover-video",
+        "minimalio_settings_portfolio_behaviour": "single",
+        "video_film_portfolio_settings_category_font_size": "18",
+        "video_film_portfolio_settings_portfolio_card_title_size": "18",
+        "video_film_portfolio_settings_category_align": "justify-between",
+        "video_film_portfolio_settings_post_card_border_width": "",
+        "video_film_portfolio_settings_mobile_hamburger_icon_color": "#ffffff",
+        "minimalio_settings_portfolio_pagination": "no",
+        "minimalio_settings_blog_columns": 3,
+        "minimalio_settings_blog_post_card_image_aspect_ratio": "16-9",
+        "minimalio_settings_single_post_title": "yes",
+        "minimalio_settings_single_post_latest_posts": "yes",
+        "minimalio_settings_single_post_latest_posts_number": 3,
+        "minimalio_settings_blog_hover_color": "rgba(0,0,0,0.6)",
+        "minimalio_settings_footer_font_color": "#ffffff",
+        "custom_css_post_id": 104,
+        "minimalio_settings_header_container_type": "container",
+        "minimalio_settings_mobile_top_background": "#0a0a0a",
+        "minimalio_settings_mobile_close_colour": "#ffffff",
+        "minimalio_settings_mobile_body_background": "#0a0a0a",
+        "minimalio_settings_mobile_font_colour": "#ffffff",
+        "minimalio_settings_mobile_font_size": 24,
+        "minimalio_settings_mobile_menu_width": "full-width"
+    },
+    "custom_css": "/* font size of category filtering */\n\n.posts-ajax__categories .posts-ajax__tab-label {\n  font-size: 18px;\n}\n\n/* font size of portfolio post card heading */\n\n.portfolio-post-type .post-card .post-card__heading {\n  font-size: 18px;\n}\n\n/* padding of portfolio post card body on the sides */\n\n.portfolio-post-type .post-card .post-card__body {\n  padding-inline: 1rem;\n}\n\n/* blog post card style */\n\n.blog-post-type .blog-post-card-1:has(figure) .post-card__body, .blog-post-type .blog-post-card-3:has(figure) .post-card__body, .blog-post-type .blog-post-card-4:has(figure) .post-card__body {\n  position: absolute;\n  padding-right: 1rem;\n  bottom: 1rem;\n  left: 2rem;\n  color: #fff;\n  z-index: 10;\n}\n\n.blog-post-type .blog-post-card-1:has(figure) .post-card__heading, .blog-post-type .blog-post-card-1:has(figure) .post-card__categories {\n  padding-bottom: .5rem;\n\tfont-size: 16px !important;\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [
+                "block-2"
+            ],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-3"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"mailto:hal@ashbie.com\">hal@ashbie.com</a><br>+49 0154865452</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "3": {
+                    "content": "<!-- wp:paragraph {\"align\":\"center\"} -->\n<p class=\"has-text-align-center\"><a href=\"mailto:hal@ashbie.com\">hal@ashbie.com</a><br>+49 0154865452</p>\n<!-- /wp:paragraph -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "9",
+        "page_for_posts": "0",
+        "front_page_title": "My Work",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 7
+        },
+        "menu_names": {
+            "primary": "header-main"
+        }
+    }
+}

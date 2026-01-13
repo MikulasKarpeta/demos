@@ -151,6 +151,14 @@
       "preview_url": "https://charles.minimalio.org",
       "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/charles-wp-content.xml",
       "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/charles-theme-settings.json"
+    },
+    {
+      "id": "hal",
+      "name": "Hal",
+      "image": "https://minimalio.sirv.com/Images/hal.webp",
+      "preview_url": "https://hal.minimalio.org",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/hal-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/hal-theme-settings.json"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
