@@ -155,7 +155,7 @@
     {
       "id": "hal",
       "name": "Hal",
-      "image": "https://minimalio.sirv.com/Images/hal.webp",
+      "image": "https://minimalio.sirv.com/Images/hal-minimalio.webp",
       "preview_url": "https://hal.minimalio.org",
       "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/hal-wp-content.xml",
       "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/hal-theme-settings.json"
