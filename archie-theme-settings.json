@@ -1,0 +1,201 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2026-03-17 12:00:33",
+        "site_url": "http://archie.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 3
+        },
+        "minimalio_settings_header_color": "#0a0a0a",
+        "minimalio_settings_header_color_hover": "#afafaf",
+        "minimalio_settings_header_container_type": "container-fluid",
+        "minimalio_site_title_size": 20,
+        "minimalio_settings_menu_google_font_size": 18,
+        "minimalio_typography_settings_google_font": "Roboto",
+        "minimalio_typography_settings_google_font_wight": 200,
+        "minimalio_settings_portfolio_columns": 3,
+        "minimalio_settings_portfolio_gap": "gap_2",
+        "architecture_studio_settings_category_filter_font_size": 18,
+        "architecture_studio_settings_portfolio_post_card_font_size": 18,
+        "architecture_studio_settings_blog_post_card_body_color": "#000000",
+        "architecture_studio_settings_blog_post_card_body_hover_color": "#afafaf",
+        "architecture_studio_settings_portfolio_post_card_body_color": "#000000",
+        "architecture_studio_settings_portfolio_post_card_body_hover_color": "#afafaf",
+        "minimalio_settings_portfolio_hover_option": "hover-image",
+        "minimalio_settings_archive_portfolio_filter_enable": "no",
+        "minimalio_settings_portfolio_style": "style_1",
+        "architecture_studio_settings_blog_post_card_body_font_size": 18,
+        "minimalio_settings_blog_columns": 3,
+        "minimalio_settings_blog_gap": "gap_2",
+        "minimalio_settings_blog_post_card": "style_4",
+        "minimalio_settings_blog_hover_color": "rgba(76,76,76,0.11)",
+        "architecture_studio_settings_category_filter_align": "center",
+        "architecture_studio_settings_category_filter_color": "#000000",
+        "architecture_studio_settings_category_filter_hover_color": "#afafaf",
+        "minimalio_settings_single_portfolio_navigation": "no",
+        "minimalio_settings_single_portfolio_latest": "yes",
+        "minimalio_settings_single_portfolio_latest_portfolio_number": 3,
+        "minimalio_settings_single_portfolio_latest_portfolio_title": "yes",
+        "minimalio_settings_single_portfolio_latest_portfolio_title_label": "Latest projects",
+        "minimalio_settings_single_portfolio_latest_portfolio_title_size": "h5",
+        "minimalio_settings_single_post_title": "yes",
+        "minimalio_settings_single_post_title_size": "h5",
+        "minimalio_settings_container_type": "container",
+        "minimalio_settings_container_width": 1440,
+        "minimalio_settings_single_post_meta": "no",
+        "minimalio_settings_single_post_latest_posts": "yes",
+        "minimalio_settings_single_post_latest_posts_title": "no",
+        "minimalio_settings_single_post_latest_posts_title_label": "Latest Posts",
+        "minimalio_settings_single_post_latest_posts_title_size": "h5",
+        "minimalio_settings_single_post_latest_posts_number": 3,
+        "minimalio_settings_link_color": "#0a0a0a",
+        "minimalio_settings_hover_color": "#afafaf",
+        "minimalio_settings_footer_container": "container-fluid",
+        "minimalio_settings_social_media_location": "no",
+        "minimalio_settings_social_media_instagram": "",
+        "custom_css_post_id": 139
+    },
+    "custom_css": "/* smaller padding for the whole website */\n\n.container,\n.container-fluid {\n  padding-left: 1rem;\n  padding-right: 1rem;\n}\n\n/* smaller padding for header*/\n\n.header {\n  padding: 0.5rem 0 ;\n}\n\n/* filter categories  */\n\n.posts__tab-label, .posts-ajax__tab-label {\n\tfont-size: 18px\n}\n\n.posts-ajax__row, .posts__categories-wrapper {justify-content: center; }\n\n.posts__tab:hover .posts__tab-label, .posts-ajax__tab:hover .posts-ajax__tab-label, .posts__tab.checked .posts__tab-label, .posts-ajax__tab.checked .posts-ajax__tab-label {color: %#afafaf;}\n\n\n/* blog post card body font size and colors */\n\n.blog-post-type .post-card .post-card__body * {font-size: 18px}\n\n.blog-post-type .post-card:hover .post-card__body {color: #afafaf;}\n\n.blog-post-type .post-card:hover .post-card__body a {color: #afafaf;}\n\n/* portfolio post card body font size and colors */\n\n.portfolio-post-type .post-card .post-card__body {font-size: 18px}\n\n.portfolio-post-type .post-card .post-card__heading {font-size: 18px}\n\n.portfolio-post-type .post-card:hover .post-card__body {color: #afafaf;}\n\n.portfolio-post-type .post-card:hover .post-card__body a {color: #afafaf;}\n\n/* custom thinner separator */\n\n.wp-block-separator {\n  border-width: 1px;\n}\n\n/* blog post card 4 */\n\n.blog-post-card-4 figure {\n  margin-bottom: 0.25rem;\n}\n",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-3",
+                "block-4",
+                "block-5",
+                "block-6",
+                "block-2"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>Founded: 2009<br>Headquarters: Vienna, Austria<br>Offices: Vienna \u00b7 Lisbon \u00b7 Warsaw</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p><a href=\"mailto:info@architecturestudio.com\">info@architecturestudio.com</a><br>+49 159 755 554</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "3": {
+                    "content": "<!-- wp:separator {\"backgroundColor\":\"black\"} -->\n<hr class=\"wp-block-separator has-text-color has-black-color has-alpha-channel-opacity has-black-background-color has-background\"/>\n<!-- /wp:separator -->"
+                },
+                "4": {
+                    "content": "<!-- wp:spacer {\"height\":\"2rem\"} -->\n<div style=\"height:2rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "5": {
+                    "content": "<!-- wp:heading {\"level\":6} -->\n<h6 class=\"wp-block-heading\">Architecture Studio</h6>\n<!-- /wp:heading -->"
+                },
+                "6": {
+                    "content": "<!-- wp:spacer {\"height\":\"1rem\"} -->\n<div style=\"height:1rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "4": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "5": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "6": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "36",
+        "page_for_posts": "0",
+        "front_page_title": "Projects",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 3
+        },
+        "menu_names": {
+            "primary": "main-menu"
+        }
+    }
+}
