@@ -167,6 +167,14 @@
       "preview_url": "https://archie.minimalio.org",
       "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/archie-wp-content.xml",
       "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/archie-theme-settings.json"
+    },
+    {
+      "id": "rosa",
+      "name": "Rosa",
+      "image": "https://minimalio.sirv.com/Images/rosa-minimalio.webp",
+      "preview_url": "https://rosa.minimalio.org",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/rosa-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/rosa-theme-settings.json"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"

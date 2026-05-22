@@ -1,0 +1,170 @@
+{
+    "export_info": {
+        "theme": "minimalio",
+        "version": "1.0.5",
+        "export_date": "2026-05-21 14:36:19",
+        "site_url": "http://rosa.mikimalio.com",
+        "format_version": "1.0",
+        "exported_by": "Minimalio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "minimalio_settings_blog_post_card": "all_elements",
+        "minimalio_settings_blog_gap": "gap_0",
+        "minimalio_settings_blog_columns": 3,
+        "minimalio_settings_portfolio_gap": "gap_0",
+        "minimalio_settings_portfolio_type": "grid",
+        "minimalio_settings_portfolio_columns": 3,
+        "minimal_photography_blog_settings_blog_post_card_body_font_size": 20,
+        "minimalio_settings_container_width": 1440,
+        "minimalio_settings_portfolio_style": "all_elements",
+        "minimal_photography_blog_settings_portfolio_post_card_font_size": 20,
+        "minimal_photography_blog_settings_category_filter_align": "right",
+        "minimalio_settings_portfolio_hover_option": "zoom-2",
+        "minimalio_settings_heading_sizes": "headings-scale-1-5",
+        "minimal_photography_blog_settings_category_filter_font_size": 14,
+        "minimalio_settings_social_media_location": "both",
+        "minimalio_settings_social_media_instagram": "https://instagram.com",
+        "minimalio_settings_social_media_linkedin": "",
+        "minimalio_settings_social_media_pinterest": "https://pinterest.com",
+        "minimalio_settings_color_background": "#ffffff",
+        "minimalio_settings_font_color": "",
+        "minimal_photography_blog_settings_border_design": "on",
+        "minimal_photography_blog_settings_category_filter_hover_color": "#aaaaaa",
+        "minimal_photography_blog_settings_blog_post_card_body_hover_color": "#969696",
+        "minimalio_site_title_size": 20,
+        "minimal_photography_blog_settings_post_item_card_padding": "default",
+        "minimalio_settings_single_post_title": "yes",
+        "minimal_photography_blog_settings_blog_card_hover": "color",
+        "minimalio_gallery_bg_color_settings": "#ffffff",
+        "minimalio_ligtbox_icon_color_settings": "#0a0a0a",
+        "minimalio_lightbox_icons_style_settings": "style_1",
+        "minimalio_settings_header_container_type": "container",
+        "custom_css_post_id": 328,
+        "minimalio_typography_settings_google_font": "Roboto",
+        "minimalio_typography_settings_google_font_wight": 200,
+        "minimalio_settings_blog_pagination": "load_scroll",
+        "minimalio_settings_scrollbar": "stable",
+        "minimalio_settings_blog_all": "All"
+    },
+    "custom_css": "/* header */\n.header {\n  padding: 0;\n}\n\n.header__row {\n  border-bottom: 1px solid;\n  padding-top: 2.5rem;\n  padding-bottom: 1.5rem;\n}\n\n/* categories filtering */\n.posts__categories-wrapper,\n.posts-ajax__categories-wrapper {\n  gap: 1rem;\n}\n\n.posts-ajax__row {\n\tjustify-content:flex-end;\n}\n\n.posts__tab span,\n.posts-ajax__tab span {\n  display: inline-block;\n  font-size: 16px;\n  line-height: 1.1;\n  border: 1px solid;\n  padding: 0.5em 0.75em;\n  border-radius: 30px;\n}\n\n/* portfolio & blog post grid*/\n.post-item {\n  border-top: 1px solid;\n  border-bottom: 1px solid;\n  border-left: 1px solid;\n  border-right: 1px solid;\n  padding: clamp(1.8rem, 1.8rem + (1vw - 0.48rem) * 2.885, 3rem);\n}\n\n.post-item:nth-child(n+2) {\n  border-top: none;\n}\n\n.lg\\:grid-cols-1 .post-item {\n  border-top: 1px solid !important;\n  border-bottom: 1px solid !important;\n  border-left: 1px solid !important;\n  border-right: 1px solid !important;\n}\n\n.lg\\:grid-cols-1 .post-item:nth-child(n+2) {\n  border-top: 0 solid !important;\n}\n\n@media screen and (min-width: 640px) {\n  .sm\\:grid-cols-2 .post-item:nth-child(2) {\n    border-top: 1px solid;\n  }\n  .sm\\:grid-cols-2 .post-item:nth-child(even) {\n    border-left: 0;\n  }\n  .sm\\:grid-cols-2 .post-item:nth-child(n+3) {\n    border-top: none;\n  }\n}\n@media screen and (min-width: 1024px) {\n  .lg\\:grid-cols-2 .post-item:nth-child(n+3) {\n    border-top: none;\n  }\n  .lg\\:grid-cols-3 .post-item:nth-child(even) {\n    border-left: 1px solid;\n  }\n  .lg\\:grid-cols-3 .post-item:nth-child(3) {\n    border-top: 1px solid;\n  }\n  .lg\\:grid-cols-3 .post-item:not(:nth-child(3n+1)) {\n    border-left: 0;\n  }\n}\n\n/* portfolio & blog cards*/\n\n.blog-post-type .post-card-all .post-card__date,\n.portfolio-post-type .post-card-all .post-card__date {\n  order: 5;\n  font-size: 0.875rem;\n}\n.blog-post-type .post-card-all .post-card__categories,\n.portfolio-post-type .post-card-all .post-card__categories {\n  order: 1;\n  font-size: 0.875rem;\n}\n.blog-post-type .post-card-all .post-card__image,\n.portfolio-post-type .post-card-all .post-card__image {\n  order: 2;\n}\n.blog-post-type .post-card-all .post-card__heading,\n.portfolio-post-type .post-card-all .post-card__heading {\n  order: 3;\n\tfont-size:20px;\n}\n.blog-post-type .post-card-all .post-card__excerpt,\n.portfolio-post-type .post-card-all .post-card__excerpt {\n  order: 4;\n  font-size: 0.875rem;\n}\n.blog-post-type .post-card-all .post-card__button,\n.blog-post-type .post-card-all .post-card__author,\n.blog-post-type .post-card-all .post-card__tags,\n.portfolio-post-type .post-card-all .post-card__button,\n.portfolio-post-type .post-card-all .post-card__author,\n.portfolio-post-type .post-card-all .post-card__tags {\n  display: none;\n}\n.blog-post-type .post-card-all .post-card__categories,\n.portfolio-post-type .post-card-all .post-card__categories {\n  width: -moz-fit-content;\n  width: fit-content;\n  align-self: flex-end;\n  padding: 0.5rem 0.75rem;\n  border: 1px solid;\n  border-radius: 30px;\n  line-height: 1.1;\n  margin-bottom: 2rem;\n}\n\n.blog-post-type .post-card-all .post-card__heading {\n  padding-top: 2.5rem;\n}\n\n.portfolio-post-type .post-card-all .post-card__date,\n.portfolio-post-type .post-card-all .post-card__excerpt {\n  display: none;\n}\n.portfolio-post-type .post-card-all .post-card__heading {\n  padding-bottom: 0;\n}\n\n/* Blog card zoom hover */\n.blog-post-type .post-card .post-card__image img {\n  overflow: hidden;\n  transform: none;\n  margin-left: 0;\n  transition: transform 0.2s;\n}\n\n.blog-post-type .post-card .post-card__image img {\n  transform: none !important;\n  margin-left: 0 !important;\n}\n.blog-post-type .post-card:hover .post-card__image img {\n  transform: scale(1.1) !important;\n}\n.blog-post-type .post-card .post-card__overlay {\n  display: none;\n}\n\n/* custom thinner separator */\n.wp-block-separator {\n  border-width: 1px;\n}\n\n/* borders for minimalio gallery */\n.wp-block-minimalio-blocks-minimalio-gallery.wp-block-gallery.grid.dg__0 {\n  gap: 0;\n}\n\n.wp-block-minimalio-blocks-minimalio-gallery.grid .wp-block-image {\n  border-top: 1px solid;\n  border-bottom: 1px solid;\n  border-left: 1px solid;\n  border-right: 1px solid;\n  padding: clamp(1.8rem, 1.8rem + (1vw - 0.48rem) * 2.885, 3rem);\n}\n.wp-block-minimalio-blocks-minimalio-gallery.grid.grid-cols-1 .wp-block-image:nth-child(n+2) {\n  border-top: none;\n}\n.wp-block-minimalio-blocks-minimalio-gallery.grid.grid-cols-2 .wp-block-image:nth-child(2) {\n  border-top: 1px solid;\n}\n.wp-block-minimalio-blocks-minimalio-gallery.grid.grid-cols-2 .wp-block-image:nth-child(even) {\n  border-left: 0;\n}\n.wp-block-minimalio-blocks-minimalio-gallery.grid.grid-cols-2 .wp-block-image:nth-child(n+3) {\n  border-top: none;\n}\n\n@media screen and (min-width: 767px) {\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-2 .wp-block-image:nth-child(2) {\n    border-top: 1px solid;\n  }\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-2 .wp-block-image:nth-child(even) {\n    border-left: 0;\n  }\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-2 .wp-block-image:nth-child(n+3) {\n    border-top: none;\n  }\n\t  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-3 .wp-block-image:nth-child(even) {\n    border-left: 1px solid;\n  }\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-3 .wp-block-image:nth-child(3),\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-3 .wp-block-image:nth-child(2) {\n    border-top: 1px solid;\n  }\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.md\\:grid-cols-3 .wp-block-image:not(:nth-child(3n+1)) {\n    border-left: 0;\n  }\n}\n@media screen and (min-width: 1024px) {\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.lg\\:grid-cols-3 .wp-block-image:nth-child(even) {\n    border-left: 1px solid;\n  }\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.lg\\:grid-cols-3 .wp-block-image:nth-child(3) {\n    border-top: 1px solid;\n  }\n  .wp-block-minimalio-blocks-minimalio-gallery.grid.lg\\:grid-cols-3 .wp-block-image:not(:nth-child(3n+1)) {\n    border-left: 0;\n  }\n  \n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-9",
+                "block-8",
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "7": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5 class=\"wp-block-heading\">Rosa Alexandra</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Portrait Photographer</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"align\":\"right\"} -->\n<p class=\"has-text-align-right\">Rosa@Alexandra.com</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "8": {
+                    "content": "<!-- wp:spacer {\"height\":\"2rem\"} -->\n<div style=\"height:2rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "9": {
+                    "content": "<!-- wp:separator -->\n<hr class=\"wp-block-separator has-alpha-channel-opacity\"/>\n<!-- /wp:separator -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "9": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "36",
+        "page_for_posts": "0",
+        "front_page_title": "Photography",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "menu_names": {
+            "primary": "main-menu"
+        }
+    }
+}
