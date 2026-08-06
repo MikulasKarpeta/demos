@@ -1,0 +1,183 @@
+{
+    "export_info": {
+        "theme": "neonio",
+        "version": "1.0.5",
+        "export_date": "2026-08-06 10:55:33",
+        "site_url": "https://lucas.neonio.net",
+        "format_version": "1.0",
+        "exported_by": "Neonio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "custom_css_post_id": 25,
+        "neonio_color_accent": "#446dff",
+        "neonio_settings_mobile_menu_breack": 4096,
+        "neonio_settings_mobile_menu_icon_style": "style_2",
+        "neonio_action_button_show_mobile": "yes",
+        "neonio_action_button_link": "/contact",
+        "neonio_color_button": "#ffffff",
+        "neonio_settings_mobile_menu_width": "full-width",
+        "neonio_settings_mobile_font_size": 36,
+        "neonio_settings_transparent": "home",
+        "neonio_settings_portfolio_hover_option": "hover-video",
+        "neonio_settings_post_card_image_aspect_ratio": "16-9",
+        "neonio_settings_portfolio_columns": 3,
+        "neonio_settings_categories_font_color": "#848484",
+        "neonio_settings_categories_filter_alignment": "center",
+        "neonio_settings_link_color": "#ffffff",
+        "neonio_settings_hover_color": "#446dff"
+    },
+    "custom_css": "h1 {\n\tline-height:1!important;\n}\n\n.header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [
+                "block-2",
+                "block-3",
+                "block-4"
+            ],
+            "left-sidebar": [
+                "block-5",
+                "block-6"
+            ],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-7"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:search /-->"
+                },
+                "3": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+                },
+                "4": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+                },
+                "5": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+                },
+                "6": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+                },
+                "7": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"width\":\"\"} -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5 class=\"wp-block-heading\">LUCAS VEIL</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"layout\":{\"selfStretch\":\"fill\",\"flexSize\":null},\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|action\"}}}},\"textColor\":\"action\",\"fontSize\":\"small\"} -->\n<p class=\"has-action-color has-text-color has-link-color has-small-font-size\">Over a decade of commercials and films that don\u2019t just reach audiences \u2014 they define them.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"\"} -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%\"><!-- wp:paragraph {\"style\":{\"layout\":{\"selfStretch\":\"fit\",\"flexSize\":null},\"typography\":{\"textAlign\":\"right\"}}} -->\n<p class=\"has-text-align-right\"><a href=\"mailto:markus@veil.com\">lucas@veil.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "4": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "5": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "6": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "7": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "285",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "menu_names": {
+            "primary": "main_menu"
+        }
+    }
+}

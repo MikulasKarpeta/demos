@@ -1,0 +1,231 @@
+{
+    "export_info": {
+        "theme": "neonio",
+        "version": "1.0.5",
+        "export_date": "2026-08-06 10:54:37",
+        "site_url": "https://marcus.neonio.net",
+        "format_version": "1.0",
+        "exported_by": "Neonio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 3,
+            "secondary": 0
+        },
+        "custom_css_post_id": 25,
+        "neonio_site_title_color": "#ededed",
+        "neonio_typography_settings_google_font": "Plus+Jakarta+Sans",
+        "neonio_settings_color_background": "#111111",
+        "neonio_settings_font_color": "#ffffff",
+        "neonio_action_button_bg_color": "",
+        "neonio_settings_menu_position": "center",
+        "neonio_action_button_text": "LET'S TALK",
+        "neonio_action_button_color": "#020202",
+        "neonio_settings_header_color": "#b5b5b5",
+        "neonio_settings_link_decoration": "underlined",
+        "neonio_settings_menu_google_font_size": 13,
+        "neonio_settings_footer_font_color": "",
+        "neonio_settings_container_type": "container",
+        "neonio_settings_fixed_heading": "yes",
+        "neonio_settings_fixed_header_background": "#191919",
+        "neonio_settings_header_color_hover": "#ff4f4f",
+        "neonio_settings_single_portfolio_image": "no",
+        "neonio_settings_portfolio_columns": 3,
+        "neonio_settings_single_portfolio_share": "no",
+        "neonio_settings_portfolio_style": "style_5",
+        "neonio_settings_categories_font_size": 12,
+        "neonio_settings_categories_font_color": "#f25b4b",
+        "neonio_settings_logo_width": 180,
+        "neonio_action_button_size": 12,
+        "neonio_settings_footer_background": "#0a0a0a",
+        "neonio_settings_transparent": "home_portfolio",
+        "neonio_settings_archive_portfolio_filter_enable": "yes",
+        "neonio_site_title_size": 24,
+        "neonio_settings_heading_sizes": "headings-scale-1-5",
+        "neonio_settings_portfolio_hover_option": "hover-image",
+        "neonio_settings_single_portfolio_latest": "yes",
+        "neonio_settings_single_portfolio_latest_portfolio_title": "yes",
+        "neonio_settings_single_portfolio_latest_portfolio_title_label": "LATEST WORK",
+        "neonio_settings_single_portfolio_latest_portfolio_number": 3,
+        "neonio_settings_single_portfolio_latest_portfolio_title_size": "h4",
+        "neonio_settings_categories_filter_alignment": "flex-end",
+        "neonio_color_additional": "#212121",
+        "neonio_settings_link_color": "#ffffff",
+        "neonio_action_button_link": "/contact",
+        "neonio_color_accent": "#f25b4b",
+        "neonio_color_button": "#000000",
+        "neonio_border_radius": 4,
+        "neonio_settings_menu_font_size": 14,
+        "neonio_settings_social_media_location": "footer",
+        "neonio_settings_social_media_style": "-square",
+        "neonio_settings_social_media_facebook": "",
+        "neonio_settings_social_media_instagram": "https://instagram.com",
+        "neonio_settings_social_media_linkedin": "https://linkedin.com",
+        "neonio_gallery_bg_color_settings": "#000000",
+        "neonio_ligtbox_icon_color_settings": "#ffffff",
+        "neonio_lightbox_icons_style_settings": "style_1"
+    },
+    "custom_css": "h1 {\n\tline-height:1!important;\n}\n\n.header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [
+                "block-11"
+            ],
+            "right-sidebar": [
+                "block-2",
+                "block-3",
+                "block-4"
+            ],
+            "left-sidebar": [
+                "block-5",
+                "block-6"
+            ],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-8"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:search /-->"
+                },
+                "3": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+                },
+                "4": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+                },
+                "5": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+                },
+                "6": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+                },
+                "8": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column {\"width\":\"\"} -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"level\":5} -->\n<h5 class=\"wp-block-heading\">MARKUS VEIL</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"style\":{\"layout\":{\"selfStretch\":\"fill\",\"flexSize\":null},\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|action\"}}}},\"textColor\":\"action\",\"fontSize\":\"small\"} -->\n<p class=\"has-action-color has-text-color has-link-color has-small-font-size\">I bring a passion for creative problem-solving and a keen eye for aesthetics to every project I undertake.</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"\"} -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%\"><!-- wp:paragraph {\"align\":\"right\",\"style\":{\"layout\":{\"selfStretch\":\"fit\",\"flexSize\":null}}} -->\n<p class=\"has-text-align-right\"><a href=\"mailto:markus@veil.com\">markus@veil.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "11": {
+                    "content": "<!-- wp:spacer {\"height\":\"3rem\"} -->\n<div style=\"height:3rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "4": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "5": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "6": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "11": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "6",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 3,
+            "secondary": 0
+        },
+        "menu_names": {
+            "primary": "main_menu"
+        }
+    }
+}

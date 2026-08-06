@@ -1,0 +1,53 @@
+{
+  "demos": [
+    {
+      "id": "marcus",
+      "name": "Marcus",
+      "image": "https://minimalio.sirv.com/Images/marcus-neonio.webp",
+      "preview_url": "https://marcus.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/marcus-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/marcus-theme-settings.json"
+    },
+    {
+      "id": "christine",
+      "name": "Christine",
+      "image": "https://minimalio.sirv.com/Images/christine-neonio.webp",
+      "preview_url": "https://christine.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/christine-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/christine-theme-settings.json"
+    },
+    {
+      "id": "lucas",
+      "name": "Lucas",
+      "image": "https://minimalio.sirv.com/Images/lucas-neonio.webp",
+      "preview_url": "https://lucas.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/lucas-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/lucas-theme-settings.json"
+    },
+    {
+      "id": "oskar",
+      "name": "Oskar",
+      "image": "https://minimalio.sirv.com/Images/oskar-neonio.webp",
+      "preview_url": "https://oskar.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/oskar-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/oskar-theme-settings.json"
+    },
+    {
+      "id": "theresa",
+      "name": "Theresa",
+      "image": "https://minimalio.sirv.com/Images/theresa-neonio.webp",
+      "preview_url": "https://theresa.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/theresa-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/theresa-theme-settings.json"
+    },
+    {
+      "id": "elera",
+      "name": "Elera",
+      "image": "https://minimalio.sirv.com/Images/elera-neonio.webp",
+      "preview_url": "https://elera.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/elera-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/elera-theme-settings.json"
+    }
+  ],
+  "last_updated": "2025-06-26T10:00:00Z"
+}

@@ -1,0 +1,248 @@
+{
+    "export_info": {
+        "theme": "neonio",
+        "version": "1.0.5",
+        "export_date": "2026-08-06 10:57:38",
+        "site_url": "https://oskar.neonio.net",
+        "format_version": "1.0",
+        "exported_by": "Neonio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 3,
+            "secondary": 0
+        },
+        "custom_css_post_id": 25,
+        "neonio_site_title_color": "#020202",
+        "neonio_typography_settings_google_font": "Plus+Jakarta+Sans",
+        "neonio_settings_color_background": "#f9f9f9",
+        "neonio_settings_font_color": "#ffffff",
+        "neonio_action_button_bg_color": "#efefef",
+        "neonio_settings_menu_position": "center",
+        "neonio_action_button_text": "LET'S TALK",
+        "neonio_action_button_color": "#020202",
+        "neonio_settings_header_color": "#686868",
+        "neonio_settings_link_decoration": "no",
+        "neonio_settings_menu_google_font_size": 13,
+        "neonio_settings_footer_font_color": "",
+        "neonio_settings_container_type": "container",
+        "neonio_settings_fixed_heading": "yes",
+        "neonio_settings_fixed_header_background": "#ffffff",
+        "neonio_settings_header_color_hover": "#000000",
+        "neonio_settings_single_portfolio_image": "no",
+        "neonio_settings_portfolio_columns": 2,
+        "neonio_settings_single_portfolio_share": "no",
+        "neonio_settings_portfolio_style": "style_6",
+        "neonio_settings_categories_font_size": 12,
+        "neonio_settings_categories_font_color": "#353535",
+        "neonio_settings_logo_width": 180,
+        "neonio_action_button_size": 12,
+        "neonio_settings_footer_background": "#ffffff",
+        "neonio_settings_transparent": "no",
+        "neonio_settings_archive_portfolio_filter_enable": "yes",
+        "neonio_site_title_size": 24,
+        "neonio_settings_heading_sizes": "headings-scale-1-5",
+        "neonio_settings_portfolio_hover_option": "color",
+        "neonio_settings_single_portfolio_latest": "no",
+        "neonio_settings_single_portfolio_latest_portfolio_title": "no",
+        "neonio_settings_single_portfolio_latest_portfolio_title_label": "LATEST WORK",
+        "neonio_settings_single_portfolio_latest_portfolio_number": 3,
+        "neonio_settings_single_portfolio_latest_portfolio_title_size": "h4",
+        "neonio_settings_categories_filter_alignment": "flex-end",
+        "neonio_color_additional": "#ffffff",
+        "neonio_settings_link_color": "#686868",
+        "neonio_action_button_link": "/contact",
+        "neonio_color_accent": "#ffffff",
+        "neonio_color_button": "#000000",
+        "neonio_border_radius": 0,
+        "neonio_settings_menu_font_size": 14,
+        "neonio_settings_social_media_location": "footer",
+        "neonio_settings_social_media_style": "-square",
+        "neonio_settings_social_media_facebook": "",
+        "neonio_settings_social_media_instagram": "https://instagram.com",
+        "neonio_settings_social_media_linkedin": "https://linkedin.com",
+        "neonio_gallery_bg_color_settings": "#000000",
+        "neonio_ligtbox_icon_color_settings": "#ffffff",
+        "neonio_lightbox_icons_style_settings": "style_1",
+        "neonio_color_primary": "#686868",
+        "neonio_secondary_font_google": "Bodoni+Moda",
+        "neonio_secondary_font_website_title": "yes",
+        "neonio_secondary_font_headings": "yes",
+        "neonio_secondary_font_google_weight": "600",
+        "neonio_typography_settings_main_font": "Manrope",
+        "neonio_typography_settings_main_font_weight": 300,
+        "neonio_secondary_font_menu": "no",
+        "neonio_settings_header_background": "#ffffff",
+        "neonio_color_action": "#000000",
+        "neonio_secondary_font_color": "#000000",
+        "neonio_settings_hover_color": "#020202",
+        "neonio_secondary_font_portfolio_card_title": "yes",
+        "neonio_settings_portfolio_hover_color": "rgba(255,255,255,0.8)",
+        "neonio_settings_mobile_menu_icon_style": "style_3",
+        "neonio_settings_mobile_menu_width": "full-width",
+        "neonio_settings_mobile_font_size": 24
+    },
+    "custom_css": "h1 {\n\tline-height:1.1!important;\n}\n\n.header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}\n\nimg {\n\tfilter: grayscale(100%);\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [
+                "block-11"
+            ],
+            "right-sidebar": [
+                "block-2",
+                "block-3",
+                "block-4"
+            ],
+            "left-sidebar": [
+                "block-5",
+                "block-6"
+            ],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-8"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:search /-->"
+                },
+                "3": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+                },
+                "4": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+                },
+                "5": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+                },
+                "6": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+                },
+                "8": {
+                    "content": "<!-- wp:columns {\"isStackedOnMobile\":false} -->\n<div class=\"wp-block-columns is-not-stacked-on-mobile\"><!-- wp:column {\"width\":\"\"} -->\n<div class=\"wp-block-column\"><!-- wp:paragraph -->\n<p>MARKUS VEIL</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column {\"width\":\"40%\"} -->\n<div class=\"wp-block-column\" style=\"flex-basis:40%\"><!-- wp:paragraph {\"align\":\"right\",\"style\":{\"layout\":{\"selfStretch\":\"fit\",\"flexSize\":null}}} -->\n<p class=\"has-text-align-right\"><a href=\"mailto:markus@veil.com\">markus@veil.com</a></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "11": {
+                    "content": "<!-- wp:spacer {\"height\":\"3rem\"} -->\n<div style=\"height:3rem\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n<!-- /wp:spacer -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "4": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "5": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "6": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "8": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "11": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "6",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 3,
+            "secondary": 0
+        },
+        "menu_names": {
+            "primary": "main_menu"
+        }
+    }
+}

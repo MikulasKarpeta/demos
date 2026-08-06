@@ -1,0 +1,182 @@
+{
+    "export_info": {
+        "theme": "neonio",
+        "version": "1.0.5",
+        "export_date": "2026-08-06 10:58:16",
+        "site_url": "https://theresa.neonio.net",
+        "format_version": "1.0",
+        "exported_by": "Neonio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "0": false,
+        "nav_menu_locations": {
+            "primary": 2
+        },
+        "custom_css_post_id": 40,
+        "neonio_settings_color_background": "#f6f1ea",
+        "neonio_typography_settings_google_font": "Noto+Serif",
+        "neonio_settings_header_background": "",
+        "neonio_settings_font_color": "#a5a5a5",
+        "neonio_settings_header_color": "",
+        "neonio_secondary_font_google": "Cormorant+Garamond",
+        "neonio_secondary_font_menu": "no",
+        "neonio_color_additional": "#ffffff",
+        "neonio_color_primary": "#4a4039",
+        "neonio_settings_portfolio_card_image_border_radius": 0,
+        "neonio_settings_portfolio_style": "style_6",
+        "neonio_color_accent": "#8a7a6a",
+        "neonio_settings_portfolio_columns": 3,
+        "neonio_settings_categories_font_color": "#8a7a6a",
+        "neonio_settings_portfolio_hover_option": "zoom-2",
+        "neonio_secondary_font_portfolio_title": "yes",
+        "neonio_secondary_font_blog_card_title": "yes",
+        "neonio_secondary_font_portfolio_card_title": "yes",
+        "neonio_color_button": "#ffffff",
+        "neonio_border_radius": 50,
+        "neonio_typography_settings_main_font": "Inter",
+        "neonio_secondary_font_headings": "yes",
+        "neonio_site_title_size": 0,
+        "neonio_settings_menu_position": "right",
+        "neonio_settings_transparent": "no",
+        "neonio_settings_footer_container": "container",
+        "neonio_settings_footer_background": "",
+        "neonio_settings_social_media_location": "footer",
+        "neonio_settings_social_media_facebook": "",
+        "neonio_settings_social_media_instagram": "www.instagram.com",
+        "neonio_settings_social_media_twitter": "",
+        "neonio_settings_social_media_pinterest": "www.instagram.com",
+        "neonio_settings_social_media_style": "",
+        "neonio_settings_social_media_vimeo": "www.instagram.com",
+        "neonio_secondary_font_website_title": "yes",
+        "neonio_site_title_color": "",
+        "neonio_secondary_font_color": "#000000",
+        "neonio_settings_footer_font_color": "",
+        "neonio_color_action": "#474747",
+        "neonio_settings_categories_filter_alignment": "center",
+        "neonio_settings_portfolio_hover_color": "rgba(255,255,255,0.88)",
+        "neonio_secondary_font_post_title": "yes",
+        "neonio_typography_settings_main_font_weight": 300,
+        "neonio_settings_heading_sizes": "headings-scale-1-414",
+        "neonio_settings_menu_font_size": 16,
+        "neonio_secondary_font_google_weight": "400",
+        "neonio_settings_container_width": 1240,
+        "neonio_action_button_text": "Inquire",
+        "sidebars_widgets": {
+            "time": 1777987828,
+            "data": {
+                "wp_inactive_widgets": [],
+                "right-sidebar": [],
+                "left-sidebar": [],
+                "right-sidebar-blog": [],
+                "left-sidebar-blog": [],
+                "headerfull": [],
+                "footerfull": [
+                    "block-12"
+                ]
+            }
+        },
+        "neonio_settings_portfolio_type": "grid",
+        "neonio_settings_link_color": "#000000",
+        "neonio_settings_mobile_menu_width": "full-width",
+        "neonio_settings_mobile_menu_icon_style": "style_3",
+        "neonio_action_button_link": "/contact"
+    },
+    "custom_css": "/* contact form */\n\n.wpcf7-form label {\n\tletter-spacing:0.1rem;\n  color: var(--wp--preset--color--accent);\n  font-size: var(--wp--preset--font-size--small);\n}",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [],
+            "left-sidebar": [],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": [
+                "block-12"
+            ]
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "12": {
+                    "content": "<!-- wp:columns -->\n<div class=\"wp-block-columns\"><!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:heading {\"textAlign\":\"left\",\"level\":5,\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|accent\"}}}},\"textColor\":\"accent\"} -->\n<h5 class=\"wp-block-heading has-text-align-left has-accent-color has-text-color has-link-color\">Theresa</h5>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><em>Wedding Photography for the Quietly Unforgettable.</em></p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"></div>\n<!-- /wp:column -->\n\n<!-- wp:column -->\n<div class=\"wp-block-column\"><!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><a href=\"mailto:hello@christinemarlowe.com\">hello@christinemarlowe.com</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\"><a href=\"tel:+15032148860\">+1 (503) 214 8860</a></p>\n<!-- /wp:paragraph -->\n\n<!-- wp:paragraph {\"fontSize\":\"small\"} -->\n<p class=\"has-small-font-size\">Based in Tuscany \u2014 Available for travel worldwide</p>\n<!-- /wp:paragraph --></div>\n<!-- /wp:column --></div>\n<!-- /wp:columns -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "12": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "35",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 2
+        },
+        "menu_names": {
+            "primary": "main_menu"
+        }
+    }
+}
