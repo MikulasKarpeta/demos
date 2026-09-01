@@ -2,8 +2,8 @@
     "export_info": {
         "theme": "neonio",
         "version": "1.0.5",
-        "export_date": "2026-08-06 11:01:24",
-        "site_url": "https://elera.neonio.net",
+        "export_date": "2026-09-01 13:52:51",
+        "site_url": "http://elera-demo.neonio.net",
         "format_version": "1.0",
         "exported_by": "Neonio Portfolio Plugin"
     },
@@ -46,7 +46,7 @@
         "neonio_color_additional": "#f2f2f2",
         "neonio_settings_portfolio_hover_option": "zoom-2"
     },
-    "custom_css": ".header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}\n\n.content-area {\n\tpadding-top:0;\n}",
+    "custom_css": "\n/* remove top padding of content */\n\n.content-area {\n\tpadding-top:0;\n}\n\n.header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}\n",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [],

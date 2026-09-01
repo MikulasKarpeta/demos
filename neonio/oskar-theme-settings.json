@@ -2,8 +2,8 @@
     "export_info": {
         "theme": "neonio",
         "version": "1.0.5",
-        "export_date": "2026-08-06 10:57:38",
-        "site_url": "https://oskar.neonio.net",
+        "export_date": "2026-09-01 13:22:06",
+        "site_url": "http://oskar-demo.neonio.net",
         "format_version": "1.0",
         "exported_by": "Neonio Portfolio Plugin"
     },
@@ -43,7 +43,7 @@
         "neonio_settings_archive_portfolio_filter_enable": "yes",
         "neonio_site_title_size": 24,
         "neonio_settings_heading_sizes": "headings-scale-1-5",
-        "neonio_settings_portfolio_hover_option": "color",
+        "neonio_settings_portfolio_hover_option": "grayscale-color",
         "neonio_settings_single_portfolio_latest": "no",
         "neonio_settings_single_portfolio_latest_portfolio_title": "no",
         "neonio_settings_single_portfolio_latest_portfolio_title_label": "LATEST WORK",
@@ -83,7 +83,7 @@
         "neonio_settings_mobile_menu_width": "full-width",
         "neonio_settings_mobile_font_size": 24
     },
-    "custom_css": "h1 {\n\tline-height:1.1!important;\n}\n\n.header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}\n\nimg {\n\tfilter: grayscale(100%);\n}",
+    "custom_css": "h1 {\n\tline-height:1.1!important;\n}\n\n.header__action-button {\n\tfont-weight: 700;\n\tletter-spacing: 0.05rem;\n}\n\n.category-label {\n\tletter-spacing:0.1rem;\n}",
     "widgets": {
         "sidebars_widgets": {
             "wp_inactive_widgets": [
