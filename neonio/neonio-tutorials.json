@@ -1,0 +1,86 @@
+{
+  "tutorials": [
+    {
+      "id": "how-to-import-a-demo",
+      "name": "How to Import a Demo",
+      "description": "",
+      "url": "https://neonio.net/tutorials/how-to-import-a-demo/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-importing-demos.webp",
+      "category": "theme options",
+      "videoUrl": "1221077849"
+    },
+    {
+      "id": "setting-up-the-portfolio-page",
+      "name": "Setting up the Portfolio Page and Single Portfolios",
+      "description": "",
+      "url": "https://neonio.net/tutorials/setting-up-the-portfolio-page/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-portfolios.webp",
+      "category": "theme options",
+      "videoUrl": "1221077924"
+    },
+    {
+      "id": "adding-a-gallery-and-adjusting-ligthbox",
+      "name": "Adding a Gallery and Adjusting Ligthbox",
+      "description": "",
+      "url": "https://neonio.net/tutorials/adding-a-gallery-and-adjusting-ligthbox/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-galleries.webp",
+      "category": "theme options",
+      "videoUrl": "1221077850"
+    },
+    {
+      "id": "theme-layout-background-and-colors",
+      "name": "Theme Layout, Background and Colors",
+      "description": "",
+      "url": "https://neonio.net/tutorials/theme-layout-background-and-colors/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-layout-background.webp",
+      "category": "theme options",
+      "videoUrl": "1221077848"
+    },
+    {
+      "id": "typography-google-fonts-responsive-headings",
+      "name": "Typography, Google fonts, Responsive Headings",
+      "description": "",
+      "url": "https://neonio.net/tutorials/typography-google-fonts-responsive-headings/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-typography.webp",
+      "category": "theme options",
+      "videoUrl": "1221077947"
+    },
+    {
+      "id": "header-social-media-icons",
+      "name": "Header & Social Media Icons",
+      "description": "",
+      "url": "https://neonio.net/tutorials/header-social-media-icons/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-header.webp",
+      "category": "theme options",
+      "videoUrl": "1221077892"
+    },
+    {
+      "id": "mobile-menu",
+      "name": "Mobile Menu Adjustments",
+      "description": "",
+      "url": "https://neonio.net/tutorials/mobile-menu/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-mobile-menu.webp",
+      "category": "theme options",
+      "videoUrl": "1221077923"
+    },
+    {
+      "id": "how-to-install-the-theme-and-the-premium-plugin",
+      "name": "How to Install the Theme and the Premium Plugin",
+      "description": "",
+      "url": "https://neonio.net/tutorials/how-to-install-the-theme-and-the-premium-plugin/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-installation.webp",
+      "category": "beginners",
+      "videoUrl": "1222992469"
+    },
+    {
+      "id": "setting-up-the-blog-page",
+      "name": "Setting up the Blog Page",
+      "description": "",
+      "url": "https://neonio.net/tutorials/setting-up-the-blog-page/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-blog.webp",
+      "category": "theme options",
+      "videoUrl": "1221077847"
+    }
+  ],
+  "last_updated": "2026-09-01T00:00:00Z"
+}
