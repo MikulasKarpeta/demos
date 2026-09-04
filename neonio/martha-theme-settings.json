@@ -1,0 +1,177 @@
+{
+    "export_info": {
+        "theme": "neonio",
+        "version": "1.0.5",
+        "export_date": "2026-09-04 12:16:48",
+        "site_url": "http://martha-demo.neonio.net",
+        "format_version": "1.0",
+        "exported_by": "Neonio Portfolio Plugin"
+    },
+    "theme_mods": {
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "neonio_settings_transparent": "home",
+        "neonio_settings_header_container_type": "container-fluid",
+        "neonio_color_accent": "#4f4f4f",
+        "neonio_color_button": "#ffffff",
+        "neonio_settings_categories_filter_alignment": "center",
+        "neonio_settings_color_background": "#020202",
+        "neonio_settings_container_width": 1440,
+        "neonio_settings_archive_portfolio_filter_enable": "no",
+        "neonio_settings_post_card_image_aspect_ratio": "16-9",
+        "neonio_settings_portfolio_style": "style_4",
+        "neonio_settings_portfolio_hover_option": "video-card",
+        "neonio_settings_portfolio_hover_color": "rgba(0,0,0,0.22)",
+        "neonio_settings_single_portfolio_navigation": "yes",
+        "neonio_settings_social_media_vimeo": "https://vimeo.com",
+        "neonio_settings_social_media_location": "both",
+        "neonio_action_button_link": "https://martha.neonio.net/about/#contact",
+        "neonio_settings_mobile_menu_width": "full-width",
+        "neonio_settings_mobile_font_size": 24,
+        "neonio_settings_categories_font_color": "#b5b5b5",
+        "neonio_typography_settings_main_font": "Roboto",
+        "neonio_typography_settings_main_font_weight": 200,
+        "neonio_settings_link_color": "#ffffff",
+        "custom_css_post_id": -1
+    },
+    "custom_css": "",
+    "widgets": {
+        "sidebars_widgets": {
+            "wp_inactive_widgets": [],
+            "right-sidebar": [
+                "block-2",
+                "block-3",
+                "block-4"
+            ],
+            "left-sidebar": [
+                "block-5",
+                "block-6"
+            ],
+            "right-sidebar-blog": [],
+            "left-sidebar-blog": [],
+            "headerfull": [],
+            "footerfull": []
+        },
+        "widget_content": {
+            "pages": {
+                "_multiwidget": 1
+            },
+            "calendar": {
+                "_multiwidget": 1
+            },
+            "archives": {
+                "_multiwidget": 1
+            },
+            "media_audio": {
+                "_multiwidget": 1
+            },
+            "media_image": {
+                "_multiwidget": 1
+            },
+            "media_gallery": {
+                "_multiwidget": 1
+            },
+            "media_video": {
+                "_multiwidget": 1
+            },
+            "search": {
+                "_multiwidget": 1
+            },
+            "text": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "categories": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "recent-posts": {
+                "_multiwidget": 1
+            },
+            "recent-comments": {
+                "_multiwidget": 1
+            },
+            "rss": {
+                "1": [],
+                "_multiwidget": 1
+            },
+            "tag_cloud": {
+                "_multiwidget": 1
+            },
+            "nav_menu": {
+                "_multiwidget": 1
+            },
+            "custom_html": {
+                "_multiwidget": 1
+            },
+            "block": {
+                "2": {
+                    "content": "<!-- wp:search /-->"
+                },
+                "3": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Posts</h2><!-- /wp:heading --><!-- wp:latest-posts /--></div><!-- /wp:group -->"
+                },
+                "4": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Recent Comments</h2><!-- /wp:heading --><!-- wp:latest-comments {\"displayAvatar\":false,\"displayDate\":false,\"displayExcerpt\":false} /--></div><!-- /wp:group -->"
+                },
+                "5": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Archives</h2><!-- /wp:heading --><!-- wp:archives /--></div><!-- /wp:group -->"
+                },
+                "6": {
+                    "content": "<!-- wp:group --><div class=\"wp-block-group\"><!-- wp:heading --><h2>Categories</h2><!-- /wp:heading --><!-- wp:categories /--></div><!-- /wp:group -->"
+                },
+                "_multiwidget": 1
+            }
+        },
+        "widget_metadata": {
+            "block": {
+                "2": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "3": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "4": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "5": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                },
+                "6": {
+                    "type": "block",
+                    "title": "",
+                    "content_preview": "",
+                    "unique_identifier": ""
+                }
+            }
+        }
+    },
+    "front_page": {
+        "show_on_front": "page",
+        "page_on_front": "123",
+        "page_for_posts": "0",
+        "front_page_title": "Home",
+        "posts_page_title": null
+    },
+    "menus": {
+        "nav_menu_locations": {
+            "primary": 5
+        },
+        "menu_names": {
+            "primary": "main"
+        }
+    }
+}

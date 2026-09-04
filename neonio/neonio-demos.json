@@ -47,6 +47,22 @@
       "preview_url": "https://elera.neonio.net",
       "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/elera-wp-content.xml",
       "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/elera-theme-settings.json"
+    },
+    {
+      "id": "martha",
+      "name": "Martha",
+      "image": "https://minimalio.sirv.com/Images/martha-neonio.webp",
+      "preview_url": "https://martha.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/martha-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/martha-theme-settings.json"
+    },
+    {
+      "id": "alexandre",
+      "name": "Alexandre",
+      "image": "https://minimalio.sirv.com/Images/alexandre-neonio.webp",
+      "preview_url": "https://alexandre.neonio.net",
+      "content_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/alexandre-wp-content.xml",
+      "settings_url": "https://raw.githubusercontent.com/MikulasKarpeta/demos/main/neonio/alexandre-theme-settings.json"
     }
   ],
   "last_updated": "2025-06-26T10:00:00Z"
