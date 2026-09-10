@@ -80,6 +80,51 @@
       "image": "https://minimalio.sirv.com/Images/neonio-tutorial-blog.webp",
       "category": "theme options",
       "videoUrl": "1221077847"
+    },
+    {
+      "id": "beginner-gutenberg-editor",
+      "name": "Beginner Gutenberg Editor",
+      "description": "",
+      "url": "https://neonio.net/tutorials/gutenberg-editor-for-beginners/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-gutenberg.webp",
+      "category": "content",
+      "videoUrl": "1223688540"
+    },
+    {
+      "id": "advanced-gutenberg-editor",
+      "name": "Advanced Gutenberg Editor",
+      "description": "",
+      "url": "https://neonio.net/tutorials/advanced-gutenberg-editor/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-advanced-gutenberg.webp",
+      "category": "content",
+      "videoUrl": "1224925217"
+    },
+    {
+      "id": "contact-forms",
+      "name": "Contact Forms",
+      "description": "",
+      "url": "https://neonio.net/tutorials/contact-forms/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-contact-forms.webp",
+      "category": "content",
+      "videoUrl": "1224925372"
+    },
+    {
+      "id": "security-and-backup",
+      "name": "Security and Backup",
+      "description": "",
+      "url": "https://neonio.net/tutorials/wordpress-security-and-backup/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-security.webp",
+      "category": "beginners",
+      "videoUrl": "1224925407"
+    },
+    {
+      "id": "wordpress-basics",
+      "name": "WordPress Basics",
+      "description": "",
+      "url": "https://neonio.net/tutorials/basics-of-wordpress/",
+      "image": "https://minimalio.sirv.com/Images/neonio-tutorial-wp-basics.webp",
+      "category": "beginners",
+      "videoUrl": "1223687804"
     }
   ],
   "last_updated": "2026-09-01T00:00:00Z"
