@@ -29,7 +29,7 @@
 	<title>Lucas</title>
 	<link>http://lucas-demo.neonio.net</link>
 	<description></description>
-	<pubDate>Tue, 01 Sep 2026 13:03:52 +0000</pubDate>
+	<pubDate>Thu, 10 Sep 2026 12:17:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://lucas-demo.neonio.net</wp:base_site_url>
@@ -168,8 +168,8 @@
 <!-- /wp:spacer -->
 
 <!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"100%","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60","left":"var:preset|spacing|60","right":"var:preset|spacing|60"}}},"backgroundColor":"additional"} -->
-<div class="wp-block-column has-additional-background-color has-background" style="padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--60);flex-basis:100%"><!-- wp:shortcode -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"backgroundColor":"additional"} -->
+<div class="wp-block-column has-additional-background-color has-background" style="padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40);flex-basis:100%"><!-- wp:shortcode -->
 [contact-form-7 id="3725163" title="Contact form 1"]
 <!-- /wp:shortcode --></div>
 <!-- /wp:column --></div>
@@ -226,8 +226,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2026-04-24 09:34:09]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-04-24 09:34:09]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-19 12:18:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-19 12:18:19]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-10 12:16:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-10 12:16:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact]]></wp:post_name>
@@ -906,8 +906,8 @@
 		<dc:creator><![CDATA[MikulasKarpeta]]></dc:creator>
 		<guid isPermaLink="false">http://neonio1.mikulaskarpeta.net/?page_id=6</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://lucas-demo.neonio.net/domains/lucas-demo.neonio.net/domains/lucas.neonio.net/wp-content/uploads/2026/05/scifi.mp4","id":525,"dimRatio":50,"overlayColor":"black","isUserOverlayColor":true,"backgroundType":"video","isDark":false,"sizeSlug":"full","align":"full","className":"custom_title_box","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull is-light custom_title_box" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><video class="wp-block-cover__video-background intrinsic-ignore" autoplay muted loop playsinline src="http://lucas-demo.neonio.net/domains/lucas-demo.neonio.net/domains/lucas.neonio.net/wp-content/uploads/2026/05/scifi.mp4" data-object-fit="cover"></video><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://lucas-demo.neonio.net/wp-content/uploads/2026/05/scifi.mp4","id":525,"dimRatio":50,"overlayColor":"black","isUserOverlayColor":true,"backgroundType":"video","isDark":false,"sizeSlug":"full","align":"full","className":"custom_title_box","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull is-light custom_title_box" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><video class="wp-block-cover__video-background intrinsic-ignore" autoplay muted loop playsinline src="http://lucas-demo.neonio.net/wp-content/uploads/2026/05/scifi.mp4" data-object-fit="cover"></video><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignwide"><!-- wp:fsb/flexible-spacer {"heightLg":"10rem","heightMd":"8rem","heightSm":"8rem"} -->
 <div aria-hidden="true" class="wp-block-fsb-flexible-spacer fsb-flexible-spacer"><div class="fsb-flexible-spacer__device fsb-flexible-spacer__device--lg" style="height:10rem"></div><div class="fsb-flexible-spacer__device fsb-flexible-spacer__device--md" style="height:8rem"></div><div class="fsb-flexible-spacer__device fsb-flexible-spacer__device--sm" style="height:8rem"></div></div>
 <!-- /wp:fsb/flexible-spacer -->
@@ -1091,8 +1091,8 @@
 		<wp:post_id>285</wp:post_id>
 		<wp:post_date><![CDATA[2026-04-24 09:31:27]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-04-24 09:31:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-06-19 12:34:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-06-19 12:34:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-10 12:17:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-10 12:17:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[theme-preview]]></wp:post_name>
